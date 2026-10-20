@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "reason": "resume_after_logged_remote_disconnection_with_68_accepted_jobs",
+  "source_run": "artifacts/post_review/external_agents/final/react_continuation_3",
+  "chunks": [
+    {"offset": 44, "count": 13},
+    {"offset": 63, "count": 13},
+    {"offset": 86, "count": 9},
+    {"offset": 103, "count": 7}
+  ]
+}

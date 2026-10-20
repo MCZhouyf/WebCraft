@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "reason": "non_rate_limit_worker_exit_after_thirteen_accepted_episodes_in_continuation_5",
+  "source_run": "artifacts/post_review/external_agents/final/direct_llm_continuation_5",
+  "chunks": [
+    {
+      "offset": 18,
+      "count": 10
+    },
+    {
+      "offset": 35,
+      "count": 10
+    },
+    {
+      "offset": 48,
+      "count": 8
+    },
+    {
+      "offset": 73,
+      "count": 5
+    },
+    {
+      "offset": 81,
+      "count": 3
+    },
+    {
+      "offset": 101,
+      "count": 9
+    }
+  ]
+}

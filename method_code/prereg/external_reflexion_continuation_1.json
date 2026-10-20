@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "reason": "resume_after_http_402_with_49_accepted_reflexion_jobs",
+  "source_run": "artifacts/post_review/external_agents/final/reflexion",
+  "chunks": [
+    {"offset": 10, "count": 12},
+    {"offset": 27, "count": 17},
+    {"offset": 54, "count": 12},
+    {"offset": 78, "count": 10}
+  ]
+}

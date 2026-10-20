@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "reason": "simultaneous_url_errors_after_two_accepted_episodes_in_react_continuation_1",
+  "source_run": "artifacts/post_review/external_agents/final/react_continuation_1",
+  "chunks": [
+    {
+      "offset": 4,
+      "count": 15
+    },
+    {
+      "offset": 21,
+      "count": 17
+    },
+    {
+      "offset": 39,
+      "count": 18
+    },
+    {
+      "offset": 57,
+      "count": 19
+    },
+    {
+      "offset": 79,
+      "count": 16
+    },
+    {
+      "offset": 97,
+      "count": 13
+    }
+  ]
+}

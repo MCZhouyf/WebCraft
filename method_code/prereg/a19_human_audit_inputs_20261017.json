@@ -1,0 +1,61 @@
+{
+  "bootstrap_not_requested": true,
+  "cds_validation_rows": 30,
+  "created_at_client": "2026-10-17T05:11:31.205513-07:00",
+  "created_at_utc": "2026-10-17T12:11:31.205513+00:00",
+  "inputs": {
+    "cds_revision": {
+      "path": "/root/autodl-tmp/audit_sheet_cds_v3.csv",
+      "sha256": "585ded6276ba3e19cca19b323e9d2fd08f747b027060010838b64e2193d230ed"
+    },
+    "cds_template": {
+      "path": "/root/autodl-tmp/arbiter/reports/main/post_review/human_audit_v3b/audit_sheet_cds_v3.csv",
+      "sha256": "8dfdfebb178fd6692c1b8924a2937db3d6a528d26818ef322af3e6eb3f7f9cb0"
+    },
+    "idmap": {
+      "path": "/root/autodl-tmp/arbiter/reports/main/post_review/review_v13_audit/reexport_v2_private/audit_idmap.csv",
+      "sha256": "8256f122ef262baff7323664fad12a45154950118b226a0dc41c0373688d88e1"
+    },
+    "main_revision": {
+      "path": "/root/autodl-tmp/audit_sheet_v3b.csv",
+      "sha256": "5f52d11e2e980ddfaf2f7e3bc3d19208d68cc3286a04b43e08920803f0eccdde"
+    },
+    "main_template": {
+      "path": "/root/autodl-tmp/arbiter/reports/main/post_review/human_audit_v3/audit_sheet_v3.csv",
+      "sha256": "cef77a35488902a898233cf18ddca9dee525284e7d94c73292c4ef8a40ea2d67"
+    },
+    "main_v3": {
+      "path": "/root/autodl-tmp/audit_sheet_v3.csv",
+      "sha256": "009755752dd9683ffd3ad8183924737d5507d0d74ffa7188499e073aa872aa8b"
+    },
+    "revision_template": {
+      "path": "/root/autodl-tmp/arbiter/reports/main/post_review/human_audit_v3b/audit_sheet_v3b.csv",
+      "sha256": "acfbeed5305003da576114a34c2638bab1652a4bb1219dae8af99183713b83e2"
+    },
+    "sample_manifest": {
+      "path": "/root/autodl-tmp/arbiter/reports/main/post_review/human_audit_v3/archive/sample_manifest.json",
+      "sha256": "3028741122ecf9193e37aadce45f6e97a7287c6057b9de2609d38d67e286d0ef"
+    },
+    "sample_mapping": {
+      "path": "/root/autodl-tmp/arbiter/reports/main/post_review/human_audit_v3/archive/v3_v2_mapping.csv",
+      "sha256": "5f1baefd7ad81f8a992ca0b9740b6a0b1fdcaeb738fdba336bfc68d7d227e053"
+    },
+    "sampling_history": {
+      "path": "/root/autodl-tmp/arbiter/reports/main/post_review/review_v13_audit/reexport_v2_diagnostics/step0_window_contacts.json",
+      "sha256": "a697895e69c27e9ed586a9338b14f9b2c758b8030bb30df37ab84e4993770f9b"
+    },
+    "server_lock": {
+      "path": "/root/autodl-tmp/server.lock",
+      "sha256": "ad452fde41147e505be71995e74dfb323efd8f85b3eb6096348dd3b53eaa65b8"
+    },
+    "validator": {
+      "path": "/root/autodl-tmp/arbiter/scripts/validate_v3b.py",
+      "sha256": "187f34dbc63fa6299054a46e21167efdcce38d0daba23da3d5e6b1bf4a103f0c"
+    }
+  },
+  "llm_calls": 0,
+  "main_episodes": 80,
+  "new_episodes": 0,
+  "revision_rows": 37,
+  "scorer_key_read": false
+}

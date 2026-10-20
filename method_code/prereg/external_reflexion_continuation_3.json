@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "reason": "resume_after_provider_wide_transport_outage_with_85_accepted_reflexion_jobs",
+  "source_run": "artifacts/post_review/external_agents/final/reflexion_continuation_1",
+  "chunks": [
+    {"offset": 20, "count": 2},
+    {"offset": 41, "count": 3},
+    {"offset": 60, "count": 6},
+    {"offset": 84, "count": 4}
+  ]
+}

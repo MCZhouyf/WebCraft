@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "reason": "author_requested_adaptive_rate_limit_backoff_after_forty_six_accepted_episodes",
+  "source_run": "artifacts/post_review/external_agents/final/react_continuation_2",
+  "chunks": [
+    {
+      "offset": 41,
+      "count": 16
+    },
+    {
+      "offset": 60,
+      "count": 16
+    },
+    {
+      "offset": 84,
+      "count": 11
+    },
+    {
+      "offset": 101,
+      "count": 9
+    }
+  ]
+}

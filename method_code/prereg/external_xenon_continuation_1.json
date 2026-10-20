@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "reason": "exact_missing_intervals_after_xenon_rate_limit_retry_cap",
+  "source_run": "artifacts/post_review/external_agents/final/xenon",
+  "chunks": [
+    {"offset": 7, "count": 12},
+    {"offset": 23, "count": 15},
+    {"offset": 51, "count": 6},
+    {"offset": 63, "count": 13},
+    {"offset": 82, "count": 13}
+  ]
+}

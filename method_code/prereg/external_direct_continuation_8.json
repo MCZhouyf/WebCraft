@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "reason": "non_rate_limit_gateway_error_after_twenty_nine_accepted_episodes_in_continuation_7",
+  "source_run": "artifacts/post_review/external_agents/final/direct_llm_continuation_7",
+  "chunks": [
+    {
+      "offset": 27,
+      "count": 1
+    },
+    {
+      "offset": 106,
+      "count": 4
+    }
+  ]
+}

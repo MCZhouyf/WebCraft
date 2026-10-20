@@ -1,0 +1,89 @@
+{
+  "a18_input_lock_sha256": "08b3e2b53cb6b4aad445d0696416ddb2645f8420ab12595b19f70a32c74a33be",
+  "gpu_admission_snapshot": "0, NVIDIA GeForce RTX 3080 Ti, 12288 MiB, 1 MiB, 11912 MiB",
+  "metadata": {
+    "config.json": "e73c3664ca09b10a673fef0c22e8a6b456201d49bd4713c9691f775720e8857a",
+    "generation_config.json": "2325da0f15bb848e018c5ae071b7943332e9f871d6b60e2ed22ca97d4cb993d2",
+    "merges.txt": "8831e4f1a044471340f7c0a83d7bd71306a5b867e95fd870f74d0c5308a904d5",
+    "model.safetensors.index.json": "62d7ad35757bae5e7baa452cb1483178b7daa50e869e923226b8da10871f7ebc",
+    "tokenizer.json": "aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4",
+    "tokenizer_config.json": "d5d09f07b48c3086c508b30d1c9114bd1189145b74e982a265350c923acd8101",
+    "vocab.json": "ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910"
+  },
+  "model": "Qwen/Qwen3-14B",
+  "model_calls": 0,
+  "packages": {
+    "accelerate": "1.7.0",
+    "bitsandbytes": "0.45.5",
+    "safetensors": "0.5.3",
+    "tokenizers": "0.21.4",
+    "torch": "2.1.2+cu121",
+    "transformers": "4.51.3"
+  },
+  "quantization": "NF4_double_quant_BF16",
+  "revision": "40c069824f4251a91eefaf281ebe4c544efd3e18",
+  "snapshot": "/root/autodl-tmp/schema2weights/rq07/hf/hub/models--Qwen--Qwen3-14B/snapshots/40c069824f4251a91eefaf281ebe4c544efd3e18",
+  "vendor_files": {
+    "interegular/__init__.py": "4e69d230b8c29d2c702582fdc8d5beeb9a9a66e870b828dfad1db4797aeade94",
+    "interegular/comparator.py": "b579bb7fa9f818f6d9ae5ebdb2f011fe7f897b0c307b52678d9366d6daf51c7c",
+    "interegular/fsm.py": "083f9c66aea90777e909c7336c6e7eff8b146c8c9df9aeb6c6630acac80141ac",
+    "interegular/patterns.py": "bdfd7e6e48cd89c57d92d945ba3060f79acfa7de43032a450de5aa3de6a65d16",
+    "interegular/utils/__init__.py": "728eb1727abb0a0599e922cfdf4e53a12b4bb24cabdd1dcdc5851f88eab7ede4",
+    "interegular/utils/simple_parser.py": "1be091b0a2a67a437923d148f20dfb6e5d5abfd684485a3225398a08e207bb34",
+    "lmformatenforcer/__init__.py": "5509725f208ad470b86a7dfd84511d5fd85a7b9be8775c18f438c74d59c95023",
+    "lmformatenforcer/analyzer.py": "ad0707bc3d4bd8187ab8e48c49fbd0a49ba06a2a5e71403e6d6c7933b7afcd95",
+    "lmformatenforcer/characterlevelparser.py": "3e8e1773a2ed3078e9ab44f3aacb438f9529e6fd03bee37684fc0c40a51cab0a",
+    "lmformatenforcer/consts.py": "a021a8369cb5fe2acfa38238b80fcbbde47b3ed7ed77c7680eb688c9d8f461b7",
+    "lmformatenforcer/exceptions.py": "a09b8485a1b069ac2d80650b85348bfa69d554d897b9a042fd436587a3047d7f",
+    "lmformatenforcer/external/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "lmformatenforcer/external/jsonschemaobject.py": "5d3d42f93f0cb46cee766fa11b95358ac4687cb90f3e8039700d598ea62bedcb",
+    "lmformatenforcer/external/jsonschemaobjectutil.py": "dd6d0856b5034ba934c9da7e361775ca642b0e2e057b778ef27697fa8db4ce5d",
+    "lmformatenforcer/integrations/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "lmformatenforcer/integrations/exllamav2.py": "c77ec6ddf902fb5c5971c26f175cbb4de380fb492f84a5aa2c9cacea73fb5eb6",
+    "lmformatenforcer/integrations/haystackv1.py": "599e3789e6def076a0dc9de77403df4607f177e256c61155a1436f8c0e3ce5a8",
+    "lmformatenforcer/integrations/haystackv2.py": "60b92069d8252b877431fdbe8098785252620a1668b883e32b1936858a80abba",
+    "lmformatenforcer/integrations/llamacpp.py": "d9a13a2c1c026b9b92d5b57f6b7f05b4970af27906b173096c20ee578e33537f",
+    "lmformatenforcer/integrations/transformers.py": "07fa6f13d210d5c926216e467011cb110e08298bcaa2408464a389843a6d360e",
+    "lmformatenforcer/integrations/trtllm.py": "aa7e299380df4a77824a325bc109f86b98b34eaf9db5b80bd388717e01b7ce07",
+    "lmformatenforcer/integrations/vllm.py": "29037ba0d442e64ff9c3d468841e6fc49bb704b7700422a63275f4760de1a452",
+    "lmformatenforcer/jsonschemaparser.py": "6bc4a8a10621c6d38d70ebb5ae1dc21aaa98c0454a2e80be1896586f10dccf94",
+    "lmformatenforcer/regexparser.py": "6283d2a307259837ba33861b05a6dfde29b6c00c94ab3a4a9105c010c60c9c44",
+    "lmformatenforcer/tokenenforcer.py": "1ec82ff410cdafb89b5d9455cef15d6dc4c9741b439f35752f3f5ed289990d91",
+    "lmformatenforcer/tokenizerprefixtree.py": "7ac7275143ffc775902e2318cd5d16f94e672c16c541c62b380bee3f1975157e",
+    "lmformatenforcer/tokenlist.py": "2182268af0c2835fb581eba8ea8834cd7ab014fbac89a30feaa747ff658dc6f6"
+  },
+  "weights": {
+    "model-00001-of-00008.safetensors": {
+      "bytes": 3841788544,
+      "sha256": "e942bdbdf08857d16a8fef7d1dae9fceabeb4e84def6043485fe2f6f085dab0e"
+    },
+    "model-00002-of-00008.safetensors": {
+      "bytes": 3963750816,
+      "sha256": "f7c9c6eee628f5ad831d2d1d292e120505e5fcadeb38f88b4d3c4cb86306ccf9"
+    },
+    "model-00003-of-00008.safetensors": {
+      "bytes": 3963750880,
+      "sha256": "dfb8c5df9404b41ad6ae74e8b6b367135f017b4467b884cf71b17c71954f18a9"
+    },
+    "model-00004-of-00008.safetensors": {
+      "bytes": 3963750880,
+      "sha256": "eab286fec759e3e59ab228621aefa0fef14ed56039e06f959e67257d5af7604d"
+    },
+    "model-00005-of-00008.safetensors": {
+      "bytes": 3963750880,
+      "sha256": "97f0dc2992e59da95c466eff6f4fd0c8335843bbc36ed5c913a6f5150748c0e6"
+    },
+    "model-00006-of-00008.safetensors": {
+      "bytes": 3963750880,
+      "sha256": "9e8e76a013cd5e253865b792991e0b410f869b136b3c500079b531b09198e99e"
+    },
+    "model-00007-of-00008.safetensors": {
+      "bytes": 3963750880,
+      "sha256": "0aee70ee6e91dc00d818804fb47f124d13ee4ad5b4a64553e09dbf9391cd5750"
+    },
+    "model-00008-of-00008.safetensors": {
+      "bytes": 1912371880,
+      "sha256": "0d6b92296e326d39bbbaeb32c3ec454ac606da843d4c8ffa8edf010b62b8c9e0"
+    }
+  }
+}

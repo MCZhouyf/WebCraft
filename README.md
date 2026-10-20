@@ -42,6 +42,13 @@ The included `corpus/indexes/formal*` and `corpus/claims_cache/` directories are
 derived public benchmark artifacts. Raw web snapshots, private audit files,
 credentials, server assets, generated reports, and release bundles are excluded.
 
+## Baseline and LLM agent source
+
+The implementation is now included in `method_code/`, with CP-RAG and VB-RAG
+dependencies in `scripts/`. See [method_code/PUBLIC_SOURCE.md](method_code/PUBLIC_SOURCE.md)
+for method locations, installation, offline tests, and historical-run limitations.
+No credentials, private run logs, or W19 results are included in this source addition.
+
 ## Scope
 
 This is a method-development and deterministic evaluation foundation, not a

@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "arbiter-agent"
+version = "0.1.0"
+description = "Interventional truth-discovery agent for WebCraft-Versions"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.24,<3",
+  "scipy>=1.10,<2",
+  "scikit-learn>=1.3,<2",
+  "pulp>=2.7,<4",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7,<9", "matplotlib>=3.7,<4", "pandas>=2,<3"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+

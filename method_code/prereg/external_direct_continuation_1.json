@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "reason": "non_429_URLError_after_eight_accepted_episodes",
+  "source_run": "artifacts/post_review/external_agents/final/direct_llm",
+  "chunks": [
+    {
+      "offset": 3,
+      "count": 25
+    },
+    {
+      "offset": 31,
+      "count": 25
+    },
+    {
+      "offset": 56,
+      "count": 28
+    },
+    {
+      "offset": 86,
+      "count": 24
+    }
+  ]
+}

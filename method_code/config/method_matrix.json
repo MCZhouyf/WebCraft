@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "shared_planner": "arbiter.agent.aggregation.shared_planner",
+  "methods": [
+    {
+      "name": "parametric",
+      "belief": "llm_prior_only",
+      "verification": "none",
+      "runtime": true
+    },
+    {
+      "name": "probe_then_parametric",
+      "belief": "llm_prior_only",
+      "verification": "all_plan_dependencies",
+      "runtime": true
+    },
+    {
+      "name": "naive_rag",
+      "belief": "top_k_latest_timestamp_first",
+      "verification": "none",
+      "runtime": true
+    },
+    {
+      "name": "majority_rag",
+      "belief": "top_k_majority_vote",
+      "verification": "none",
+      "runtime": true
+    },
+    {
+      "name": "truthfinder_rag",
+      "belief": "iterative_source_trust",
+      "verification": "none",
+      "runtime": true
+    },
+    {
+      "name": "verify_all",
+      "belief": "top_k_latest_timestamp_first",
+      "verification": "all_plan_dependencies",
+      "runtime": true
+    },
+    {
+      "name": "arbiter_shell_naive",
+      "belief": "top_k_latest_timestamp_first",
+      "verification": "none",
+      "runtime": true
+    },
+    {
+      "name": "arbiter",
+      "belief": "context_mixture_posterior",
+      "verification": "decision_voi",
+      "runtime": true
+    },
+    {
+      "name": "oracle",
+      "belief": "evaluator_only",
+      "verification": "none",
+      "runtime": false
+    }
+  ],
+  "optional": {
+    "name": "llm_direct",
+    "seeds": 1,
+    "minimum_remaining_budget": 30,
+    "enabled": true
+  }
+}

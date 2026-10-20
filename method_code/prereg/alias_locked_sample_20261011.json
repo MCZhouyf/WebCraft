@@ -1,0 +1,2637 @@
+{
+  "episodes": 57,
+  "jobs": [
+    {
+      "condition": "matched_1.16.5",
+      "instance_id": "matched_1.16.5|1.16.5|fea_008",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "golden_spear"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "fea_008",
+      "task_type": "feasibility",
+      "world": "1.16.5"
+    },
+    {
+      "condition": "matched_1.16.5",
+      "instance_id": "matched_1.16.5|1.16.5|fea_010",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "lodestone"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "fea_010",
+      "task_type": "feasibility",
+      "world": "1.16.5"
+    },
+    {
+      "condition": "matched_1.16.5",
+      "instance_id": "matched_1.16.5|1.16.5|pla_002",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "stone_spear"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "pla_002",
+      "task_type": "planning",
+      "world": "1.16.5"
+    },
+    {
+      "condition": "matched_1.16.5",
+      "instance_id": "matched_1.16.5|1.16.5|pla_004",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "blue_wool"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "pla_004",
+      "task_type": "planning",
+      "world": "1.16.5"
+    },
+    {
+      "condition": "matched_1.16.5",
+      "instance_id": "matched_1.16.5|1.16.5|pla_005",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "saddle"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "pla_005",
+      "task_type": "planning",
+      "world": "1.16.5"
+    },
+    {
+      "condition": "matched_1.16.5",
+      "instance_id": "matched_1.16.5|1.16.5|pla_006",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "white_harness"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "pla_006",
+      "task_type": "planning",
+      "world": "1.16.5"
+    },
+    {
+      "condition": "matched_1.16.5",
+      "instance_id": "matched_1.16.5|1.16.5|pla_012",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "gold_block"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "pla_012",
+      "task_type": "planning",
+      "world": "1.16.5"
+    },
+    {
+      "condition": "matched_1.19",
+      "instance_id": "matched_1.19|1.19|eff_001",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "activator_rail"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "eff_001",
+      "task_type": "efficiency",
+      "world": "1.19"
+    },
+    {
+      "condition": "matched_1.19",
+      "instance_id": "matched_1.19|1.19|eff_002",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "blast_furnace"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "eff_002",
+      "task_type": "efficiency",
+      "world": "1.19"
+    },
+    {
+      "condition": "matched_1.19",
+      "instance_id": "matched_1.19|1.19|eff_003",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "blue_carpet"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "eff_003",
+      "task_type": "efficiency",
+      "world": "1.19"
+    },
+    {
+      "condition": "matched_1.19",
+      "instance_id": "matched_1.19|1.19|eff_004",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "bucket"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "eff_004",
+      "task_type": "efficiency",
+      "world": "1.19"
+    },
+    {
+      "condition": "matched_1.19",
+      "instance_id": "matched_1.19|1.19|eff_005",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "cauldron"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "eff_005",
+      "task_type": "efficiency",
+      "world": "1.19"
+    },
+    {
+      "condition": "matched_1.19",
+      "instance_id": "matched_1.19|1.19|eff_006",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "iron_chain"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "eff_006",
+      "task_type": "efficiency",
+      "world": "1.19"
+    },
+    {
+      "condition": "matched_1.19",
+      "instance_id": "matched_1.19|1.19|eff_008",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "clock"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "eff_008",
+      "task_type": "efficiency",
+      "world": "1.19"
+    },
+    {
+      "condition": "matched_1.19",
+      "instance_id": "matched_1.19|1.19|fea_001",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "blue_harness"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "fea_001",
+      "task_type": "feasibility",
+      "world": "1.19"
+    },
+    {
+      "condition": "matched_1.19",
+      "instance_id": "matched_1.19|1.19|fea_003",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "chain"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "fea_003",
+      "task_type": "feasibility",
+      "world": "1.19"
+    },
+    {
+      "condition": "matched_1.19",
+      "instance_id": "matched_1.19|1.19|fea_004",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "chiseled_bookshelf"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "fea_004",
+      "task_type": "feasibility",
+      "world": "1.19"
+    },
+    {
+      "condition": "matched_1.19",
+      "instance_id": "matched_1.19|1.19|fea_005",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "crafter"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "fea_005",
+      "task_type": "feasibility",
+      "world": "1.19"
+    },
+    {
+      "condition": "matched_1.19",
+      "instance_id": "matched_1.19|1.19|fea_006",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "diamond_spear"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "fea_006",
+      "task_type": "feasibility",
+      "world": "1.19"
+    },
+    {
+      "condition": "matched_1.19",
+      "instance_id": "matched_1.19|1.19|fea_007",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "gold_ore"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "fea_007",
+      "task_type": "feasibility",
+      "world": "1.19"
+    },
+    {
+      "condition": "matched_1.19",
+      "instance_id": "matched_1.19|1.19|fea_008",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "golden_spear"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "fea_008",
+      "task_type": "feasibility",
+      "world": "1.19"
+    },
+    {
+      "condition": "matched_1.19",
+      "instance_id": "matched_1.19|1.19|fea_010",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "lodestone"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "fea_010",
+      "task_type": "feasibility",
+      "world": "1.19"
+    },
+    {
+      "condition": "matched_1.19",
+      "instance_id": "matched_1.19|1.19|pla_002",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "stone_spear"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "pla_002",
+      "task_type": "planning",
+      "world": "1.19"
+    },
+    {
+      "condition": "matched_1.19",
+      "instance_id": "matched_1.19|1.19|pla_004",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "blue_wool"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "pla_004",
+      "task_type": "planning",
+      "world": "1.19"
+    },
+    {
+      "condition": "matched_1.19",
+      "instance_id": "matched_1.19|1.19|pla_005",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "saddle"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "pla_005",
+      "task_type": "planning",
+      "world": "1.19"
+    },
+    {
+      "condition": "matched_1.19",
+      "instance_id": "matched_1.19|1.19|pla_006",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "white_harness"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "pla_006",
+      "task_type": "planning",
+      "world": "1.19"
+    },
+    {
+      "condition": "matched_1.21.11",
+      "instance_id": "matched_1.21.11|1.21.11|eff_001",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "activator_rail"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "eff_001",
+      "task_type": "efficiency",
+      "world": "1.21.11"
+    },
+    {
+      "condition": "matched_1.21.11",
+      "instance_id": "matched_1.21.11|1.21.11|eff_002",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "blast_furnace"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "eff_002",
+      "task_type": "efficiency",
+      "world": "1.21.11"
+    },
+    {
+      "condition": "matched_1.21.11",
+      "instance_id": "matched_1.21.11|1.21.11|eff_003",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "blue_carpet"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "eff_003",
+      "task_type": "efficiency",
+      "world": "1.21.11"
+    },
+    {
+      "condition": "matched_1.21.11",
+      "instance_id": "matched_1.21.11|1.21.11|eff_004",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "bucket"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "eff_004",
+      "task_type": "efficiency",
+      "world": "1.21.11"
+    },
+    {
+      "condition": "matched_1.21.11",
+      "instance_id": "matched_1.21.11|1.21.11|eff_005",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "cauldron"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "eff_005",
+      "task_type": "efficiency",
+      "world": "1.21.11"
+    },
+    {
+      "condition": "matched_1.21.11",
+      "instance_id": "matched_1.21.11|1.21.11|eff_006",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "iron_chain"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "eff_006",
+      "task_type": "efficiency",
+      "world": "1.21.11"
+    },
+    {
+      "condition": "matched_1.21.11",
+      "instance_id": "matched_1.21.11|1.21.11|eff_008",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "clock"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "eff_008",
+      "task_type": "efficiency",
+      "world": "1.21.11"
+    },
+    {
+      "condition": "matched_1.21.11",
+      "instance_id": "matched_1.21.11|1.21.11|fea_001",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "blue_harness"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "fea_001",
+      "task_type": "feasibility",
+      "world": "1.21.11"
+    },
+    {
+      "condition": "matched_1.21.11",
+      "instance_id": "matched_1.21.11|1.21.11|fea_003",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "chain"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "fea_003",
+      "task_type": "feasibility",
+      "world": "1.21.11"
+    },
+    {
+      "condition": "matched_1.21.11",
+      "instance_id": "matched_1.21.11|1.21.11|fea_004",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "chiseled_bookshelf"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "fea_004",
+      "task_type": "feasibility",
+      "world": "1.21.11"
+    },
+    {
+      "condition": "matched_1.21.11",
+      "instance_id": "matched_1.21.11|1.21.11|fea_005",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "crafter"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "fea_005",
+      "task_type": "feasibility",
+      "world": "1.21.11"
+    },
+    {
+      "condition": "matched_1.21.11",
+      "instance_id": "matched_1.21.11|1.21.11|fea_006",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "diamond_spear"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "fea_006",
+      "task_type": "feasibility",
+      "world": "1.21.11"
+    },
+    {
+      "condition": "matched_1.21.11",
+      "instance_id": "matched_1.21.11|1.21.11|fea_007",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "gold_ore"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "fea_007",
+      "task_type": "feasibility",
+      "world": "1.21.11"
+    },
+    {
+      "condition": "matched_1.21.11",
+      "instance_id": "matched_1.21.11|1.21.11|pla_004",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "blue_wool"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "pla_004",
+      "task_type": "planning",
+      "world": "1.21.11"
+    },
+    {
+      "condition": "matched_1.21.11",
+      "instance_id": "matched_1.21.11|1.21.11|pla_005",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "saddle"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "pla_005",
+      "task_type": "planning",
+      "world": "1.21.11"
+    },
+    {
+      "condition": "matched_1.21.11",
+      "instance_id": "matched_1.21.11|1.21.11|pla_006",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "white_harness"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "pla_006",
+      "task_type": "planning",
+      "world": "1.21.11"
+    },
+    {
+      "condition": "mismatched_new2old",
+      "instance_id": "mismatched_new2old|1.16.5|fea_005",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "crafter"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "fea_005",
+      "task_type": "feasibility",
+      "world": "1.16.5"
+    },
+    {
+      "condition": "mismatched_new2old",
+      "instance_id": "mismatched_new2old|1.16.5|fea_006",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "diamond_spear"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "fea_006",
+      "task_type": "feasibility",
+      "world": "1.16.5"
+    },
+    {
+      "condition": "mismatched_new2old",
+      "instance_id": "mismatched_new2old|1.16.5|fea_007",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "gold_ore"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "fea_007",
+      "task_type": "feasibility",
+      "world": "1.16.5"
+    },
+    {
+      "condition": "mismatched_new2old",
+      "instance_id": "mismatched_new2old|1.16.5|pla_006",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "white_harness"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "pla_006",
+      "task_type": "planning",
+      "world": "1.16.5"
+    },
+    {
+      "condition": "mismatched_new2old",
+      "instance_id": "mismatched_new2old|1.16.5|pla_007",
+      "method": "react",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "iron_spear"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "pla_007",
+      "task_type": "planning",
+      "world": "1.16.5"
+    },
+    {
+      "condition": "matched_1.16.5",
+      "instance_id": "matched_1.16.5|1.16.5|eff_001",
+      "method": "reflexion",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "activator_rail"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "eff_001",
+      "task_type": "efficiency",
+      "world": "1.16.5"
+    },
+    {
+      "condition": "matched_1.16.5",
+      "instance_id": "matched_1.16.5|1.16.5|eff_002",
+      "method": "reflexion",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "blast_furnace"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "eff_002",
+      "task_type": "efficiency",
+      "world": "1.16.5"
+    },
+    {
+      "condition": "matched_1.16.5",
+      "instance_id": "matched_1.16.5|1.16.5|eff_003",
+      "method": "reflexion",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "blue_carpet"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "eff_003",
+      "task_type": "efficiency",
+      "world": "1.16.5"
+    },
+    {
+      "condition": "matched_1.16.5",
+      "instance_id": "matched_1.16.5|1.16.5|eff_004",
+      "method": "reflexion",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "bucket"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "eff_004",
+      "task_type": "efficiency",
+      "world": "1.16.5"
+    },
+    {
+      "condition": "matched_1.16.5",
+      "instance_id": "matched_1.16.5|1.16.5|eff_005",
+      "method": "reflexion",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "cauldron"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "eff_005",
+      "task_type": "efficiency",
+      "world": "1.16.5"
+    },
+    {
+      "condition": "matched_1.16.5",
+      "instance_id": "matched_1.16.5|1.16.5|eff_006",
+      "method": "reflexion",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "iron_chain"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "eff_006",
+      "task_type": "efficiency",
+      "world": "1.16.5"
+    },
+    {
+      "condition": "matched_1.16.5",
+      "instance_id": "matched_1.16.5|1.16.5|eff_008",
+      "method": "reflexion",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "clock"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "eff_008",
+      "task_type": "efficiency",
+      "world": "1.16.5"
+    },
+    {
+      "condition": "matched_1.16.5",
+      "instance_id": "matched_1.16.5|1.16.5|fea_001",
+      "method": "reflexion",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "blue_harness"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "fea_001",
+      "task_type": "feasibility",
+      "world": "1.16.5"
+    },
+    {
+      "condition": "matched_1.16.5",
+      "instance_id": "matched_1.16.5|1.16.5|fea_003",
+      "method": "reflexion",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "chain"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "fea_003",
+      "task_type": "feasibility",
+      "world": "1.16.5"
+    },
+    {
+      "condition": "matched_1.16.5",
+      "instance_id": "matched_1.16.5|1.16.5|fea_004",
+      "method": "reflexion",
+      "public_task": {
+        "standard_items": [
+          {
+            "count": 8,
+            "name": "chiseled_stone_bricks"
+          },
+          {
+            "count": 2,
+            "name": "cobblestone"
+          },
+          {
+            "count": 8,
+            "name": "leather"
+          },
+          {
+            "count": 8,
+            "name": "paper"
+          },
+          {
+            "count": 2,
+            "name": "stick"
+          },
+          {
+            "count": 8,
+            "name": "string"
+          },
+          {
+            "count": 1,
+            "name": "wooden_pickaxe"
+          }
+        ],
+        "target": {
+          "count": 1,
+          "item": "chiseled_bookshelf"
+        },
+        "task_supplements": []
+      },
+      "seed": 20261006,
+      "task_id": "fea_004",
+      "task_type": "feasibility",
+      "world": "1.16.5"
+    }
+  ],
+  "methods": {
+    "react": 47,
+    "reflexion": 10
+  },
+  "requested_model": "glm-5.2",
+  "required_server_model_identifier": "glm-5.2",
+  "schema_version": 1,
+  "source_minority_identifier": "zai-org/GLM-5.2",
+  "source_public_sample_sha256": "d5e4e3e8ea652f8ce1d76e62abffd24f366fdf5ba04c6365e50e5b0082625d13",
+  "source_rerun_instances_sha256": "9b851191d3723ed208b297224d68e2ae1c3197fd8662e58de1d53501dfcd6b72"
+}

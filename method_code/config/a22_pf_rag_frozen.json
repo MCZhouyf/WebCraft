@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "method": "pf_rag",
+  "B": 1,
+  "fallback_enabled": false,
+  "episode_seeds": [20261020, 20261021],
+  "bootstrap_seed": 20261020,
+  "bootstrap_draws": 10000,
+  "python_hash_seed": "20261020",
+  "max_workers": 4,
+  "native_threads_per_worker": 1,
+  "development_source_manifest": "artifacts/post_review/a22_pf_rag/development/grid_fixedhash_20261020/manifest.json",
+  "development_source_manifest_sha256": "f0b397e2d754da55f7d44e4a0841dbbb07f0dcc2afdc7c96e28b77e280ee847e",
+  "development_selection": "artifacts/post_review/a22_pf_rag/development/grid_fixedhash_20261020/selection.json",
+  "preregistration": "prereg/a22_pf_rag_20261020.md",
+  "public_text_clarification": "prereg/a22_public_text_clarification_20261020.md",
+  "parallel_authorization": "prereg/a22_compute_parallel_authorization_20261020.md"
+}

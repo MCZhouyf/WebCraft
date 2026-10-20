@@ -1,0 +1,32 @@
+{
+  "segment": "conditions",
+  "jobs": [
+    {"method": "direct_llm", "offset": 59, "limit": 1},
+    {"method": "direct_llm", "offset": 60, "limit": 1},
+    {"method": "direct_llm", "offset": 61, "limit": 1},
+    {"method": "direct_llm", "offset": 62, "limit": 1},
+    {"method": "direct_llm", "offset": 63, "limit": 1},
+    {"method": "direct_llm", "offset": 123, "limit": 1},
+    {"method": "direct_llm", "offset": 124, "limit": 1},
+    {"method": "direct_llm", "offset": 125, "limit": 1},
+    {"method": "direct_llm", "offset": 126, "limit": 1},
+    {"method": "direct_llm", "offset": 127, "limit": 1},
+    {"method": "react", "offset": 82, "limit": 1},
+    {"method": "react", "offset": 83, "limit": 1},
+    {"method": "react", "offset": 84, "limit": 1},
+    {"method": "react", "offset": 85, "limit": 1},
+    {"method": "react", "offset": 86, "limit": 1},
+    {"method": "react", "offset": 87, "limit": 1},
+    {"method": "react", "offset": 106, "limit": 1},
+    {"method": "react", "offset": 107, "limit": 1},
+    {"method": "react", "offset": 108, "limit": 1},
+    {"method": "react", "offset": 109, "limit": 1},
+    {"method": "react", "offset": 110, "limit": 1},
+    {"method": "react", "offset": 111, "limit": 1},
+    {"method": "react", "offset": 127, "limit": 1},
+    {"method": "react", "offset": 128, "limit": 1},
+    {"method": "react", "offset": 129, "limit": 1},
+    {"method": "react", "offset": 130, "limit": 1},
+    {"method": "react", "offset": 131, "limit": 1}
+  ]
+}

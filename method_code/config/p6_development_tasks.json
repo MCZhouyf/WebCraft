@@ -1,0 +1,85 @@
+[
+  {
+    "conflict_ids": [
+      "cf_0cf08e1cf6803d3f",
+      "cf_3b4af3a40cc2a7de",
+      "cf_4d11bfa897f56045",
+      "cf_57ebd937febbf42a",
+      "cf_5cb0b2918f65d91e",
+      "cf_6cdbb1cfcbc9251d",
+      "cf_818aca3c1bd43d7a",
+      "cf_d339b1c87bc5802f",
+      "cf_d6b93a7ba9fddbc6",
+      "cf_f222b76ffee74fa3"
+    ],
+    "feasible": {"1.16.5": true, "1.19": true, "1.21.11": true},
+    "id": "eff_007",
+    "target": {"count": 1, "item": "chest_minecart"}
+  },
+  {
+    "conflict_ids": ["cf_c40cc17b8917d6bc"],
+    "feasible": {"1.16.5": false, "1.19": false, "1.21.11": true},
+    "id": "fea_002",
+    "target": {"count": 1, "item": "bundle"}
+  },
+  {
+    "conflict_ids": ["cf_0cf08e1cf6803d3f", "cf_818aca3c1bd43d7a"],
+    "feasible": {"1.16.5": true, "1.19": false, "1.21.11": false},
+    "id": "fea_009",
+    "target": {"count": 1, "item": "iron_ore"}
+  },
+  {
+    "conflict_ids": ["cf_47d540b09417920d"],
+    "feasible": {"1.16.5": false, "1.19": false, "1.21.11": true},
+    "id": "pla_001",
+    "target": {"count": 1, "item": "lead"}
+  },
+  {
+    "conflict_ids": ["cf_0d210ee00d1c6174"],
+    "feasible": {"1.16.5": false, "1.19": false, "1.21.11": true},
+    "id": "pla_003",
+    "target": {"count": 1, "item": "wooden_spear"}
+  },
+  {
+    "conflict_ids": [
+      "cf_6907e4f26c9f077c",
+      "cf_6cdbb1cfcbc9251d",
+      "cf_d339b1c87bc5802f"
+    ],
+    "feasible": {"1.16.5": false, "1.19": true, "1.21.11": true},
+    "id": "pla_008",
+    "target": {"count": 1, "item": "oak_chest_boat"}
+  },
+  {
+    "conflict_ids": [
+      "cf_0cf08e1cf6803d3f",
+      "cf_26b91529da7ae18a",
+      "cf_5cb0b2918f65d91e",
+      "cf_68bd292b30be0ef8",
+      "cf_818aca3c1bd43d7a",
+      "cf_b27645a8f5c5fd88",
+      "cf_d6b93a7ba9fddbc6",
+      "cf_f222b76ffee74fa3"
+    ],
+    "feasible": {"1.16.5": true, "1.19": true, "1.21.11": true},
+    "id": "pla_009",
+    "target": {"count": 1, "item": "compass"}
+  },
+  {
+    "conflict_ids": [
+      "cf_0cf08e1cf6803d3f",
+      "cf_3b4af3a40cc2a7de",
+      "cf_4fa0985ff8ad9153",
+      "cf_570be14d06a1a91b",
+      "cf_5cb0b2918f65d91e",
+      "cf_6cdbb1cfcbc9251d",
+      "cf_818aca3c1bd43d7a",
+      "cf_d339b1c87bc5802f",
+      "cf_d6b93a7ba9fddbc6",
+      "cf_f222b76ffee74fa3"
+    ],
+    "feasible": {"1.16.5": true, "1.19": true, "1.21.11": true},
+    "id": "pla_011",
+    "target": {"count": 1, "item": "hopper_minecart"}
+  }
+]

@@ -1,0 +1,82 @@
+{
+  "schema_version": 2,
+  "alpha": 1.2,
+  "beta": 1.2,
+  "lambda": 8.0,
+  "tau_s": 0.95,
+  "tau_inf": 0.10,
+  "kappa": 0.001,
+  "delta": 0.05,
+  "N": 5,
+  "J": 5,
+  "w": 0.35,
+  "execution": {
+    "version": 1,
+    "n_plans": 5,
+    "uncertainty_weight": 0.35,
+    "inventory_aware": true,
+    "max_probes": 12,
+    "max_actions": 90,
+    "decision_error_cost": 10.0
+  },
+  "compiler": {
+    "version": 1,
+    "schema_source": {
+      "path": "corpus/CLAIM_PAYLOAD_SCHEMA.md",
+      "sha256": "b46328b2f52b50d9708b3b3e7bca2ac49cc07bbdac1eea2852c1b3dd2969c89a"
+    },
+    "normalizer_sources": [
+      {
+        "path": "corpus/gold_claims.py",
+        "sha256": "797eb85f49583113dfcc5aae4bcf7d22ddd7043d99c7c3cff4306a811ce6ed28",
+        "symbol": "DISPLAY_ALIASES"
+      },
+      {
+        "path": "corpus/normalize_claims_cache.py",
+        "sha256": "04adaa1adf0d1ee9a722a99150f6e0e664c35eff792d84c0f7e8023ddc96b29f",
+        "symbol": "SUBJECT_ALIASES"
+      }
+    ]
+  },
+  "reader": {
+    "version": 5,
+    "reading_mode": "all_public",
+    "llm_extractor_version": "96b07e80",
+    "query_sequence": [
+      "display_name",
+      "family_name",
+      "id"
+    ],
+    "family_table_source": {
+      "path": "corpus/normalize_claims_cache.py",
+      "sha256": "04adaa1adf0d1ee9a722a99150f6e0e664c35eff792d84c0f7e8023ddc96b29f"
+    },
+    "family_table": [
+      {"match": "suffix", "value": "_chest_boat", "query": "chest boat"},
+      {"match": "suffix", "value": "_planks", "query": "planks"},
+      {"match": "suffix", "value": "_log", "query": "log"},
+      {"match": "suffix", "value": "_wood", "query": "wood"},
+      {"match": "suffix", "value": "_stem", "query": "stem"},
+      {"match": "suffix", "value": "_hyphae", "query": "hyphae"},
+      {"match": "suffix", "value": "_slab", "query": "slab"},
+      {"match": "suffix", "value": "_boat", "query": "boat"},
+      {"match": "suffix", "value": "_wool", "query": "wool"},
+      {"match": "suffix", "value": "_carpet", "query": "carpet"},
+      {"match": "suffix", "value": "_harness", "query": "harness"},
+      {"match": "exact", "value": "cobblestone", "query": "stone tier blocks"},
+      {"match": "exact", "value": "blackstone", "query": "stone tier blocks"},
+      {"match": "exact", "value": "cobbled_deepslate", "query": "stone tier blocks"}
+    ],
+    "page_title_followup": true,
+    "k": 10,
+    "max_searches": 60,
+    "mip_gap_retry_rounds": 1
+  },
+  "ablations": {
+    "source_context": true,
+    "decision_voi": true,
+    "llm_source": true,
+    "time_prior": true,
+    "exec_as_probe": true
+  }
+}

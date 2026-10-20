@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "reason": "final_disjoint_suffix_after_http_402_reflexion_stop",
+  "source_run": "artifacts/post_review/external_agents/final/reflexion",
+  "chunks": [
+    {"offset": 100, "count": 10}
+  ]
+}

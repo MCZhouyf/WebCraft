@@ -1,0 +1,12 @@
+{
+  "B": 1,
+  "development_instances": 72,
+  "fallback_enabled": false,
+  "grid_episodes": 288,
+  "no_conflict_comparisons": 0,
+  "no_conflict_mismatches": [],
+  "repeat_episodes": 72,
+  "requires_source_freeze_before_heldout": true,
+  "seed_effect": false,
+  "stable": true
+}
