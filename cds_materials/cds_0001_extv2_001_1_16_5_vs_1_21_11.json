@@ -1,0 +1,301 @@
+{
+  "boundary_question": [
+    {
+      "mechanism fact": "blue_carpet can be made from black_carpet, blue_dye at crafting_grid.",
+      "source": "historical_archive_1.21.11",
+      "timestamp": "2026-01-08T00:00:00Z"
+    },
+    {
+      "mechanism fact": "blue_wool cannot be made from blue_dye, white_wool at crafting_grid.",
+      "source": "historical_archive_1.21.11",
+      "timestamp": "2026-01-08T00:00:00Z"
+    },
+    {
+      "mechanism fact": "blue_wool can be made from black_wool, blue_dye at crafting_grid.",
+      "source": "historical_archive_1.21.11",
+      "timestamp": "2026-01-08T00:00:00Z"
+    }
+  ],
+  "comparison_world": "1.21.11",
+  "conditions": {
+    "K": [
+      {
+        "mechanism fact": "blue_wool can be made from blue_dye, white_wool at crafting_grid.",
+        "source": "truth_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_wool cannot be made from black_wool, blue_dye at crafting_grid.",
+        "source": "truth_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_carpet can be made from blue_wool, blue_wool at crafting_grid.",
+        "source": "truth_source_1",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "white_wool can be made from string, string, string, string at crafting_grid.",
+        "source": "truth_source_3",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "cobblestone drops cobblestone.",
+        "source": "truth_source_2",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_carpet cannot be made from black_carpet, blue_dye at crafting_grid.",
+        "source": "truth_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "stone_pickaxe can be made from cobblestone, cobblestone, cobblestone, stick, stick at crafting_grid.",
+        "source": "truth_source_3",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_dye can be made from lapis_lazuli at crafting_grid.",
+        "source": "truth_source_2",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_wool can be made from blue_dye, white_wool at crafting_grid.",
+        "source": "truth_source_1",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "lapis_ore drops lapis_lazuli.",
+        "source": "truth_source_1",
+        "timestamp": "2021-02-13T00:00:00Z"
+      }
+    ],
+    "K+N": [
+      {
+        "mechanism fact": "blue_wool cannot be made from black_wool, blue_dye at crafting_grid.",
+        "source": "truth_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_carpet cannot be made from black_carpet, blue_dye at crafting_grid.",
+        "source": "truth_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "white_wool can be made from string, string, string, string at crafting_grid.",
+        "source": "truth_source_3",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_carpet can be made from blue_wool, blue_wool at crafting_grid.",
+        "source": "truth_source_1",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "polished_blackstone_brick_stairs from polished_blackstone_bricks.    ",
+        "source": "neutral_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "stone_pickaxe can be made from cobblestone, cobblestone, cobblestone, stick, stick at crafting_grid.",
+        "source": "truth_source_3",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_wool can be made from blue_dye, white_wool at crafting_grid.",
+        "source": "truth_source_1",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_wool can be made from blue_dye, white_wool at crafting_grid.",
+        "source": "truth_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_dye can be made from lapis_lazuli at crafting_grid.",
+        "source": "truth_source_2",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "lapis_ore drops lapis_lazuli.",
+        "source": "truth_source_1",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "cracked_polished_blackstone_bricks from polished_blackstone_bricks. ",
+        "source": "neutral_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "polished_blackstone_brick_slab from polished_blackstone_bricks.  ",
+        "source": "neutral_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "cobblestone drops cobblestone.",
+        "source": "truth_source_2",
+        "timestamp": "2021-02-13T00:00:00Z"
+      }
+    ],
+    "K+S": [
+      {
+        "mechanism fact": "blue_carpet can be made from blue_wool, blue_wool at crafting_grid.",
+        "source": "truth_source_1",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "white_wool can be made from string, string, string, string at crafting_grid.",
+        "source": "truth_source_3",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_dye can be made from lapis_lazuli at crafting_grid.",
+        "source": "truth_source_2",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_wool can be made from black_wool, blue_dye at crafting_grid.",
+        "source": "historical_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_wool cannot be made from black_wool, blue_dye at crafting_grid.",
+        "source": "truth_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "cobblestone drops cobblestone.",
+        "source": "truth_source_2",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_carpet cannot be made from black_carpet, blue_dye at crafting_grid.",
+        "source": "truth_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "stone_pickaxe can be made from cobblestone, cobblestone, cobblestone, stick, stick at crafting_grid.",
+        "source": "truth_source_3",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "lapis_ore drops lapis_lazuli.",
+        "source": "truth_source_1",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_carpet can be made from black_carpet, blue_dye at crafting_grid.",
+        "source": "historical_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_wool cannot be made from blue_dye, white_wool at crafting_grid.",
+        "source": "historical_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_wool can be made from blue_dye, white_wool at crafting_grid.",
+        "source": "truth_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_wool can be made from blue_dye, white_wool at crafting_grid.",
+        "source": "truth_source_1",
+        "timestamp": "2021-02-13T00:00:00Z"
+      }
+    ],
+    "S": [
+      {
+        "mechanism fact": "lapis_ore drops lapis_lazuli.",
+        "source": "truth_source_1",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_wool cannot be made from blue_dye, white_wool at crafting_grid.",
+        "source": "historical_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_wool can be made from black_wool, blue_dye at crafting_grid.",
+        "source": "historical_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_dye can be made from lapis_lazuli at crafting_grid.",
+        "source": "truth_source_2",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "white_wool can be made from string, string, string, string at crafting_grid.",
+        "source": "truth_source_3",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "stone_pickaxe can be made from cobblestone, cobblestone, cobblestone, stick, stick at crafting_grid.",
+        "source": "truth_source_3",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_carpet can be made from black_carpet, blue_dye at crafting_grid.",
+        "source": "historical_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_wool can be made from blue_dye, white_wool at crafting_grid.",
+        "source": "truth_source_1",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "cobblestone drops cobblestone.",
+        "source": "truth_source_2",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_carpet can be made from blue_wool, blue_wool at crafting_grid.",
+        "source": "truth_source_1",
+        "timestamp": "2021-02-13T00:00:00Z"
+      }
+    ],
+    "empty": [
+      {
+        "mechanism fact": "lapis_ore drops lapis_lazuli.",
+        "source": "truth_source_1",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_wool can be made from blue_dye, white_wool at crafting_grid.",
+        "source": "truth_source_1",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "stone_pickaxe can be made from cobblestone, cobblestone, cobblestone, stick, stick at crafting_grid.",
+        "source": "truth_source_3",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "white_wool can be made from string, string, string, string at crafting_grid.",
+        "source": "truth_source_3",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_dye can be made from lapis_lazuli at crafting_grid.",
+        "source": "truth_source_2",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_carpet can be made from blue_wool, blue_wool at crafting_grid.",
+        "source": "truth_source_1",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "cobblestone drops cobblestone.",
+        "source": "truth_source_2",
+        "timestamp": "2021-02-13T00:00:00Z"
+      }
+    ]
+  },
+  "instance_id": "cds_0001_extv2_001_1_16_5_vs_1_21_11",
+  "schema_version": 1,
+  "target_world": "1.16.5",
+  "task_id": "extv2_001"
+}

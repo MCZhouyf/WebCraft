@@ -1,0 +1,462 @@
+{
+  "generated_at": "2026-09-28T13:40:51.176Z",
+  "versions": {
+    "1.16.5": {
+      "rows": [
+        {
+          "id": 1,
+          "probe": "iron_ore_drops_raw_iron_without_silk",
+          "empirical": false,
+          "detail": {
+            "success": false,
+            "error": "resource node is empty"
+          }
+        },
+        {
+          "id": 2,
+          "probe": "cobbled_deepslate_stone_pickaxe",
+          "empirical": false,
+          "detail": {
+            "success": false,
+            "error": "crafting table unavailable"
+          }
+        },
+        {
+          "id": 3,
+          "probe": "name_scute_exists",
+          "empirical": true,
+          "detail": {
+            "resolvable": true
+          }
+        },
+        {
+          "id": 4,
+          "probe": "name_turtle_scute_exists",
+          "empirical": false,
+          "detail": {
+            "resolvable": false
+          }
+        },
+        {
+          "id": 5,
+          "probe": "string_leather_bundle",
+          "empirical": false,
+          "detail": {
+            "success": false,
+            "error": "crafting table unavailable"
+          }
+        },
+        {
+          "id": 6,
+          "probe": "iron_lodestone",
+          "empirical": false,
+          "detail": {
+            "success": false,
+            "error": "crafting table unavailable"
+          }
+        },
+        {
+          "id": 7,
+          "probe": "netherite_lodestone",
+          "empirical": true,
+          "detail": {
+            "success": true,
+            "product": {
+              "name": "lodestone",
+              "count": 1
+            },
+            "cost": {
+              "environment_steps": 27
+            }
+          }
+        },
+        {
+          "id": 8,
+          "probe": "leather_iron_saddle",
+          "empirical": false,
+          "detail": {
+            "success": false,
+            "product": null,
+            "cost": {
+              "environment_steps": 14
+            }
+          }
+        },
+        {
+          "id": 9,
+          "probe": "copper_pickaxe",
+          "empirical": false,
+          "detail": {
+            "success": false,
+            "error": "missing ingredient: copper_ingot"
+          }
+        },
+        {
+          "id": 10,
+          "probe": "name_chain_exists",
+          "empirical": true,
+          "detail": {
+            "resolvable": true
+          }
+        },
+        {
+          "id": 11,
+          "probe": "name_iron_chain_exists",
+          "empirical": false,
+          "detail": {
+            "resolvable": false
+          }
+        },
+        {
+          "id": 12,
+          "probe": "paper_iron_nugget_name_tag",
+          "empirical": false,
+          "detail": {
+            "success": false,
+            "product": null,
+            "cost": {
+              "environment_steps": 6
+            }
+          }
+        }
+      ],
+      "smelt": {
+        "success": true,
+        "items": [
+          {
+            "name": "iron_ingot",
+            "count": 1
+          }
+        ],
+        "cost": {
+          "environment_steps": 1
+        }
+      }
+    },
+    "1.19": {
+      "rows": [
+        {
+          "id": 1,
+          "probe": "iron_ore_drops_raw_iron_without_silk",
+          "empirical": true,
+          "detail": {
+            "success": true,
+            "items": [
+              {
+                "name": "raw_iron",
+                "count": 1
+              }
+            ],
+            "cost": {
+              "environment_steps": 1,
+              "travel_distance": 0
+            }
+          }
+        },
+        {
+          "id": 2,
+          "probe": "cobbled_deepslate_stone_pickaxe",
+          "empirical": true,
+          "detail": {
+            "success": true,
+            "product": {
+              "name": "stone_pickaxe",
+              "count": 1
+            },
+            "cost": {
+              "environment_steps": 15
+            }
+          }
+        },
+        {
+          "id": 3,
+          "probe": "name_scute_exists",
+          "empirical": true,
+          "detail": {
+            "resolvable": true
+          }
+        },
+        {
+          "id": 4,
+          "probe": "name_turtle_scute_exists",
+          "empirical": false,
+          "detail": {
+            "resolvable": false
+          }
+        },
+        {
+          "id": 5,
+          "probe": "string_leather_bundle",
+          "empirical": false,
+          "detail": {
+            "success": false,
+            "product": null,
+            "cost": {
+              "environment_steps": 6
+            }
+          }
+        },
+        {
+          "id": 6,
+          "probe": "iron_lodestone",
+          "empirical": false,
+          "detail": {
+            "success": false,
+            "product": null,
+            "cost": {
+              "environment_steps": 34
+            }
+          }
+        },
+        {
+          "id": 7,
+          "probe": "netherite_lodestone",
+          "empirical": true,
+          "detail": {
+            "success": true,
+            "product": {
+              "name": "lodestone",
+              "count": 1
+            },
+            "cost": {
+              "environment_steps": 27
+            }
+          }
+        },
+        {
+          "id": 8,
+          "probe": "leather_iron_saddle",
+          "empirical": false,
+          "detail": {
+            "success": false,
+            "product": null,
+            "cost": {
+              "environment_steps": 14
+            }
+          }
+        },
+        {
+          "id": 9,
+          "probe": "copper_pickaxe",
+          "empirical": false,
+          "detail": {
+            "success": false,
+            "product": null,
+            "cost": {
+              "environment_steps": 18
+            }
+          }
+        },
+        {
+          "id": 10,
+          "probe": "name_chain_exists",
+          "empirical": true,
+          "detail": {
+            "resolvable": true
+          }
+        },
+        {
+          "id": 11,
+          "probe": "name_iron_chain_exists",
+          "empirical": false,
+          "detail": {
+            "resolvable": false
+          }
+        },
+        {
+          "id": 12,
+          "probe": "paper_iron_nugget_name_tag",
+          "empirical": false,
+          "detail": {
+            "success": false,
+            "product": null,
+            "cost": {
+              "environment_steps": 6
+            }
+          }
+        }
+      ],
+      "smelt": {
+        "success": true,
+        "items": [
+          {
+            "name": "iron_ingot",
+            "count": 1
+          }
+        ],
+        "cost": {
+          "environment_steps": 1
+        }
+      }
+    },
+    "1.21.11": {
+      "rows": [
+        {
+          "id": 1,
+          "probe": "iron_ore_drops_raw_iron_without_silk",
+          "empirical": true,
+          "detail": {
+            "success": true,
+            "items": [
+              {
+                "name": "iron_pickaxe",
+                "count": 1
+              },
+              {
+                "name": "raw_iron",
+                "count": 1
+              }
+            ],
+            "cost": {
+              "environment_steps": 1,
+              "travel_distance": 0
+            }
+          }
+        },
+        {
+          "id": 2,
+          "probe": "cobbled_deepslate_stone_pickaxe",
+          "empirical": true,
+          "detail": {
+            "success": true,
+            "product": {
+              "name": "stone_pickaxe",
+              "count": 1
+            },
+            "cost": {
+              "environment_steps": 15
+            }
+          }
+        },
+        {
+          "id": 3,
+          "probe": "name_scute_exists",
+          "empirical": false,
+          "detail": {
+            "resolvable": false
+          }
+        },
+        {
+          "id": 4,
+          "probe": "name_turtle_scute_exists",
+          "empirical": true,
+          "detail": {
+            "resolvable": true
+          }
+        },
+        {
+          "id": 5,
+          "probe": "string_leather_bundle",
+          "empirical": true,
+          "detail": {
+            "success": true,
+            "product": {
+              "name": "bundle",
+              "count": 1
+            },
+            "cost": {
+              "environment_steps": 6
+            }
+          }
+        },
+        {
+          "id": 6,
+          "probe": "iron_lodestone",
+          "empirical": true,
+          "detail": {
+            "success": true,
+            "product": {
+              "name": "lodestone",
+              "count": 1
+            },
+            "cost": {
+              "environment_steps": 27
+            }
+          }
+        },
+        {
+          "id": 7,
+          "probe": "netherite_lodestone",
+          "empirical": false,
+          "detail": {
+            "success": false,
+            "product": null,
+            "cost": {
+              "environment_steps": 34
+            }
+          }
+        },
+        {
+          "id": 8,
+          "probe": "leather_iron_saddle",
+          "empirical": true,
+          "detail": {
+            "success": true,
+            "product": {
+              "name": "saddle",
+              "count": 1
+            },
+            "cost": {
+              "environment_steps": 12
+            }
+          }
+        },
+        {
+          "id": 9,
+          "probe": "copper_pickaxe",
+          "empirical": true,
+          "detail": {
+            "success": true,
+            "product": {
+              "name": "copper_pickaxe",
+              "count": 1
+            },
+            "cost": {
+              "environment_steps": 15
+            }
+          }
+        },
+        {
+          "id": 10,
+          "probe": "name_chain_exists",
+          "empirical": false,
+          "detail": {
+            "resolvable": false
+          }
+        },
+        {
+          "id": 11,
+          "probe": "name_iron_chain_exists",
+          "empirical": true,
+          "detail": {
+            "resolvable": true
+          }
+        },
+        {
+          "id": 12,
+          "probe": "paper_iron_nugget_name_tag",
+          "empirical": false,
+          "detail": {
+            "success": false,
+            "product": null,
+            "cost": {
+              "environment_steps": 6
+            }
+          }
+        }
+      ],
+      "smelt": {
+        "success": true,
+        "items": [
+          {
+            "name": "iron_ingot",
+            "count": 1
+          }
+        ],
+        "cost": {
+          "environment_steps": 1
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "schema_version": 2,
+  "status": "GENERATED_PENDING_LIVE_VALIDATION_AND_PREREGISTRATION",
+  "arena_source": "harness/config/arena.json",
+  "R0_definition": "Common starting items plus common-ID source blocks; mined outputs are private world truth.",
+  "yield_semantics": "Guaranteed minimum named output only; probabilistic-only identities are unreachable.",
+  "executable_mechanisms": [
+    "crafting_grid",
+    "furnace",
+    "mining"
+  ],
+  "standard_inventory": [
+    {
+      "name": "chiseled_stone_bricks",
+      "count": 8
+    },
+    {
+      "name": "cobblestone",
+      "count": 2
+    },
+    {
+      "name": "leather",
+      "count": 8
+    },
+    {
+      "name": "paper",
+      "count": 8
+    },
+    {
+      "name": "stick",
+      "count": 2
+    },
+    {
+      "name": "string",
+      "count": 8
+    },
+    {
+      "name": "wooden_pickaxe",
+      "count": 1
+    }
+  ],
+  "global_supplements": [
+    {
+      "name": "leather",
+      "count": 8
+    },
+    {
+      "name": "string",
+      "count": 8
+    },
+    {
+      "name": "paper",
+      "count": 8
+    },
+    {
+      "name": "chiseled_stone_bricks",
+      "count": 8
+    }
+  ],
+  "prohibited_supplements": [
+    "iron_ingot",
+    "gold_ingot",
+    "raw_iron",
+    "raw_gold",
+    "netherite_ingot",
+    "copper_ingot",
+    "cobbled_deepslate"
+  ],
+  "candidate_maximum_demand": {
+    "coal_ore": 2,
+    "cobblestone": 8,
+    "diamond_ore": 1,
+    "gold_ore": 9,
+    "iron_ore": 10,
+    "lapis_ore": 1,
+    "oak_log": 4,
+    "redstone_ore": 1,
+    "sand": 2,
+    "stone": 9
+  },
+  "array_rule": "For each source block: max(1, 2 * maximum demand over selected candidate task/world plans).",
+  "resource_block_counts": {
+    "oak_log": 8,
+    "cobblestone": 16,
+    "stone": 18,
+    "iron_ore": 20,
+    "gold_ore": 18,
+    "coal_ore": 4,
+    "diamond_ore": 2,
+    "redstone_ore": 2,
+    "lapis_ore": 2,
+    "sand": 4,
+    "gravel": 1
+  },
+  "identical_across_worlds_and_methods": true,
+  "replenishment": "episode reset only"
+}

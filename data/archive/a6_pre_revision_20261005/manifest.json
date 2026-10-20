@@ -1,0 +1,10 @@
+{
+  "tasks.jsonl": {
+    "sha256": "88ca6d053ff9bf7b2bd3798a09f86692d4fe754e396a187cb08f2e95946956de",
+    "bytes": 190757
+  },
+  "stage1_data_build.json": {
+    "sha256": "3516863071d79b3d4d9ac25d8239e09e72f2c98fcce53e06f210f4d3bc99962f",
+    "bytes": 4371
+  }
+}

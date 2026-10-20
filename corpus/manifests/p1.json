@@ -1,0 +1,2450 @@
+{
+  "items": [
+    {
+      "candidate_title": "Activator Rail",
+      "item_id": "activator_rail"
+    },
+    {
+      "candidate_title": "Blast Furnace",
+      "item_id": "blast_furnace"
+    },
+    {
+      "candidate_title": "Blue Carpet",
+      "item_id": "blue_carpet"
+    },
+    {
+      "candidate_title": "Blue Dye",
+      "item_id": "blue_dye"
+    },
+    {
+      "candidate_title": "Blue Harness",
+      "item_id": "blue_harness"
+    },
+    {
+      "candidate_title": "Blue Wool",
+      "item_id": "blue_wool"
+    },
+    {
+      "candidate_title": "Book",
+      "item_id": "book"
+    },
+    {
+      "candidate_title": "Bucket",
+      "item_id": "bucket"
+    },
+    {
+      "candidate_title": "Bundle",
+      "item_id": "bundle"
+    },
+    {
+      "candidate_title": "Cauldron",
+      "item_id": "cauldron"
+    },
+    {
+      "candidate_title": "Chain",
+      "item_id": "chain"
+    },
+    {
+      "candidate_title": "Chest",
+      "item_id": "chest"
+    },
+    {
+      "candidate_title": "Minecart with Chest",
+      "item_id": "chest_minecart"
+    },
+    {
+      "candidate_title": "Chiseled Bookshelf",
+      "item_id": "chiseled_bookshelf"
+    },
+    {
+      "candidate_title": "Chiseled Stone Bricks",
+      "item_id": "chiseled_stone_bricks"
+    },
+    {
+      "candidate_title": "Clock",
+      "item_id": "clock"
+    },
+    {
+      "candidate_title": "Coal",
+      "item_id": "coal"
+    },
+    {
+      "candidate_title": "Coal Block",
+      "item_id": "coal_block"
+    },
+    {
+      "candidate_title": "Coal Ore",
+      "item_id": "coal_ore"
+    },
+    {
+      "candidate_title": "Cobbled Deepslate",
+      "item_id": "cobbled_deepslate"
+    },
+    {
+      "candidate_title": "Cobblestone",
+      "item_id": "cobblestone"
+    },
+    {
+      "candidate_title": "Cobblestone Slab",
+      "item_id": "cobblestone_slab"
+    },
+    {
+      "candidate_title": "Cobblestone Stairs",
+      "item_id": "cobblestone_stairs"
+    },
+    {
+      "candidate_title": "Cobblestone Wall",
+      "item_id": "cobblestone_wall"
+    },
+    {
+      "candidate_title": "Compass",
+      "item_id": "compass"
+    },
+    {
+      "candidate_title": "Copper Ingot",
+      "item_id": "copper_ingot"
+    },
+    {
+      "candidate_title": "Copper Pickaxe",
+      "item_id": "copper_pickaxe"
+    },
+    {
+      "candidate_title": "Cracked Stone Bricks",
+      "item_id": "cracked_stone_bricks"
+    },
+    {
+      "candidate_title": "Crafter",
+      "item_id": "crafter"
+    },
+    {
+      "candidate_title": "Crafting Table",
+      "item_id": "crafting_table"
+    },
+    {
+      "candidate_title": "Diamond",
+      "item_id": "diamond"
+    },
+    {
+      "candidate_title": "Diamond Block",
+      "item_id": "diamond_block"
+    },
+    {
+      "candidate_title": "Diamond Ore",
+      "item_id": "diamond_ore"
+    },
+    {
+      "candidate_title": "Diamond Spear",
+      "item_id": "diamond_spear"
+    },
+    {
+      "candidate_title": "Dropper",
+      "item_id": "dropper"
+    },
+    {
+      "candidate_title": "Furnace",
+      "item_id": "furnace"
+    },
+    {
+      "candidate_title": "Minecart with Furnace",
+      "item_id": "furnace_minecart"
+    },
+    {
+      "candidate_title": "Glass",
+      "item_id": "glass"
+    },
+    {
+      "candidate_title": "Glass Bottle",
+      "item_id": "glass_bottle"
+    },
+    {
+      "candidate_title": "Gold Block",
+      "item_id": "gold_block"
+    },
+    {
+      "candidate_title": "Gold Ingot",
+      "item_id": "gold_ingot"
+    },
+    {
+      "candidate_title": "Gold Nugget",
+      "item_id": "gold_nugget"
+    },
+    {
+      "candidate_title": "Gold Ore",
+      "item_id": "gold_ore"
+    },
+    {
+      "candidate_title": "Golden Axe",
+      "item_id": "golden_axe"
+    },
+    {
+      "candidate_title": "Golden Boots",
+      "item_id": "golden_boots"
+    },
+    {
+      "candidate_title": "Golden Chestplate",
+      "item_id": "golden_chestplate"
+    },
+    {
+      "candidate_title": "Golden Helmet",
+      "item_id": "golden_helmet"
+    },
+    {
+      "candidate_title": "Golden Hoe",
+      "item_id": "golden_hoe"
+    },
+    {
+      "candidate_title": "Golden Leggings",
+      "item_id": "golden_leggings"
+    },
+    {
+      "candidate_title": "Golden Pickaxe",
+      "item_id": "golden_pickaxe"
+    },
+    {
+      "candidate_title": "Golden Shovel",
+      "item_id": "golden_shovel"
+    },
+    {
+      "candidate_title": "Golden Spear",
+      "item_id": "golden_spear"
+    },
+    {
+      "candidate_title": "Golden Sword",
+      "item_id": "golden_sword"
+    },
+    {
+      "candidate_title": "Hopper",
+      "item_id": "hopper"
+    },
+    {
+      "candidate_title": "Minecart with Hopper",
+      "item_id": "hopper_minecart"
+    },
+    {
+      "candidate_title": "Iron Axe",
+      "item_id": "iron_axe"
+    },
+    {
+      "candidate_title": "Iron Block",
+      "item_id": "iron_block"
+    },
+    {
+      "candidate_title": "Iron Boots",
+      "item_id": "iron_boots"
+    },
+    {
+      "candidate_title": "Iron Chain",
+      "item_id": "iron_chain"
+    },
+    {
+      "candidate_title": "Iron Chestplate",
+      "item_id": "iron_chestplate"
+    },
+    {
+      "candidate_title": "Iron Helmet",
+      "item_id": "iron_helmet"
+    },
+    {
+      "candidate_title": "Iron Hoe",
+      "item_id": "iron_hoe"
+    },
+    {
+      "candidate_title": "Iron Ingot",
+      "item_id": "iron_ingot"
+    },
+    {
+      "candidate_title": "Iron Leggings",
+      "item_id": "iron_leggings"
+    },
+    {
+      "candidate_title": "Iron Nugget",
+      "item_id": "iron_nugget"
+    },
+    {
+      "candidate_title": "Iron Ore",
+      "item_id": "iron_ore"
+    },
+    {
+      "candidate_title": "Iron Pickaxe",
+      "item_id": "iron_pickaxe"
+    },
+    {
+      "candidate_title": "Iron Shovel",
+      "item_id": "iron_shovel"
+    },
+    {
+      "candidate_title": "Iron Spear",
+      "item_id": "iron_spear"
+    },
+    {
+      "candidate_title": "Iron Sword",
+      "item_id": "iron_sword"
+    },
+    {
+      "candidate_title": "Lapis Block",
+      "item_id": "lapis_block"
+    },
+    {
+      "candidate_title": "Lapis Lazuli",
+      "item_id": "lapis_lazuli"
+    },
+    {
+      "candidate_title": "Lapis Lazuli Ore",
+      "item_id": "lapis_ore"
+    },
+    {
+      "candidate_title": "Lead",
+      "item_id": "lead"
+    },
+    {
+      "candidate_title": "Leather",
+      "item_id": "leather"
+    },
+    {
+      "candidate_title": "Leather Boots",
+      "item_id": "leather_boots"
+    },
+    {
+      "candidate_title": "Leather Chestplate",
+      "item_id": "leather_chestplate"
+    },
+    {
+      "candidate_title": "Leather Helmet",
+      "item_id": "leather_helmet"
+    },
+    {
+      "candidate_title": "Leather Horse Armor",
+      "item_id": "leather_horse_armor"
+    },
+    {
+      "candidate_title": "Lodestone",
+      "item_id": "lodestone"
+    },
+    {
+      "candidate_title": "Minecart",
+      "item_id": "minecart"
+    },
+    {
+      "candidate_title": "Name Tag",
+      "item_id": "name_tag"
+    },
+    {
+      "candidate_title": "Netherite Ingot",
+      "item_id": "netherite_ingot"
+    },
+    {
+      "candidate_title": "Oak Boat",
+      "item_id": "oak_boat"
+    },
+    {
+      "candidate_title": "Boat with Chest",
+      "item_id": "oak_chest_boat"
+    },
+    {
+      "candidate_title": "Oak Log",
+      "item_id": "oak_log"
+    },
+    {
+      "candidate_title": "Oak Planks",
+      "item_id": "oak_planks"
+    },
+    {
+      "candidate_title": "Oak Slab",
+      "item_id": "oak_slab"
+    },
+    {
+      "candidate_title": "Oak Wood",
+      "item_id": "oak_wood"
+    },
+    {
+      "candidate_title": "Paper",
+      "item_id": "paper"
+    },
+    {
+      "candidate_title": "Raw Gold",
+      "item_id": "raw_gold"
+    },
+    {
+      "candidate_title": "Raw Gold Block",
+      "item_id": "raw_gold_block"
+    },
+    {
+      "candidate_title": "Raw Iron",
+      "item_id": "raw_iron"
+    },
+    {
+      "candidate_title": "Raw Iron Block",
+      "item_id": "raw_iron_block"
+    },
+    {
+      "candidate_title": "Redstone",
+      "item_id": "redstone"
+    },
+    {
+      "candidate_title": "Redstone Block",
+      "item_id": "redstone_block"
+    },
+    {
+      "candidate_title": "Redstone Ore",
+      "item_id": "redstone_ore"
+    },
+    {
+      "candidate_title": "Redstone Torch",
+      "item_id": "redstone_torch"
+    },
+    {
+      "candidate_title": "Saddle",
+      "item_id": "saddle"
+    },
+    {
+      "candidate_title": "Sand",
+      "item_id": "sand"
+    },
+    {
+      "candidate_title": "Scute",
+      "item_id": "scute"
+    },
+    {
+      "candidate_title": "Smooth Stone",
+      "item_id": "smooth_stone"
+    },
+    {
+      "candidate_title": "Stick",
+      "item_id": "stick"
+    },
+    {
+      "candidate_title": "Stone",
+      "item_id": "stone"
+    },
+    {
+      "candidate_title": "Stone Brick Slab",
+      "item_id": "stone_brick_slab"
+    },
+    {
+      "candidate_title": "Stone Bricks",
+      "item_id": "stone_bricks"
+    },
+    {
+      "candidate_title": "Stone Pickaxe",
+      "item_id": "stone_pickaxe"
+    },
+    {
+      "candidate_title": "Stone Spear",
+      "item_id": "stone_spear"
+    },
+    {
+      "candidate_title": "String",
+      "item_id": "string"
+    },
+    {
+      "candidate_title": "Turtle Scute",
+      "item_id": "turtle_scute"
+    },
+    {
+      "candidate_title": "White Carpet",
+      "item_id": "white_carpet"
+    },
+    {
+      "candidate_title": "White Harness",
+      "item_id": "white_harness"
+    },
+    {
+      "candidate_title": "White Wool",
+      "item_id": "white_wool"
+    },
+    {
+      "candidate_title": "Wooden Pickaxe",
+      "item_id": "wooden_pickaxe"
+    },
+    {
+      "candidate_title": "Wooden Spear",
+      "item_id": "wooden_spear"
+    }
+  ],
+  "oracle_closures": {
+    "con_001": {
+      "1.16.5": [
+        "book",
+        "leather",
+        "paper"
+      ],
+      "1.19": [
+        "book",
+        "leather",
+        "paper"
+      ],
+      "1.21.11": [
+        "book",
+        "leather",
+        "paper"
+      ]
+    },
+    "con_002": {
+      "1.16.5": [
+        "coal",
+        "coal_block",
+        "coal_ore",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "wooden_pickaxe"
+      ],
+      "1.19": [
+        "coal",
+        "coal_block",
+        "coal_ore",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "wooden_pickaxe"
+      ],
+      "1.21.11": [
+        "coal",
+        "coal_block",
+        "coal_ore",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "wooden_pickaxe"
+      ]
+    },
+    "con_003": {
+      "1.16.5": [
+        "cobblestone",
+        "cobblestone_slab",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "stone",
+        "wooden_pickaxe"
+      ],
+      "1.19": [
+        "cobblestone",
+        "cobblestone_slab",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "stone",
+        "wooden_pickaxe"
+      ],
+      "1.21.11": [
+        "cobblestone",
+        "cobblestone_slab",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "stone",
+        "wooden_pickaxe"
+      ]
+    },
+    "con_004": {
+      "1.16.5": [
+        "cobblestone",
+        "cobblestone_stairs",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "stone",
+        "wooden_pickaxe"
+      ],
+      "1.19": [
+        "cobblestone",
+        "cobblestone_stairs",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "stone",
+        "wooden_pickaxe"
+      ],
+      "1.21.11": [
+        "cobblestone",
+        "cobblestone_stairs",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "stone",
+        "wooden_pickaxe"
+      ]
+    },
+    "con_005": {
+      "1.16.5": [
+        "cobblestone",
+        "cobblestone_wall",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "stone",
+        "wooden_pickaxe"
+      ],
+      "1.19": [
+        "cobblestone",
+        "cobblestone_wall",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "stone",
+        "wooden_pickaxe"
+      ],
+      "1.21.11": [
+        "cobblestone",
+        "cobblestone_wall",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "stone",
+        "wooden_pickaxe"
+      ]
+    },
+    "con_006": {
+      "1.16.5": [
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "cracked_stone_bricks",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "stone",
+        "stone_bricks",
+        "wooden_pickaxe"
+      ],
+      "1.19": [
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "cracked_stone_bricks",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "stone",
+        "stone_bricks",
+        "wooden_pickaxe"
+      ],
+      "1.21.11": [
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "cracked_stone_bricks",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "stone",
+        "stone_bricks",
+        "wooden_pickaxe"
+      ]
+    },
+    "con_007": {
+      "1.16.5": [
+        "coal",
+        "coal_ore",
+        "glass",
+        "sand",
+        "wooden_pickaxe"
+      ],
+      "1.19": [
+        "coal",
+        "coal_ore",
+        "glass",
+        "sand",
+        "wooden_pickaxe"
+      ],
+      "1.21.11": [
+        "coal",
+        "coal_ore",
+        "glass",
+        "sand",
+        "wooden_pickaxe"
+      ]
+    },
+    "con_008": {
+      "1.16.5": [
+        "coal",
+        "coal_ore",
+        "glass",
+        "glass_bottle",
+        "sand",
+        "wooden_pickaxe"
+      ],
+      "1.19": [
+        "coal",
+        "coal_ore",
+        "glass",
+        "glass_bottle",
+        "sand",
+        "wooden_pickaxe"
+      ],
+      "1.21.11": [
+        "coal",
+        "coal_ore",
+        "glass",
+        "glass_bottle",
+        "sand",
+        "wooden_pickaxe"
+      ]
+    },
+    "con_009": {
+      "1.16.5": [
+        "leather",
+        "leather_boots"
+      ],
+      "1.19": [
+        "leather",
+        "leather_boots"
+      ],
+      "1.21.11": [
+        "leather",
+        "leather_boots"
+      ]
+    },
+    "con_010": {
+      "1.16.5": [
+        "leather",
+        "leather_chestplate"
+      ],
+      "1.19": [
+        "leather",
+        "leather_chestplate"
+      ],
+      "1.21.11": [
+        "leather",
+        "leather_chestplate"
+      ]
+    },
+    "con_011": {
+      "1.16.5": [
+        "leather",
+        "leather_helmet"
+      ],
+      "1.19": [
+        "leather",
+        "leather_helmet"
+      ],
+      "1.21.11": [
+        "leather",
+        "leather_helmet"
+      ]
+    },
+    "con_012": {
+      "1.16.5": [
+        "leather",
+        "leather_horse_armor"
+      ],
+      "1.19": [
+        "leather",
+        "leather_horse_armor"
+      ],
+      "1.21.11": [
+        "leather",
+        "leather_horse_armor"
+      ]
+    },
+    "eff_001": {
+      "1.16.5": [
+        "activator_rail",
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_sword",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "redstone",
+        "redstone_block",
+        "redstone_ore",
+        "redstone_torch",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ],
+      "1.19": [
+        "activator_rail",
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_sword",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "raw_iron",
+        "raw_iron_block",
+        "redstone",
+        "redstone_block",
+        "redstone_ore",
+        "redstone_torch",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ],
+      "1.21.11": [
+        "activator_rail",
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_spear",
+        "iron_sword",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "raw_iron",
+        "raw_iron_block",
+        "redstone",
+        "redstone_block",
+        "redstone_ore",
+        "redstone_torch",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ]
+    },
+    "eff_002": {
+      "1.16.5": [
+        "blast_furnace",
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "furnace",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_sword",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "smooth_stone",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ],
+      "1.19": [
+        "blast_furnace",
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "furnace",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_sword",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "raw_iron",
+        "raw_iron_block",
+        "smooth_stone",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ],
+      "1.21.11": [
+        "blast_furnace",
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "furnace",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_spear",
+        "iron_sword",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "raw_iron",
+        "raw_iron_block",
+        "smooth_stone",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ]
+    },
+    "eff_003": {
+      "1.16.5": [
+        "blue_carpet",
+        "blue_dye",
+        "blue_wool",
+        "cobblestone",
+        "lapis_block",
+        "lapis_lazuli",
+        "lapis_ore",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "string",
+        "white_carpet",
+        "white_wool",
+        "wooden_pickaxe"
+      ],
+      "1.19": [
+        "blue_carpet",
+        "blue_dye",
+        "blue_wool",
+        "cobblestone",
+        "lapis_block",
+        "lapis_lazuli",
+        "lapis_ore",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "string",
+        "white_carpet",
+        "white_wool",
+        "wooden_pickaxe"
+      ],
+      "1.21.11": [
+        "blue_carpet",
+        "blue_dye",
+        "blue_wool",
+        "cobblestone",
+        "lapis_block",
+        "lapis_lazuli",
+        "lapis_ore",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "string",
+        "white_carpet",
+        "white_wool",
+        "wooden_pickaxe"
+      ]
+    },
+    "eff_004": {
+      "1.16.5": [
+        "bucket",
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_sword",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ],
+      "1.19": [
+        "bucket",
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_sword",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "raw_iron",
+        "raw_iron_block",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ],
+      "1.21.11": [
+        "bucket",
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_spear",
+        "iron_sword",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "raw_iron",
+        "raw_iron_block",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ]
+    },
+    "eff_005": {
+      "1.16.5": [
+        "cauldron",
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_sword",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ],
+      "1.19": [
+        "cauldron",
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_sword",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "raw_iron",
+        "raw_iron_block",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ],
+      "1.21.11": [
+        "cauldron",
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_spear",
+        "iron_sword",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "raw_iron",
+        "raw_iron_block",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ]
+    },
+    "eff_006": {
+      "1.16.5": [
+        "iron_chain"
+      ],
+      "1.19": [
+        "iron_chain"
+      ],
+      "1.21.11": [
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chain",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_spear",
+        "iron_sword",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "raw_iron",
+        "raw_iron_block",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ]
+    },
+    "eff_007": {
+      "1.16.5": [
+        "chest",
+        "chest_minecart",
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_sword",
+        "minecart",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ],
+      "1.19": [
+        "chest",
+        "chest_minecart",
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_sword",
+        "minecart",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "raw_iron",
+        "raw_iron_block",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ],
+      "1.21.11": [
+        "chest",
+        "chest_minecart",
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_spear",
+        "iron_sword",
+        "minecart",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "raw_iron",
+        "raw_iron_block",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ]
+    },
+    "eff_008": {
+      "1.16.5": [
+        "clock",
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "gold_block",
+        "gold_ingot",
+        "gold_nugget",
+        "gold_ore",
+        "golden_axe",
+        "golden_boots",
+        "golden_chestplate",
+        "golden_helmet",
+        "golden_hoe",
+        "golden_leggings",
+        "golden_pickaxe",
+        "golden_shovel",
+        "golden_sword",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_sword",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "redstone",
+        "redstone_block",
+        "redstone_ore",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ],
+      "1.19": [
+        "clock",
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "gold_block",
+        "gold_ingot",
+        "gold_nugget",
+        "gold_ore",
+        "golden_axe",
+        "golden_boots",
+        "golden_chestplate",
+        "golden_helmet",
+        "golden_hoe",
+        "golden_leggings",
+        "golden_pickaxe",
+        "golden_shovel",
+        "golden_sword",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_sword",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "raw_gold",
+        "raw_gold_block",
+        "raw_iron",
+        "raw_iron_block",
+        "redstone",
+        "redstone_block",
+        "redstone_ore",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ],
+      "1.21.11": [
+        "clock",
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "gold_block",
+        "gold_ingot",
+        "gold_nugget",
+        "gold_ore",
+        "golden_axe",
+        "golden_boots",
+        "golden_chestplate",
+        "golden_helmet",
+        "golden_hoe",
+        "golden_leggings",
+        "golden_pickaxe",
+        "golden_shovel",
+        "golden_spear",
+        "golden_sword",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_spear",
+        "iron_sword",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "raw_gold",
+        "raw_gold_block",
+        "raw_iron",
+        "raw_iron_block",
+        "redstone",
+        "redstone_block",
+        "redstone_ore",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ]
+    },
+    "fea_001": {
+      "1.16.5": [
+        "blue_harness"
+      ],
+      "1.19": [
+        "blue_harness"
+      ],
+      "1.21.11": [
+        "blue_dye",
+        "blue_harness",
+        "blue_wool",
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "glass",
+        "lapis_block",
+        "lapis_lazuli",
+        "lapis_ore",
+        "leather",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "sand",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "string",
+        "white_harness",
+        "white_wool",
+        "wooden_pickaxe"
+      ]
+    },
+    "fea_002": {
+      "1.16.5": [
+        "bundle"
+      ],
+      "1.19": [
+        "bundle"
+      ],
+      "1.21.11": [
+        "bundle",
+        "leather",
+        "string"
+      ]
+    },
+    "fea_003": {
+      "1.16.5": [
+        "chain",
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_sword",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ],
+      "1.19": [
+        "chain",
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_sword",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "raw_iron",
+        "raw_iron_block",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ],
+      "1.21.11": [
+        "chain"
+      ]
+    },
+    "fea_004": {
+      "1.16.5": [
+        "chiseled_bookshelf"
+      ],
+      "1.19": [
+        "chiseled_bookshelf"
+      ],
+      "1.21.11": [
+        "chiseled_bookshelf",
+        "oak_log",
+        "oak_planks",
+        "oak_slab",
+        "oak_wood"
+      ]
+    },
+    "fea_005": {
+      "1.16.5": [
+        "crafter"
+      ],
+      "1.19": [
+        "crafter"
+      ],
+      "1.21.11": [
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "crafter",
+        "crafting_table",
+        "dropper",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_spear",
+        "iron_sword",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "raw_iron",
+        "raw_iron_block",
+        "redstone",
+        "redstone_block",
+        "redstone_ore",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ]
+    },
+    "fea_006": {
+      "1.16.5": [
+        "diamond_spear"
+      ],
+      "1.19": [
+        "diamond_spear"
+      ],
+      "1.21.11": [
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "diamond",
+        "diamond_block",
+        "diamond_ore",
+        "diamond_spear",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_spear",
+        "iron_sword",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "raw_iron",
+        "raw_iron_block",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ]
+    },
+    "fea_007": {
+      "1.16.5": [
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "gold_ore",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_sword",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ],
+      "1.19": [
+        "gold_ore"
+      ],
+      "1.21.11": [
+        "gold_ore"
+      ]
+    },
+    "fea_008": {
+      "1.16.5": [
+        "golden_spear"
+      ],
+      "1.19": [
+        "golden_spear"
+      ],
+      "1.21.11": [
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "gold_block",
+        "gold_ingot",
+        "gold_nugget",
+        "gold_ore",
+        "golden_axe",
+        "golden_boots",
+        "golden_chestplate",
+        "golden_helmet",
+        "golden_hoe",
+        "golden_leggings",
+        "golden_pickaxe",
+        "golden_shovel",
+        "golden_spear",
+        "golden_sword",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_spear",
+        "iron_sword",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "raw_gold",
+        "raw_gold_block",
+        "raw_iron",
+        "raw_iron_block",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ]
+    },
+    "fea_009": {
+      "1.16.5": [
+        "cobblestone",
+        "iron_ore",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ],
+      "1.19": [
+        "iron_ore"
+      ],
+      "1.21.11": [
+        "iron_ore"
+      ]
+    },
+    "fea_010": {
+      "1.16.5": [
+        "lodestone"
+      ],
+      "1.19": [
+        "lodestone"
+      ],
+      "1.21.11": [
+        "chiseled_stone_bricks",
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_spear",
+        "iron_sword",
+        "lodestone",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "raw_iron",
+        "raw_iron_block",
+        "stick",
+        "stone",
+        "stone_brick_slab",
+        "stone_bricks",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ]
+    },
+    "pla_001": {
+      "1.16.5": [
+        "lead"
+      ],
+      "1.19": [
+        "lead"
+      ],
+      "1.21.11": [
+        "lead",
+        "string"
+      ]
+    },
+    "pla_002": {
+      "1.16.5": [
+        "stone_spear"
+      ],
+      "1.19": [
+        "stone_spear"
+      ],
+      "1.21.11": [
+        "cobblestone",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "stone",
+        "stone_spear",
+        "wooden_pickaxe"
+      ]
+    },
+    "pla_003": {
+      "1.16.5": [
+        "wooden_spear"
+      ],
+      "1.19": [
+        "wooden_spear"
+      ],
+      "1.21.11": [
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "wooden_spear"
+      ]
+    },
+    "pla_004": {
+      "1.16.5": [
+        "blue_dye",
+        "blue_wool",
+        "cobblestone",
+        "lapis_block",
+        "lapis_lazuli",
+        "lapis_ore",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "string",
+        "white_wool",
+        "wooden_pickaxe"
+      ],
+      "1.19": [
+        "blue_dye",
+        "blue_wool",
+        "cobblestone",
+        "lapis_block",
+        "lapis_lazuli",
+        "lapis_ore",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "string",
+        "white_wool",
+        "wooden_pickaxe"
+      ],
+      "1.21.11": [
+        "blue_dye",
+        "blue_wool",
+        "cobblestone",
+        "lapis_block",
+        "lapis_lazuli",
+        "lapis_ore",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "string",
+        "white_wool",
+        "wooden_pickaxe"
+      ]
+    },
+    "pla_005": {
+      "1.16.5": [
+        "saddle"
+      ],
+      "1.19": [
+        "saddle"
+      ],
+      "1.21.11": [
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_spear",
+        "iron_sword",
+        "leather",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "raw_iron",
+        "raw_iron_block",
+        "saddle",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ]
+    },
+    "pla_006": {
+      "1.16.5": [
+        "white_harness"
+      ],
+      "1.19": [
+        "white_harness"
+      ],
+      "1.21.11": [
+        "coal",
+        "coal_ore",
+        "glass",
+        "leather",
+        "sand",
+        "string",
+        "white_harness",
+        "white_wool",
+        "wooden_pickaxe"
+      ]
+    },
+    "pla_007": {
+      "1.16.5": [
+        "iron_spear"
+      ],
+      "1.19": [
+        "iron_spear"
+      ],
+      "1.21.11": [
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_spear",
+        "iron_sword",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "raw_iron",
+        "raw_iron_block",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ]
+    },
+    "pla_008": {
+      "1.16.5": [
+        "oak_chest_boat"
+      ],
+      "1.19": [
+        "chest",
+        "oak_boat",
+        "oak_chest_boat",
+        "oak_log",
+        "oak_planks",
+        "oak_wood"
+      ],
+      "1.21.11": [
+        "chest",
+        "oak_boat",
+        "oak_chest_boat",
+        "oak_log",
+        "oak_planks",
+        "oak_wood"
+      ]
+    },
+    "pla_009": {
+      "1.16.5": [
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "compass",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_sword",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "redstone",
+        "redstone_block",
+        "redstone_ore",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ],
+      "1.19": [
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "compass",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_sword",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "raw_iron",
+        "raw_iron_block",
+        "redstone",
+        "redstone_block",
+        "redstone_ore",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ],
+      "1.21.11": [
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "compass",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_spear",
+        "iron_sword",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "raw_iron",
+        "raw_iron_block",
+        "redstone",
+        "redstone_block",
+        "redstone_ore",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ]
+    },
+    "pla_010": {
+      "1.16.5": [
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "furnace",
+        "furnace_minecart",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_sword",
+        "minecart",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ],
+      "1.19": [
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "furnace",
+        "furnace_minecart",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_sword",
+        "minecart",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "raw_iron",
+        "raw_iron_block",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ],
+      "1.21.11": [
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "furnace",
+        "furnace_minecart",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_spear",
+        "iron_sword",
+        "minecart",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "raw_iron",
+        "raw_iron_block",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ]
+    },
+    "pla_011": {
+      "1.16.5": [
+        "chest",
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "hopper",
+        "hopper_minecart",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_sword",
+        "minecart",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ],
+      "1.19": [
+        "chest",
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "hopper",
+        "hopper_minecart",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_sword",
+        "minecart",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "raw_iron",
+        "raw_iron_block",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ],
+      "1.21.11": [
+        "chest",
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "hopper",
+        "hopper_minecart",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_spear",
+        "iron_sword",
+        "minecart",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "raw_iron",
+        "raw_iron_block",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ]
+    },
+    "pla_012": {
+      "1.16.5": [
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "gold_block",
+        "gold_ingot",
+        "gold_nugget",
+        "gold_ore",
+        "golden_axe",
+        "golden_boots",
+        "golden_chestplate",
+        "golden_helmet",
+        "golden_hoe",
+        "golden_leggings",
+        "golden_pickaxe",
+        "golden_shovel",
+        "golden_sword",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_sword",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ],
+      "1.19": [
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "gold_block",
+        "gold_ingot",
+        "gold_nugget",
+        "gold_ore",
+        "golden_axe",
+        "golden_boots",
+        "golden_chestplate",
+        "golden_helmet",
+        "golden_hoe",
+        "golden_leggings",
+        "golden_pickaxe",
+        "golden_shovel",
+        "golden_sword",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_sword",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "raw_gold",
+        "raw_gold_block",
+        "raw_iron",
+        "raw_iron_block",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ],
+      "1.21.11": [
+        "coal",
+        "coal_ore",
+        "cobblestone",
+        "gold_block",
+        "gold_ingot",
+        "gold_nugget",
+        "gold_ore",
+        "golden_axe",
+        "golden_boots",
+        "golden_chestplate",
+        "golden_helmet",
+        "golden_hoe",
+        "golden_leggings",
+        "golden_pickaxe",
+        "golden_shovel",
+        "golden_spear",
+        "golden_sword",
+        "iron_axe",
+        "iron_block",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_ingot",
+        "iron_leggings",
+        "iron_nugget",
+        "iron_ore",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_spear",
+        "iron_sword",
+        "oak_log",
+        "oak_planks",
+        "oak_wood",
+        "raw_gold",
+        "raw_gold_block",
+        "raw_iron",
+        "raw_iron_block",
+        "stick",
+        "stone",
+        "stone_pickaxe",
+        "wooden_pickaxe"
+      ]
+    }
+  },
+  "scope": "p1",
+  "separator_probe_count": 12,
+  "task_count": 42,
+  "task_ids": [
+    "pla_001",
+    "pla_002",
+    "pla_003",
+    "pla_004",
+    "pla_005",
+    "pla_006",
+    "pla_007",
+    "pla_008",
+    "pla_009",
+    "pla_010",
+    "pla_011",
+    "pla_012",
+    "fea_001",
+    "fea_002",
+    "fea_003",
+    "fea_004",
+    "fea_005",
+    "fea_006",
+    "fea_007",
+    "fea_008",
+    "fea_009",
+    "fea_010",
+    "eff_001",
+    "eff_002",
+    "eff_003",
+    "eff_004",
+    "eff_005",
+    "eff_006",
+    "eff_007",
+    "eff_008",
+    "con_001",
+    "con_002",
+    "con_003",
+    "con_004",
+    "con_005",
+    "con_006",
+    "con_007",
+    "con_008",
+    "con_009",
+    "con_010",
+    "con_011",
+    "con_012"
+  ]
+}

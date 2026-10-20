@@ -1,0 +1,2417 @@
+[
+  {
+    "candidate_title": "Activator Rail",
+    "item_id": "activator_rail",
+    "page_title": "Activator Rail",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Activator Rail",
+      "T1": "Activator Rail",
+      "T2": "Activator Rail",
+      "T3": "Activator Rail",
+      "current": "Activator Rail"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Blast Furnace",
+    "item_id": "blast_furnace",
+    "page_title": "Blast Furnace",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Blast Furnace",
+      "T1": "Blast Furnace",
+      "T2": "Blast Furnace",
+      "T3": "Blast Furnace",
+      "current": "Blast Furnace"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Blue Carpet",
+    "item_id": "blue_carpet",
+    "page_title": "Blue Carpet",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Carpet",
+      "T1": "Carpet",
+      "T2": "Carpet",
+      "T3": "Carpet",
+      "current": "Carpet"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Blue Dye",
+    "item_id": "blue_dye",
+    "page_title": "Blue Dye",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Blue Dye",
+      "T1": "Blue Dye",
+      "T2": "Blue Dye",
+      "T3": "Blue Dye",
+      "current": "Blue Dye"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Blue Harness",
+    "item_id": "blue_harness",
+    "page_title": null,
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "absent_at_cutoff",
+      "T1": "absent_at_cutoff",
+      "T2": "absent_at_cutoff",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": null,
+      "T1": null,
+      "T2": null,
+      "T3": "Harness",
+      "current": "Harness"
+    },
+    "verified_in_dump": false
+  },
+  {
+    "candidate_title": "Blue Wool",
+    "item_id": "blue_wool",
+    "page_title": "Blue wool",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Wool",
+      "T1": "Wool",
+      "T2": "Wool",
+      "T3": "Wool",
+      "current": "Wool"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Book",
+    "item_id": "book",
+    "page_title": "Book",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Book",
+      "T1": "Book",
+      "T2": "Book",
+      "T3": "Book",
+      "current": "Book"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Bucket",
+    "item_id": "bucket",
+    "page_title": "Bucket",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Bucket",
+      "T1": "Bucket",
+      "T2": "Bucket",
+      "T3": "Bucket",
+      "current": "Bucket"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Bundle",
+    "item_id": "bundle",
+    "page_title": "Bundle",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Bundle",
+      "T1": "Bundle",
+      "T2": "Bundle",
+      "T3": "Bundle",
+      "current": "Bundle"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Cauldron",
+    "item_id": "cauldron",
+    "page_title": "Cauldron",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Cauldron",
+      "T1": "Cauldron",
+      "T2": "Cauldron",
+      "T3": "Cauldron",
+      "current": "Cauldron"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Chain",
+    "item_id": "chain",
+    "page_title": "Chain",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Chain",
+      "T1": "Chain",
+      "T2": "Chain",
+      "T3": "Chain",
+      "current": "Chain"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Chest",
+    "item_id": "chest",
+    "page_title": "Chest",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Chest",
+      "T1": "Chest",
+      "T2": "Chest",
+      "T3": "Chest",
+      "current": "Chest"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Minecart with Chest",
+    "item_id": "chest_minecart",
+    "page_title": "Minecart with Chest",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Minecart with Chest",
+      "T1": "Minecart with Chest",
+      "T2": "Minecart with Chest",
+      "T3": "Minecart with Chest",
+      "current": "Minecart with Chest"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Chiseled Bookshelf",
+    "item_id": "chiseled_bookshelf",
+    "page_title": "Chiseled Bookshelf",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "absent_at_cutoff",
+      "T2": "absent_at_cutoff",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Chiseled Bookshelf",
+      "T1": null,
+      "T2": null,
+      "T3": "Chiseled Bookshelf",
+      "current": "Chiseled Bookshelf"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Chiseled Stone Bricks",
+    "item_id": "chiseled_stone_bricks",
+    "page_title": "Chiseled stone bricks",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Stone Bricks",
+      "T1": "Stone Bricks",
+      "T2": "Stone Bricks",
+      "T3": "Chiseled Stone Bricks",
+      "current": "Chiseled Stone Bricks"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Clock",
+    "item_id": "clock",
+    "page_title": "Clock",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Clock",
+      "T1": "Clock",
+      "T2": "Clock",
+      "T3": "Clock",
+      "current": "Clock"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Coal",
+    "item_id": "coal",
+    "page_title": "Coal",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Coal",
+      "T1": "Coal",
+      "T2": "Coal",
+      "T3": "Coal",
+      "current": "Coal"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Block of Coal",
+    "item_id": "coal_block",
+    "page_title": "Block of Coal",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Block of Coal",
+      "T1": "Block of Coal",
+      "T2": "Block of Coal",
+      "T3": "Block of Coal",
+      "current": "Block of Coal"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Coal Ore",
+    "item_id": "coal_ore",
+    "page_title": "Coal Ore",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Coal Ore",
+      "T1": "Coal Ore",
+      "T2": "Coal Ore",
+      "T3": "Coal Ore",
+      "current": "Coal Ore"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Cobbled Deepslate",
+    "item_id": "cobbled_deepslate",
+    "page_title": "Cobbled Deepslate",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "absent_at_cutoff",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Cobbled Deepslate",
+      "T1": null,
+      "T2": "Cobbled Deepslate",
+      "T3": "Cobbled Deepslate",
+      "current": "Cobbled Deepslate"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Cobblestone",
+    "item_id": "cobblestone",
+    "page_title": "Cobblestone",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Cobblestone",
+      "T1": "Cobblestone",
+      "T2": "Cobblestone",
+      "T3": "Cobblestone",
+      "current": "Cobblestone"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Cobblestone Slab",
+    "item_id": "cobblestone_slab",
+    "page_title": "Cobblestone Slab",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Slab",
+      "T1": "Slab",
+      "T2": "Slab",
+      "T3": "Cobblestone Slab",
+      "current": "Cobblestone Slab"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Cobblestone Stairs",
+    "item_id": "cobblestone_stairs",
+    "page_title": "Cobblestone Stairs",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Stairs",
+      "T1": "Stairs",
+      "T2": "Stairs",
+      "T3": "Cobblestone Stairs",
+      "current": "Cobblestone Stairs"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Cobblestone Wall",
+    "item_id": "cobblestone_wall",
+    "page_title": "Cobblestone wall",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Wall",
+      "T1": "Wall",
+      "T2": "Wall",
+      "T3": "Cobblestone Wall",
+      "current": "Cobblestone Wall"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Compass",
+    "item_id": "compass",
+    "page_title": "Compass",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Compass",
+      "T1": "Compass",
+      "T2": "Compass",
+      "T3": "Compass",
+      "current": "Compass"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Copper Ingot",
+    "item_id": "copper_ingot",
+    "page_title": "Copper Ingot",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Copper Ingot",
+      "T1": "Copper Ingot",
+      "T2": "Copper Ingot",
+      "T3": "Copper Ingot",
+      "current": "Copper Ingot"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Copper Pickaxe",
+    "item_id": "copper_pickaxe",
+    "page_title": null,
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "absent_at_cutoff",
+      "T1": "absent_at_cutoff",
+      "T2": "absent_at_cutoff",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": null,
+      "T1": null,
+      "T2": null,
+      "T3": "Copper Pickaxe",
+      "current": "Copper Pickaxe"
+    },
+    "verified_in_dump": false
+  },
+  {
+    "candidate_title": "Cracked Stone Bricks",
+    "item_id": "cracked_stone_bricks",
+    "page_title": "Cracked stone bricks",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Stone Bricks",
+      "T1": "Stone Bricks",
+      "T2": "Stone Bricks",
+      "T3": "Cracked Stone Bricks",
+      "current": "Cracked Stone Bricks"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Crafter",
+    "item_id": "crafter",
+    "page_title": null,
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "absent_at_cutoff",
+      "T1": "absent_at_cutoff",
+      "T2": "absent_at_cutoff",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": null,
+      "T1": null,
+      "T2": null,
+      "T3": "Crafter",
+      "current": "Crafter"
+    },
+    "verified_in_dump": false
+  },
+  {
+    "candidate_title": "Crafting Table",
+    "item_id": "crafting_table",
+    "page_title": "Crafting Table",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Crafting Table",
+      "T1": "Crafting Table",
+      "T2": "Crafting Table",
+      "T3": "Crafting Table",
+      "current": "Crafting Table"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Diamond",
+    "item_id": "diamond",
+    "page_title": "Diamond",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Diamond",
+      "T1": "Diamond",
+      "T2": "Diamond",
+      "T3": "Diamond",
+      "current": "Diamond"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Block of Diamond",
+    "item_id": "diamond_block",
+    "page_title": "Block of Diamond",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Block of Diamond",
+      "T1": "Block of Diamond",
+      "T2": "Block of Diamond",
+      "T3": "Block of Diamond",
+      "current": "Block of Diamond"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Diamond Ore",
+    "item_id": "diamond_ore",
+    "page_title": "Diamond Ore",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Diamond Ore",
+      "T1": "Diamond Ore",
+      "T2": "Diamond Ore",
+      "T3": "Diamond Ore",
+      "current": "Diamond Ore"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Diamond Spear",
+    "item_id": "diamond_spear",
+    "page_title": null,
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "absent_at_cutoff",
+      "T1": "absent_at_cutoff",
+      "T2": "absent_at_cutoff",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": null,
+      "T1": null,
+      "T2": null,
+      "T3": "Diamond Spear",
+      "current": "Diamond Spear"
+    },
+    "verified_in_dump": false
+  },
+  {
+    "candidate_title": "Dropper",
+    "item_id": "dropper",
+    "page_title": "Dropper",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Dropper",
+      "T1": "Dropper",
+      "T2": "Dropper",
+      "T3": "Dropper",
+      "current": "Dropper"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Furnace",
+    "item_id": "furnace",
+    "page_title": "Furnace",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Furnace",
+      "T1": "Furnace",
+      "T2": "Furnace",
+      "T3": "Furnace",
+      "current": "Furnace"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Minecart with Furnace",
+    "item_id": "furnace_minecart",
+    "page_title": "Minecart with Furnace",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Minecart with Furnace",
+      "T1": "Minecart with Furnace",
+      "T2": "Minecart with Furnace",
+      "T3": "Minecart with Furnace",
+      "current": "Minecart with Furnace"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Glass",
+    "item_id": "glass",
+    "page_title": "Glass",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Glass",
+      "T1": "Glass",
+      "T2": "Glass",
+      "T3": "Glass",
+      "current": "Glass"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Glass Bottle",
+    "item_id": "glass_bottle",
+    "page_title": "Glass Bottle",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Glass Bottle",
+      "T1": "Glass Bottle",
+      "T2": "Glass Bottle",
+      "T3": "Glass Bottle",
+      "current": "Glass Bottle"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Block of Gold",
+    "item_id": "gold_block",
+    "page_title": "Block of Gold",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Block of Gold",
+      "T1": "Block of Gold",
+      "T2": "Block of Gold",
+      "T3": "Block of Gold",
+      "current": "Block of Gold"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Gold Ingot",
+    "item_id": "gold_ingot",
+    "page_title": "Gold Ingot",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Gold Ingot",
+      "T1": "Gold Ingot",
+      "T2": "Gold Ingot",
+      "T3": "Gold Ingot",
+      "current": "Gold Ingot"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Gold Nugget",
+    "item_id": "gold_nugget",
+    "page_title": "Gold Nugget",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Gold Nugget",
+      "T1": "Gold Nugget",
+      "T2": "Gold Nugget",
+      "T3": "Gold Nugget",
+      "current": "Gold Nugget"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Gold Ore",
+    "item_id": "gold_ore",
+    "page_title": "Gold Ore",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Gold Ore",
+      "T1": "Gold Ore",
+      "T2": "Gold Ore",
+      "T3": "Gold Ore",
+      "current": "Gold Ore"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Golden Axe",
+    "item_id": "golden_axe",
+    "page_title": "Golden axe",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Axe",
+      "T1": "Axe",
+      "T2": "Axe",
+      "T3": "Golden Axe",
+      "current": "Golden Axe"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Golden Boots",
+    "item_id": "golden_boots",
+    "page_title": "Golden boots",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Boots",
+      "T1": "Boots",
+      "T2": "Boots",
+      "T3": "Golden Boots",
+      "current": "Golden Boots"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Golden Chestplate",
+    "item_id": "golden_chestplate",
+    "page_title": "Golden chestplate",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Chestplate",
+      "T1": "Chestplate",
+      "T2": "Chestplate",
+      "T3": "Golden Chestplate",
+      "current": "Golden Chestplate"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Golden Helmet",
+    "item_id": "golden_helmet",
+    "page_title": "Golden helmet",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Helmet",
+      "T1": "Helmet",
+      "T2": "Helmet",
+      "T3": "Golden Helmet",
+      "current": "Golden Helmet"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Golden Hoe",
+    "item_id": "golden_hoe",
+    "page_title": "Golden Hoe",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Hoe",
+      "T1": "Hoe",
+      "T2": "Hoe",
+      "T3": "Golden Hoe",
+      "current": "Golden Hoe"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Golden Leggings",
+    "item_id": "golden_leggings",
+    "page_title": "Golden leggings",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Leggings",
+      "T1": "Leggings",
+      "T2": "Leggings",
+      "T3": "Golden Leggings",
+      "current": "Golden Leggings"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Golden Pickaxe",
+    "item_id": "golden_pickaxe",
+    "page_title": "Golden Pickaxe",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Pickaxe",
+      "T1": "Pickaxe",
+      "T2": "Pickaxe",
+      "T3": "Golden Pickaxe",
+      "current": "Golden Pickaxe"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Golden Shovel",
+    "item_id": "golden_shovel",
+    "page_title": "Golden Shovel",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Shovel",
+      "T1": "Shovel",
+      "T2": "Shovel",
+      "T3": "Golden Shovel",
+      "current": "Golden Shovel"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Golden Spear",
+    "item_id": "golden_spear",
+    "page_title": null,
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "absent_at_cutoff",
+      "T1": "absent_at_cutoff",
+      "T2": "absent_at_cutoff",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": null,
+      "T1": null,
+      "T2": null,
+      "T3": "Golden Spear",
+      "current": "Golden Spear"
+    },
+    "verified_in_dump": false
+  },
+  {
+    "candidate_title": "Golden Sword",
+    "item_id": "golden_sword",
+    "page_title": "Golden sword",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Sword",
+      "T1": "Sword",
+      "T2": "Sword",
+      "T3": "Golden Sword",
+      "current": "Golden Sword"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Hopper",
+    "item_id": "hopper",
+    "page_title": "Hopper",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Hopper",
+      "T1": "Hopper",
+      "T2": "Hopper",
+      "T3": "Hopper",
+      "current": "Hopper"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Minecart with Hopper",
+    "item_id": "hopper_minecart",
+    "page_title": "Minecart with Hopper",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Minecart with Hopper",
+      "T1": "Minecart with Hopper",
+      "T2": "Minecart with Hopper",
+      "T3": "Minecart with Hopper",
+      "current": "Minecart with Hopper"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Iron Axe",
+    "item_id": "iron_axe",
+    "page_title": "Iron axe",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Axe",
+      "T1": "Axe",
+      "T2": "Axe",
+      "T3": "Iron Axe",
+      "current": "Iron Axe"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Block of Iron",
+    "item_id": "iron_block",
+    "page_title": "Block of Iron",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Block of Iron",
+      "T1": "Block of Iron",
+      "T2": "Block of Iron",
+      "T3": "Block of Iron",
+      "current": "Block of Iron"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Iron Boots",
+    "item_id": "iron_boots",
+    "page_title": "Iron boots",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Boots",
+      "T1": "Boots",
+      "T2": "Boots",
+      "T3": "Iron Boots",
+      "current": "Iron Boots"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Iron Chain",
+    "item_id": "iron_chain",
+    "page_title": null,
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "absent_at_cutoff",
+      "T1": "absent_at_cutoff",
+      "T2": "absent_at_cutoff",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": null,
+      "T1": null,
+      "T2": null,
+      "T3": "Iron Chain",
+      "current": "Iron Chain"
+    },
+    "verified_in_dump": false
+  },
+  {
+    "candidate_title": "Iron Chestplate",
+    "item_id": "iron_chestplate",
+    "page_title": "Iron chestplate",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Chestplate",
+      "T1": "Chestplate",
+      "T2": "Chestplate",
+      "T3": "Iron Chestplate",
+      "current": "Iron Chestplate"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Iron Helmet",
+    "item_id": "iron_helmet",
+    "page_title": "Iron helmet",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Helmet",
+      "T1": "Helmet",
+      "T2": "Helmet",
+      "T3": "Iron Helmet",
+      "current": "Iron Helmet"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Iron Hoe",
+    "item_id": "iron_hoe",
+    "page_title": "Iron Hoe",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Hoe",
+      "T1": "Hoe",
+      "T2": "Hoe",
+      "T3": "Iron Hoe",
+      "current": "Iron Hoe"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Iron Ingot",
+    "item_id": "iron_ingot",
+    "page_title": "Iron Ingot",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Iron Ingot",
+      "T1": "Iron Ingot",
+      "T2": "Iron Ingot",
+      "T3": "Iron Ingot",
+      "current": "Iron Ingot"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Iron Leggings",
+    "item_id": "iron_leggings",
+    "page_title": "Iron leggings",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Leggings",
+      "T1": "Leggings",
+      "T2": "Leggings",
+      "T3": "Iron Leggings",
+      "current": "Iron Leggings"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Iron Nugget",
+    "item_id": "iron_nugget",
+    "page_title": "Iron Nugget",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Iron Nugget",
+      "T1": "Iron Nugget",
+      "T2": "Iron Nugget",
+      "T3": "Iron Nugget",
+      "current": "Iron Nugget"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Iron Ore",
+    "item_id": "iron_ore",
+    "page_title": "Iron Ore",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Iron Ore",
+      "T1": "Iron Ore",
+      "T2": "Iron Ore",
+      "T3": "Iron Ore",
+      "current": "Iron Ore"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Iron Pickaxe",
+    "item_id": "iron_pickaxe",
+    "page_title": "Iron pickaxe",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Pickaxe",
+      "T1": "Pickaxe",
+      "T2": "Pickaxe",
+      "T3": "Iron Pickaxe",
+      "current": "Iron Pickaxe"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Iron Shovel",
+    "item_id": "iron_shovel",
+    "page_title": "Iron Shovel",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Shovel",
+      "T1": "Shovel",
+      "T2": "Shovel",
+      "T3": "Iron Shovel",
+      "current": "Iron Shovel"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Iron Spear",
+    "item_id": "iron_spear",
+    "page_title": null,
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "absent_at_cutoff",
+      "T1": "absent_at_cutoff",
+      "T2": "absent_at_cutoff",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": null,
+      "T1": null,
+      "T2": null,
+      "T3": "Iron Spear",
+      "current": "Iron Spear"
+    },
+    "verified_in_dump": false
+  },
+  {
+    "candidate_title": "Iron Sword",
+    "item_id": "iron_sword",
+    "page_title": "Iron Sword",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Sword",
+      "T1": "Sword",
+      "T2": "Sword",
+      "T3": "Iron Sword",
+      "current": "Iron Sword"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Block of Lapis Lazuli",
+    "item_id": "lapis_block",
+    "page_title": "Block of Lapis Lazuli",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Block of Lapis Lazuli",
+      "T1": "Block of Lapis Lazuli",
+      "T2": "Block of Lapis Lazuli",
+      "T3": "Block of Lapis Lazuli",
+      "current": "Block of Lapis Lazuli"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Lapis Lazuli",
+    "item_id": "lapis_lazuli",
+    "page_title": "Lapis Lazuli",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Lapis Lazuli",
+      "T1": "Lapis Lazuli",
+      "T2": "Lapis Lazuli",
+      "T3": "Lapis Lazuli",
+      "current": "Lapis Lazuli"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Lapis Lazuli Ore",
+    "item_id": "lapis_ore",
+    "page_title": "Lapis Lazuli Ore",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Lapis Lazuli Ore",
+      "T1": "Lapis Lazuli Ore",
+      "T2": "Lapis Lazuli Ore",
+      "T3": "Lapis Lazuli Ore",
+      "current": "Lapis Lazuli Ore"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Lead",
+    "item_id": "lead",
+    "page_title": "Lead",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Lead",
+      "T1": "Lead",
+      "T2": "Lead",
+      "T3": "Lead",
+      "current": "Lead"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Leather",
+    "item_id": "leather",
+    "page_title": "Leather",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Leather",
+      "T1": "Leather",
+      "T2": "Leather",
+      "T3": "Leather",
+      "current": "Leather"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Leather Boots",
+    "item_id": "leather_boots",
+    "page_title": "Leather boots",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Boots",
+      "T1": "Boots",
+      "T2": "Boots",
+      "T3": "Leather Boots",
+      "current": "Leather Boots"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Leather Chestplate",
+    "item_id": "leather_chestplate",
+    "page_title": "Leather Chestplate",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "absent_at_cutoff",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Chestplate",
+      "T1": null,
+      "T2": "Chestplate",
+      "T3": "Leather Tunic",
+      "current": "Leather Tunic"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Leather Helmet",
+    "item_id": "leather_helmet",
+    "page_title": "Leather helmet",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Helmet",
+      "T1": "Helmet",
+      "T2": "Helmet",
+      "T3": "Leather Cap",
+      "current": "Leather Cap"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Leather Horse Armor",
+    "item_id": "leather_horse_armor",
+    "page_title": "Leather Horse Armor",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Horse Armor",
+      "T1": "Horse Armor",
+      "T2": "Horse Armor",
+      "T3": "Leather Horse Armor",
+      "current": "Leather Horse Armor"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Lodestone",
+    "item_id": "lodestone",
+    "page_title": "Lodestone",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Lodestone",
+      "T1": "Lodestone",
+      "T2": "Lodestone",
+      "T3": "Lodestone",
+      "current": "Lodestone"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Minecart",
+    "item_id": "minecart",
+    "page_title": "Minecart",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Minecart",
+      "T1": "Minecart",
+      "T2": "Minecart",
+      "T3": "Minecart",
+      "current": "Minecart"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Name Tag",
+    "item_id": "name_tag",
+    "page_title": "Name Tag",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Name Tag",
+      "T1": "Name Tag",
+      "T2": "Name Tag",
+      "T3": "Name Tag",
+      "current": "Name Tag"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Netherite Ingot",
+    "item_id": "netherite_ingot",
+    "page_title": "Netherite Ingot",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Netherite Ingot",
+      "T1": "Netherite Ingot",
+      "T2": "Netherite Ingot",
+      "T3": "Netherite Ingot",
+      "current": "Netherite Ingot"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Oak Boat",
+    "item_id": "oak_boat",
+    "page_title": "Oak boat",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Boat",
+      "T1": "Boat",
+      "T2": "Boat",
+      "T3": "Boat",
+      "current": "Boat"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Boat with Chest",
+    "item_id": "oak_chest_boat",
+    "page_title": "Boat with Chest",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "absent_at_cutoff",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Boat with Chest",
+      "T1": null,
+      "T2": "Boat with Chest",
+      "T3": "Boat with Chest",
+      "current": "Boat with Chest"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Oak Log",
+    "item_id": "oak_log",
+    "page_title": "Oak log",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Log",
+      "T1": "Log",
+      "T2": "Log",
+      "T3": "Log",
+      "current": "Log"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Oak Planks",
+    "item_id": "oak_planks",
+    "page_title": "Oak planks",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Planks",
+      "T1": "Planks",
+      "T2": "Planks",
+      "T3": "Planks",
+      "current": "Planks"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Oak Slab",
+    "item_id": "oak_slab",
+    "page_title": "Oak slab",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Slab",
+      "T1": "Slab",
+      "T2": "Slab",
+      "T3": "Wooden Slab",
+      "current": "Wooden Slab"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Wood",
+    "item_id": "oak_wood",
+    "page_title": "Wood",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Wood",
+      "T1": "Wood",
+      "T2": "Wood",
+      "T3": "Wood",
+      "current": "Wood"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Paper",
+    "item_id": "paper",
+    "page_title": "Paper",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Paper",
+      "T1": "Paper",
+      "T2": "Paper",
+      "T3": "Paper",
+      "current": "Paper"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Raw Gold",
+    "item_id": "raw_gold",
+    "page_title": "Raw Gold",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "absent_at_cutoff",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Raw Gold",
+      "T1": null,
+      "T2": "Raw Gold",
+      "T3": "Raw Gold",
+      "current": "Raw Gold"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Block of Raw Gold",
+    "item_id": "raw_gold_block",
+    "page_title": "Block of Raw Gold",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "absent_at_cutoff",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Block of Raw Gold",
+      "T1": null,
+      "T2": "Block of Raw Gold",
+      "T3": "Block of Raw Gold",
+      "current": "Block of Raw Gold"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Raw Iron",
+    "item_id": "raw_iron",
+    "page_title": "Raw Iron",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "absent_at_cutoff",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Raw Iron",
+      "T1": null,
+      "T2": "Raw Iron",
+      "T3": "Raw Iron",
+      "current": "Raw Iron"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Block of Raw Iron",
+    "item_id": "raw_iron_block",
+    "page_title": "Block of Raw Iron",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "absent_at_cutoff",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Block of Raw Iron",
+      "T1": null,
+      "T2": "Block of Raw Iron",
+      "T3": "Block of Raw Iron",
+      "current": "Block of Raw Iron"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Redstone",
+    "item_id": "redstone",
+    "page_title": "Redstone",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Redstone Dust",
+      "T1": "Redstone Dust",
+      "T2": "Redstone Dust",
+      "T3": "Redstone",
+      "current": "Redstone"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Block of Redstone",
+    "item_id": "redstone_block",
+    "page_title": "Block of Redstone",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Block of Redstone",
+      "T1": "Block of Redstone",
+      "T2": "Block of Redstone",
+      "T3": "Block of Redstone",
+      "current": "Block of Redstone"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Redstone Ore",
+    "item_id": "redstone_ore",
+    "page_title": "Redstone Ore",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Redstone Ore",
+      "T1": "Redstone Ore",
+      "T2": "Redstone Ore",
+      "T3": "Redstone Ore",
+      "current": "Redstone Ore"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Redstone Torch",
+    "item_id": "redstone_torch",
+    "page_title": "Redstone Torch",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Redstone Torch",
+      "T1": "Redstone Torch",
+      "T2": "Redstone Torch",
+      "T3": "Redstone Torch",
+      "current": "Redstone Torch"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Saddle",
+    "item_id": "saddle",
+    "page_title": "Saddle",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Saddle",
+      "T1": "Saddle",
+      "T2": "Saddle",
+      "T3": "Saddle",
+      "current": "Saddle"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Sand",
+    "item_id": "sand",
+    "page_title": "Sand",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Sand",
+      "T1": "Sand",
+      "T2": "Sand",
+      "T3": "Sand",
+      "current": "Sand"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Scute",
+    "item_id": "scute",
+    "page_title": "Scute",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Scute",
+      "T1": "Scute",
+      "T2": "Scute",
+      "T3": "Scute",
+      "current": "Scute"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Smooth Stone",
+    "item_id": "smooth_stone",
+    "page_title": "Smooth Stone",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Smooth Stone",
+      "T1": "Smooth Stone",
+      "T2": "Smooth Stone",
+      "T3": "Smooth Stone",
+      "current": "Smooth Stone"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Stick",
+    "item_id": "stick",
+    "page_title": "Stick",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Stick",
+      "T1": "Stick",
+      "T2": "Stick",
+      "T3": "Stick",
+      "current": "Stick"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Stone",
+    "item_id": "stone",
+    "page_title": "Stone",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Stone",
+      "T1": "Stone",
+      "T2": "Stone",
+      "T3": "Stone",
+      "current": "Stone"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Stone Brick Slab",
+    "item_id": "stone_brick_slab",
+    "page_title": "Stone brick slab",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Slab",
+      "T1": "Slab",
+      "T2": "Slab",
+      "T3": "Stone Brick Slab",
+      "current": "Stone Brick Slab"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Stone Bricks",
+    "item_id": "stone_bricks",
+    "page_title": "Stone Bricks",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Stone Bricks",
+      "T1": "Stone Bricks",
+      "T2": "Stone Bricks",
+      "T3": "Stone Bricks",
+      "current": "Stone Bricks"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Stone Pickaxe",
+    "item_id": "stone_pickaxe",
+    "page_title": "Stone pickaxe",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Pickaxe",
+      "T1": "Pickaxe",
+      "T2": "Pickaxe",
+      "T3": "Stone Pickaxe",
+      "current": "Stone Pickaxe"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Stone Spear",
+    "item_id": "stone_spear",
+    "page_title": null,
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "absent_at_cutoff",
+      "T1": "absent_at_cutoff",
+      "T2": "absent_at_cutoff",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": null,
+      "T1": null,
+      "T2": null,
+      "T3": "Stone Spear",
+      "current": "Stone Spear"
+    },
+    "verified_in_dump": false
+  },
+  {
+    "candidate_title": "String",
+    "item_id": "string",
+    "page_title": "String",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "String",
+      "T1": "String",
+      "T2": "String",
+      "T3": "String",
+      "current": "String"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Turtle Scute",
+    "item_id": "turtle_scute",
+    "page_title": null,
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "absent_at_cutoff",
+      "T1": "absent_at_cutoff",
+      "T2": "absent_at_cutoff",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": null,
+      "T1": null,
+      "T2": null,
+      "T3": "Turtle Scute",
+      "current": "Turtle Scute"
+    },
+    "verified_in_dump": false
+  },
+  {
+    "candidate_title": "White Carpet",
+    "item_id": "white_carpet",
+    "page_title": "White Carpet",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Carpet",
+      "T1": "Carpet",
+      "T2": "Carpet",
+      "T3": "Carpet",
+      "current": "Carpet"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "White Harness",
+    "item_id": "white_harness",
+    "page_title": null,
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "absent_at_cutoff",
+      "T1": "absent_at_cutoff",
+      "T2": "absent_at_cutoff",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": null,
+      "T1": null,
+      "T2": null,
+      "T3": "Harness",
+      "current": "Harness"
+    },
+    "verified_in_dump": false
+  },
+  {
+    "candidate_title": "White Wool",
+    "item_id": "white_wool",
+    "page_title": "White wool",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Wool",
+      "T1": "Wool",
+      "T2": "Wool",
+      "T3": "Wool",
+      "current": "Wool"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Wooden Pickaxe",
+    "item_id": "wooden_pickaxe",
+    "page_title": "Wooden pickaxe",
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "resolved",
+      "T1": "resolved",
+      "T2": "resolved",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": "Pickaxe",
+      "T1": "Pickaxe",
+      "T2": "Pickaxe",
+      "T3": "Wooden Pickaxe",
+      "current": "Wooden Pickaxe"
+    },
+    "verified_in_dump": true
+  },
+  {
+    "candidate_title": "Wooden Spear",
+    "item_id": "wooden_spear",
+    "page_title": null,
+    "redirect_from": null,
+    "resolution_status": {
+      "Fandom2023": "absent_at_cutoff",
+      "T1": "absent_at_cutoff",
+      "T2": "absent_at_cutoff",
+      "T3": "resolved",
+      "current": "resolved"
+    },
+    "resolved_title": {
+      "Fandom2023": null,
+      "T1": null,
+      "T2": null,
+      "T3": "Wooden Spear",
+      "current": "Wooden Spear"
+    },
+    "verified_in_dump": false
+  }
+]

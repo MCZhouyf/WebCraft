@@ -1,0 +1,45 @@
+{
+  "cells": [
+    {
+      "condition": "matched_1.16.5",
+      "corpus_timepoint": "T1",
+      "world": "1.16.5"
+    },
+    {
+      "condition": "matched_1.19",
+      "corpus_timepoint": "T2",
+      "world": "1.19"
+    },
+    {
+      "condition": "matched_1.21.11",
+      "corpus_timepoint": "T3",
+      "world": "1.21.11"
+    },
+    {
+      "condition": "mismatched_old2new",
+      "corpus_timepoint": "T1",
+      "world": "1.21.11"
+    },
+    {
+      "condition": "mismatched_new2old",
+      "corpus_timepoint": "T3",
+      "world": "1.16.5"
+    }
+  ],
+  "schema_version": 1,
+  "web_corpus_grid_count": 60,
+  "web_task_ids": [
+    "extv2_001",
+    "extv2_002",
+    "extv2_004",
+    "extv2_005",
+    "extv2_006",
+    "extv2_007",
+    "extv2_008",
+    "extv2_009",
+    "extv2_010",
+    "extv2_011",
+    "extv2_012",
+    "extv2_013"
+  ]
+}

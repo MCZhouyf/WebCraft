@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "primary_unit": "semantic_action",
+  "charges": {"mine": 1, "craft_grid": 1, "smelt": "requested_positive_integer_n", "check_name": 1, "inventory": 0, "report_version": 0, "submit": 0, "search": 0},
+  "failed_actions_charged": true,
+  "invalid_smelt_n_charge": 1,
+  "auxiliary_only": ["consumed_items", "wall_ms", "net_displacement"],
+  "notes": "Smelt reserves n units at invocation, including failed attempts. The returned completed count is separate. No refund on failure. Inventory polling and evaluation after episode end are free."
+}

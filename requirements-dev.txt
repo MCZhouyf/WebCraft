@@ -1,0 +1,4 @@
+PuLP>=2.7
+pytest>=7.0
+requests>=2.28
+zstandard>=0.21

@@ -1,0 +1,18 @@
+{
+  "name": "webcraft-stage0-harness",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Isolated Mineflayer harness for WebCraft Stage 0",
+  "scripts": {
+    "smoke:connect": "node src/smoke_connect.mjs",
+    "test:leakage": "node src/leakage_probe.mjs"
+  },
+  "dependencies": {
+    "minecraft-data": "^3.117.0",
+    "mineflayer": "^4.39.0",
+    "mineflayer-pathfinder": "^2.4.5",
+    "rcon-client": "^4.2.5",
+    "vec3": "^0.2.0"
+  }
+}

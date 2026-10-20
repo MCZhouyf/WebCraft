@@ -1,0 +1,90 @@
+{
+  "boundary_question": [
+    {
+      "mechanism fact": "saddle can be made from leather, leather, iron_ingot, leather at crafting_grid.",
+      "source": "historical_archive_1.21.11",
+      "timestamp": "2026-01-08T00:00:00Z"
+    },
+    {
+      "mechanism fact": "saddle can be made from leather, leather, iron_ingot, leather at crafting_grid.",
+      "source": "historical_archive_1.21.11",
+      "timestamp": "2026-01-08T00:00:00Z"
+    }
+  ],
+  "comparison_world": "1.21.11",
+  "conditions": {
+    "K": [
+      {
+        "mechanism fact": "saddle cannot be made from leather, leather, iron_ingot, leather at crafting_grid.",
+        "source": "truth_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "saddle cannot be made from leather, leather, iron_ingot, leather at crafting_grid.",
+        "source": "truth_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      }
+    ],
+    "K+N": [
+      {
+        "mechanism fact": "saddle cannot be made from leather, leather, iron_ingot, leather at crafting_grid.",
+        "source": "truth_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "rabbit_stew from baked_potato, bowl, brown_mushroom, carrot, cooked_rabbit.    ",
+        "source": "neutral_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "rabbit_stew from baked_potato, bowl, carrot, cooked_rabbit, red_mushroom.      ",
+        "source": "neutral_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "saddle cannot be made from leather, leather, iron_ingot, leather at crafting_grid.",
+        "source": "truth_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      }
+    ],
+    "K+S": [
+      {
+        "mechanism fact": "saddle can be made from leather, leather, iron_ingot, leather at crafting_grid.",
+        "source": "historical_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "saddle cannot be made from leather, leather, iron_ingot, leather at crafting_grid.",
+        "source": "truth_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "saddle can be made from leather, leather, iron_ingot, leather at crafting_grid.",
+        "source": "historical_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "saddle cannot be made from leather, leather, iron_ingot, leather at crafting_grid.",
+        "source": "truth_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      }
+    ],
+    "S": [
+      {
+        "mechanism fact": "saddle can be made from leather, leather, iron_ingot, leather at crafting_grid.",
+        "source": "historical_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "saddle can be made from leather, leather, iron_ingot, leather at crafting_grid.",
+        "source": "historical_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      }
+    ],
+    "empty": []
+  },
+  "instance_id": "cds_0041_extv2_011_1_16_5_vs_1_21_11",
+  "schema_version": 1,
+  "target_world": "1.16.5",
+  "task_id": "extv2_011"
+}

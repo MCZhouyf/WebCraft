@@ -1,0 +1,361 @@
+{
+  "exports": {
+    "mcwiki_history_redirect_targets.xml": "676b50d776bcd5b90d25f15b4fb590ea26ce0f48d5b402f7351ce8b3c78e6dee"
+  },
+  "snapshots": {
+    "T3": {
+      "Boat": {
+        "page_title": "Boat",
+        "revid": 3350007,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-01-05T16:07:04Z",
+        "wikitext": "T3/3350007.wikitext"
+      },
+      "Chiseled Stone Bricks": {
+        "page_title": "Chiseled Stone Bricks",
+        "revid": 3275572,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2025-11-19T03:06:03Z",
+        "wikitext": "T3/3275572.wikitext"
+      },
+      "Cobblestone Wall": {
+        "page_title": "Cobblestone Wall",
+        "revid": 3316184,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2025-12-12T21:42:07Z",
+        "wikitext": "T3/3316184.wikitext"
+      },
+      "Cracked Stone Bricks": {
+        "page_title": "Cracked Stone Bricks",
+        "revid": 3335839,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2025-12-26T22:13:23Z",
+        "wikitext": "T3/3335839.wikitext"
+      },
+      "Golden Axe": {
+        "page_title": "Golden Axe",
+        "revid": 3343034,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2025-12-31T21:20:39Z",
+        "wikitext": "T3/3343034.wikitext"
+      },
+      "Golden Boots": {
+        "page_title": "Golden Boots",
+        "revid": 3348094,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-01-04T02:01:01Z",
+        "wikitext": "T3/3348094.wikitext"
+      },
+      "Golden Chestplate": {
+        "page_title": "Golden Chestplate",
+        "revid": 3348092,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-01-04T02:00:59Z",
+        "wikitext": "T3/3348092.wikitext"
+      },
+      "Golden Helmet": {
+        "page_title": "Golden Helmet",
+        "revid": 3348034,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-01-04T00:28:18Z",
+        "wikitext": "T3/3348034.wikitext"
+      },
+      "Golden Leggings": {
+        "page_title": "Golden Leggings",
+        "revid": 3348093,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-01-04T02:01:00Z",
+        "wikitext": "T3/3348093.wikitext"
+      },
+      "Golden Sword": {
+        "page_title": "Golden Sword",
+        "revid": 3343026,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2025-12-31T21:18:58Z",
+        "wikitext": "T3/3343026.wikitext"
+      },
+      "Iron Axe": {
+        "page_title": "Iron Axe",
+        "revid": 3366987,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-01-08T07:32:09Z",
+        "wikitext": "T3/3366987.wikitext"
+      },
+      "Iron Boots": {
+        "page_title": "Iron Boots",
+        "revid": 3339849,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2025-12-29T19:40:10Z",
+        "wikitext": "T3/3339849.wikitext"
+      },
+      "Iron Chestplate": {
+        "page_title": "Iron Chestplate",
+        "revid": 3278022,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2025-11-20T15:31:26Z",
+        "wikitext": "T3/3278022.wikitext"
+      },
+      "Iron Helmet": {
+        "page_title": "Iron Helmet",
+        "revid": 3359207,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-01-07T07:07:53Z",
+        "wikitext": "T3/3359207.wikitext"
+      },
+      "Iron Leggings": {
+        "page_title": "Iron Leggings",
+        "revid": 3278577,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2025-11-20T22:38:25Z",
+        "wikitext": "T3/3278577.wikitext"
+      },
+      "Iron Pickaxe": {
+        "page_title": "Iron Pickaxe",
+        "revid": 3366984,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-01-08T07:30:59Z",
+        "wikitext": "T3/3366984.wikitext"
+      },
+      "Leather Boots": {
+        "page_title": "Leather Boots",
+        "revid": 3299970,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2025-12-04T02:31:46Z",
+        "wikitext": "T3/3299970.wikitext"
+      },
+      "Leather Cap": {
+        "page_title": "Leather Cap",
+        "revid": 3348277,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-01-04T06:37:10Z",
+        "wikitext": "T3/3348277.wikitext"
+      },
+      "Leather Tunic": {
+        "page_title": "Leather Tunic",
+        "revid": 3349222,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-01-05T02:02:08Z",
+        "wikitext": "T3/3349222.wikitext"
+      },
+      "Log": {
+        "page_title": "Log",
+        "revid": 3350662,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-01-06T08:25:14Z",
+        "wikitext": "T3/3350662.wikitext"
+      },
+      "Planks": {
+        "page_title": "Planks",
+        "revid": 3324611,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2025-12-18T07:46:34Z",
+        "wikitext": "T3/3324611.wikitext"
+      },
+      "Stone Brick Slab": {
+        "page_title": "Stone Brick Slab",
+        "revid": 3263525,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2025-11-12T08:40:16Z",
+        "wikitext": "T3/3263525.wikitext"
+      },
+      "Stone Pickaxe": {
+        "page_title": "Stone Pickaxe",
+        "revid": 3311232,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2025-12-09T22:35:31Z",
+        "wikitext": "T3/3311232.wikitext"
+      },
+      "Wooden Pickaxe": {
+        "page_title": "Wooden Pickaxe",
+        "revid": 3312641,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2025-12-10T17:49:00Z",
+        "wikitext": "T3/3312641.wikitext"
+      },
+      "Wooden Slab": {
+        "page_title": "Wooden Slab",
+        "revid": 3275366,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2025-11-18T22:45:00Z",
+        "wikitext": "T3/3275366.wikitext"
+      }
+    },
+    "current": {
+      "Boat": {
+        "page_title": "Boat",
+        "revid": 3818474,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-10-04T09:35:05Z",
+        "wikitext": "current/3818474.wikitext"
+      },
+      "Chiseled Stone Bricks": {
+        "page_title": "Chiseled Stone Bricks",
+        "revid": 3785727,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-09-20T08:19:35Z",
+        "wikitext": "current/3785727.wikitext"
+      },
+      "Cobblestone Wall": {
+        "page_title": "Cobblestone Wall",
+        "revid": 3778711,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-09-15T19:36:33Z",
+        "wikitext": "current/3778711.wikitext"
+      },
+      "Cracked Stone Bricks": {
+        "page_title": "Cracked Stone Bricks",
+        "revid": 3793562,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-09-25T15:34:54Z",
+        "wikitext": "current/3793562.wikitext"
+      },
+      "Golden Axe": {
+        "page_title": "Golden Axe",
+        "revid": 3651440,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-06-28T08:37:14Z",
+        "wikitext": "current/3651440.wikitext"
+      },
+      "Golden Boots": {
+        "page_title": "Golden Boots",
+        "revid": 3747940,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-08-28T23:23:12Z",
+        "wikitext": "current/3747940.wikitext"
+      },
+      "Golden Chestplate": {
+        "page_title": "Golden Chestplate",
+        "revid": 3722654,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-08-15T23:30:05Z",
+        "wikitext": "current/3722654.wikitext"
+      },
+      "Golden Helmet": {
+        "page_title": "Golden Helmet",
+        "revid": 3826077,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-10-07T08:40:54Z",
+        "wikitext": "current/3826077.wikitext"
+      },
+      "Golden Leggings": {
+        "page_title": "Golden Leggings",
+        "revid": 3722655,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-08-15T23:30:26Z",
+        "wikitext": "current/3722655.wikitext"
+      },
+      "Golden Sword": {
+        "page_title": "Golden Sword",
+        "revid": 3758461,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-09-04T13:08:53Z",
+        "wikitext": "current/3758461.wikitext"
+      },
+      "Iron Axe": {
+        "page_title": "Iron Axe",
+        "revid": 3778447,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-09-15T18:53:25Z",
+        "wikitext": "current/3778447.wikitext"
+      },
+      "Iron Boots": {
+        "page_title": "Iron Boots",
+        "revid": 3778454,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-09-15T18:54:51Z",
+        "wikitext": "current/3778454.wikitext"
+      },
+      "Iron Chestplate": {
+        "page_title": "Iron Chestplate",
+        "revid": 3737925,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-08-24T07:14:23Z",
+        "wikitext": "current/3737925.wikitext"
+      },
+      "Iron Helmet": {
+        "page_title": "Iron Helmet",
+        "revid": 3826086,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-10-07T08:41:11Z",
+        "wikitext": "current/3826086.wikitext"
+      },
+      "Iron Leggings": {
+        "page_title": "Iron Leggings",
+        "revid": 3817713,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-10-04T00:49:19Z",
+        "wikitext": "current/3817713.wikitext"
+      },
+      "Iron Pickaxe": {
+        "page_title": "Iron Pickaxe",
+        "revid": 3826089,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-10-07T08:41:16Z",
+        "wikitext": "current/3826089.wikitext"
+      },
+      "Leather Boots": {
+        "page_title": "Leather Boots",
+        "revid": 3801537,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-09-28T18:41:50Z",
+        "wikitext": "current/3801537.wikitext"
+      },
+      "Leather Cap": {
+        "page_title": "Leather Cap",
+        "revid": 3801534,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-09-28T18:41:29Z",
+        "wikitext": "current/3801534.wikitext"
+      },
+      "Leather Tunic": {
+        "page_title": "Leather Tunic",
+        "revid": 3764350,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-09-08T01:29:16Z",
+        "wikitext": "current/3764350.wikitext"
+      },
+      "Log": {
+        "page_title": "Log",
+        "revid": 3687282,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-07-24T19:23:00Z",
+        "wikitext": "current/3687282.wikitext"
+      },
+      "Planks": {
+        "page_title": "Planks",
+        "revid": 3822205,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-10-05T21:36:18Z",
+        "wikitext": "current/3822205.wikitext"
+      },
+      "Stone Brick Slab": {
+        "page_title": "Stone Brick Slab",
+        "revid": 3764451,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-09-08T04:38:01Z",
+        "wikitext": "current/3764451.wikitext"
+      },
+      "Stone Pickaxe": {
+        "page_title": "Stone Pickaxe",
+        "revid": 3786742,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-09-21T00:05:01Z",
+        "wikitext": "current/3786742.wikitext"
+      },
+      "Wooden Pickaxe": {
+        "page_title": "Wooden Pickaxe",
+        "revid": 3748808,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-08-29T11:30:41Z",
+        "wikitext": "current/3748808.wikitext"
+      },
+      "Wooden Slab": {
+        "page_title": "Wooden Slab",
+        "revid": 3825583,
+        "source_site": "minecraft_wiki",
+        "timestamp": "2026-10-07T02:40:54Z",
+        "wikitext": "current/3825583.wikitext"
+      }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "boundary_question": [
+    {
+      "mechanism fact": "bundle can be made from string, leather at crafting_grid.",
+      "source": "historical_archive_1.21.11",
+      "timestamp": "2026-01-08T00:00:00Z"
+    },
+    {
+      "mechanism fact": "bundle can be made from string, leather at crafting_grid.",
+      "source": "historical_archive_1.21.11",
+      "timestamp": "2026-01-08T00:00:00Z"
+    }
+  ],
+  "comparison_world": "1.21.11",
+  "conditions": {
+    "K": [
+      {
+        "mechanism fact": "bundle cannot be made from string, leather at crafting_grid.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "bundle cannot be made from string, leather at crafting_grid.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      }
+    ],
+    "K+N": [
+      {
+        "mechanism fact": "bundle cannot be made from string, leather at crafting_grid.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "bundle cannot be made from string, leather at crafting_grid.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "mojang_banner_pattern from enchanted_golden_apple, paper.",
+        "source": "neutral_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "warped_fungus_on_a_stick from fishing_rod, warped_fungus.",
+        "source": "neutral_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      }
+    ],
+    "K+S": [
+      {
+        "mechanism fact": "bundle can be made from string, leather at crafting_grid.",
+        "source": "historical_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "bundle cannot be made from string, leather at crafting_grid.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "bundle can be made from string, leather at crafting_grid.",
+        "source": "historical_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "bundle cannot be made from string, leather at crafting_grid.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      }
+    ],
+    "S": [
+      {
+        "mechanism fact": "bundle can be made from string, leather at crafting_grid.",
+        "source": "historical_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "bundle can be made from string, leather at crafting_grid.",
+        "source": "historical_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      }
+    ],
+    "empty": []
+  },
+  "instance_id": "cds_0023_extv2_006_1_19_vs_1_21_11",
+  "schema_version": 1,
+  "target_world": "1.19",
+  "task_id": "extv2_006"
+}

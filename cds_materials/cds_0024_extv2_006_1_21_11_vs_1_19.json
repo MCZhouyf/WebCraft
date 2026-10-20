@@ -1,0 +1,90 @@
+{
+  "boundary_question": [
+    {
+      "mechanism fact": "bundle cannot be made from string, leather at crafting_grid.",
+      "source": "historical_archive_1.19",
+      "timestamp": "2022-07-07T00:00:00Z"
+    },
+    {
+      "mechanism fact": "bundle cannot be made from string, leather at crafting_grid.",
+      "source": "historical_archive_1.19",
+      "timestamp": "2022-07-07T00:00:00Z"
+    }
+  ],
+  "comparison_world": "1.19",
+  "conditions": {
+    "K": [
+      {
+        "mechanism fact": "bundle can be made from string, leather at crafting_grid.",
+        "source": "truth_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "bundle can be made from string, leather at crafting_grid.",
+        "source": "truth_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      }
+    ],
+    "K+N": [
+      {
+        "mechanism fact": "bundle can be made from string, leather at crafting_grid.",
+        "source": "truth_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "fermented_spider_eye from brown_mushroom, spider_eye, sugar.",
+        "source": "neutral_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "light_blue_stained_glass_pane from light_blue_stained_glass.",
+        "source": "neutral_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "bundle can be made from string, leather at crafting_grid.",
+        "source": "truth_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      }
+    ],
+    "K+S": [
+      {
+        "mechanism fact": "bundle can be made from string, leather at crafting_grid.",
+        "source": "truth_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "bundle cannot be made from string, leather at crafting_grid.",
+        "source": "historical_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "bundle cannot be made from string, leather at crafting_grid.",
+        "source": "historical_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "bundle can be made from string, leather at crafting_grid.",
+        "source": "truth_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      }
+    ],
+    "S": [
+      {
+        "mechanism fact": "bundle cannot be made from string, leather at crafting_grid.",
+        "source": "historical_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "bundle cannot be made from string, leather at crafting_grid.",
+        "source": "historical_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      }
+    ],
+    "empty": []
+  },
+  "instance_id": "cds_0024_extv2_006_1_21_11_vs_1_19",
+  "schema_version": 1,
+  "target_world": "1.21.11",
+  "task_id": "extv2_006"
+}

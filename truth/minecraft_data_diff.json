@@ -1,0 +1,3338 @@
+{
+  "generated_at": "2026-09-28T13:38:28.118Z",
+  "authority": "server JAR extraction",
+  "note": "minecraft-data differences are diagnostic only; tag expansion and recipe encoding can differ",
+  "versions": {
+    "1.16.5": {
+      "jar_item_count": 976,
+      "minecraft_data_item_count": 975,
+      "items_jar_only": [
+        "air"
+      ],
+      "items_minecraft_data_only": [],
+      "jar_craftable_output_count": 613,
+      "minecraft_data_craftable_output_count": 562,
+      "craftable_outputs_jar_only": [
+        "baked_potato",
+        "black_glazed_terracotta",
+        "blue_glazed_terracotta",
+        "brick",
+        "brown_glazed_terracotta",
+        "charcoal",
+        "cooked_beef",
+        "cooked_chicken",
+        "cooked_cod",
+        "cooked_mutton",
+        "cooked_porkchop",
+        "cooked_rabbit",
+        "cooked_salmon",
+        "cracked_nether_bricks",
+        "cracked_polished_blackstone_bricks",
+        "cracked_stone_bricks",
+        "cyan_glazed_terracotta",
+        "glass",
+        "gray_glazed_terracotta",
+        "green_dye",
+        "green_glazed_terracotta",
+        "light_blue_glazed_terracotta",
+        "light_gray_glazed_terracotta",
+        "lime_glazed_terracotta",
+        "magenta_glazed_terracotta",
+        "nether_brick",
+        "netherite_axe",
+        "netherite_boots",
+        "netherite_chestplate",
+        "netherite_helmet",
+        "netherite_hoe",
+        "netherite_leggings",
+        "netherite_pickaxe",
+        "netherite_scrap",
+        "netherite_shovel",
+        "netherite_sword",
+        "orange_glazed_terracotta",
+        "pink_glazed_terracotta",
+        "popped_chorus_fruit",
+        "purple_glazed_terracotta",
+        "quartz",
+        "red_glazed_terracotta",
+        "smooth_quartz",
+        "smooth_red_sandstone",
+        "smooth_sandstone",
+        "smooth_stone",
+        "sponge",
+        "stone",
+        "terracotta",
+        "white_glazed_terracotta",
+        "yellow_glazed_terracotta"
+      ],
+      "craftable_outputs_minecraft_data_only": [],
+      "recipe_count_mismatches": [
+        {
+          "output": "acacia_planks",
+          "jar_count": 1,
+          "minecraft_data_count": 4
+        },
+        {
+          "output": "andesite_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "andesite_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "andesite_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "barrel",
+          "jar_count": 1,
+          "minecraft_data_count": 64
+        },
+        {
+          "output": "beehive",
+          "jar_count": 1,
+          "minecraft_data_count": 8
+        },
+        {
+          "output": "birch_planks",
+          "jar_count": 1,
+          "minecraft_data_count": 4
+        },
+        {
+          "output": "black_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "blackstone_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "blackstone_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "blackstone_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "blue_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "bookshelf",
+          "jar_count": 1,
+          "minecraft_data_count": 8
+        },
+        {
+          "output": "bowl",
+          "jar_count": 1,
+          "minecraft_data_count": 8
+        },
+        {
+          "output": "brewing_stand",
+          "jar_count": 1,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "brick_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "brick_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "brick_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "brown_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "campfire",
+          "jar_count": 1,
+          "minecraft_data_count": 64
+        },
+        {
+          "output": "cartography_table",
+          "jar_count": 1,
+          "minecraft_data_count": 8
+        },
+        {
+          "output": "chest",
+          "jar_count": 1,
+          "minecraft_data_count": 8
+        },
+        {
+          "output": "chiseled_nether_bricks",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "chiseled_polished_blackstone",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "chiseled_quartz_block",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "chiseled_red_sandstone",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "chiseled_sandstone",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "chiseled_stone_bricks",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "coal",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cobblestone_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cobblestone_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cobblestone_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "composter",
+          "jar_count": 1,
+          "minecraft_data_count": 8
+        },
+        {
+          "output": "crafting_table",
+          "jar_count": 1,
+          "minecraft_data_count": 8
+        },
+        {
+          "output": "crimson_planks",
+          "jar_count": 1,
+          "minecraft_data_count": 4
+        },
+        {
+          "output": "cut_red_sandstone",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cut_red_sandstone_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cut_sandstone",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cut_sandstone_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cyan_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "dark_oak_planks",
+          "jar_count": 1,
+          "minecraft_data_count": 4
+        },
+        {
+          "output": "dark_prismarine_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "dark_prismarine_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "daylight_detector",
+          "jar_count": 1,
+          "minecraft_data_count": 8
+        },
+        {
+          "output": "diamond",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "diorite_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "diorite_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "diorite_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "dried_kelp",
+          "jar_count": 4,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "emerald",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "end_stone_brick_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "end_stone_brick_stairs",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "end_stone_brick_wall",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "end_stone_bricks",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "fire_charge",
+          "jar_count": 1,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "fletching_table",
+          "jar_count": 1,
+          "minecraft_data_count": 8
+        },
+        {
+          "output": "furnace",
+          "jar_count": 1,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "gold_ingot",
+          "jar_count": 4,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "gold_nugget",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "granite_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "granite_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "granite_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "gray_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "green_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "grindstone",
+          "jar_count": 1,
+          "minecraft_data_count": 8
+        },
+        {
+          "output": "iron_ingot",
+          "jar_count": 4,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "iron_nugget",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "jukebox",
+          "jar_count": 1,
+          "minecraft_data_count": 8
+        },
+        {
+          "output": "jungle_planks",
+          "jar_count": 1,
+          "minecraft_data_count": 4
+        },
+        {
+          "output": "lapis_lazuli",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "lectern",
+          "jar_count": 1,
+          "minecraft_data_count": 8
+        },
+        {
+          "output": "light_blue_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "light_gray_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "lime_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "lime_dye",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "loom",
+          "jar_count": 1,
+          "minecraft_data_count": 8
+        },
+        {
+          "output": "magenta_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "mossy_cobblestone_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "mossy_cobblestone_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "mossy_cobblestone_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "mossy_stone_brick_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "mossy_stone_brick_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "mossy_stone_brick_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "nether_brick_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "nether_brick_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "nether_brick_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "note_block",
+          "jar_count": 1,
+          "minecraft_data_count": 8
+        },
+        {
+          "output": "oak_planks",
+          "jar_count": 1,
+          "minecraft_data_count": 4
+        },
+        {
+          "output": "orange_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "painting",
+          "jar_count": 1,
+          "minecraft_data_count": 16
+        },
+        {
+          "output": "pink_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "piston",
+          "jar_count": 1,
+          "minecraft_data_count": 8
+        },
+        {
+          "output": "polished_andesite",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_andesite_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_andesite_stairs",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_basalt",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_blackstone",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_blackstone_brick_slab",
+          "jar_count": 4,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_blackstone_brick_stairs",
+          "jar_count": 4,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_blackstone_brick_wall",
+          "jar_count": 4,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_blackstone_bricks",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_blackstone_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_blackstone_stairs",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_blackstone_wall",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_diorite",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_diorite_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_diorite_stairs",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_granite",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_granite_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_granite_stairs",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "prismarine_brick_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "prismarine_brick_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "prismarine_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "prismarine_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "prismarine_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "purple_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "purpur_pillar",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "quartz_bricks",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "quartz_pillar",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "quartz_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 3
+        },
+        {
+          "output": "quartz_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 3
+        },
+        {
+          "output": "red_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "red_nether_brick_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "red_nether_brick_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "red_nether_brick_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "red_sandstone_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 3
+        },
+        {
+          "output": "red_sandstone_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "redstone",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "sandstone_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 3
+        },
+        {
+          "output": "sandstone_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "shield",
+          "jar_count": 1,
+          "minecraft_data_count": 8
+        },
+        {
+          "output": "smithing_table",
+          "jar_count": 1,
+          "minecraft_data_count": 8
+        },
+        {
+          "output": "smoker",
+          "jar_count": 1,
+          "minecraft_data_count": 32
+        },
+        {
+          "output": "smooth_quartz_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "smooth_quartz_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "smooth_red_sandstone_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "smooth_red_sandstone_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "smooth_sandstone_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "smooth_sandstone_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "smooth_stone_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "soul_campfire",
+          "jar_count": 1,
+          "minecraft_data_count": 64
+        },
+        {
+          "output": "soul_torch",
+          "jar_count": 1,
+          "minecraft_data_count": 4
+        },
+        {
+          "output": "spruce_planks",
+          "jar_count": 1,
+          "minecraft_data_count": 4
+        },
+        {
+          "output": "stick",
+          "jar_count": 2,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "stone_axe",
+          "jar_count": 1,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "stone_brick_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "stone_brick_stairs",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "stone_brick_wall",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "stone_bricks",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "stone_hoe",
+          "jar_count": 1,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "stone_pickaxe",
+          "jar_count": 1,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "stone_shovel",
+          "jar_count": 1,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "stone_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "stone_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "stone_sword",
+          "jar_count": 1,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "tnt",
+          "jar_count": 1,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "torch",
+          "jar_count": 1,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "tripwire_hook",
+          "jar_count": 1,
+          "minecraft_data_count": 8
+        },
+        {
+          "output": "warped_planks",
+          "jar_count": 1,
+          "minecraft_data_count": 4
+        },
+        {
+          "output": "white_bed",
+          "jar_count": 1,
+          "minecraft_data_count": 8
+        },
+        {
+          "output": "wooden_axe",
+          "jar_count": 1,
+          "minecraft_data_count": 8
+        },
+        {
+          "output": "wooden_hoe",
+          "jar_count": 1,
+          "minecraft_data_count": 8
+        },
+        {
+          "output": "wooden_pickaxe",
+          "jar_count": 1,
+          "minecraft_data_count": 8
+        },
+        {
+          "output": "wooden_shovel",
+          "jar_count": 1,
+          "minecraft_data_count": 8
+        },
+        {
+          "output": "wooden_sword",
+          "jar_count": 1,
+          "minecraft_data_count": 8
+        },
+        {
+          "output": "yellow_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 9
+        }
+      ]
+    },
+    "1.19": {
+      "jar_item_count": 1152,
+      "minecraft_data_item_count": 1152,
+      "items_jar_only": [],
+      "items_minecraft_data_only": [],
+      "jar_craftable_output_count": 722,
+      "minecraft_data_craftable_output_count": 667,
+      "craftable_outputs_jar_only": [
+        "baked_potato",
+        "black_glazed_terracotta",
+        "blue_glazed_terracotta",
+        "brick",
+        "brown_glazed_terracotta",
+        "charcoal",
+        "cooked_beef",
+        "cooked_chicken",
+        "cooked_cod",
+        "cooked_mutton",
+        "cooked_porkchop",
+        "cooked_rabbit",
+        "cooked_salmon",
+        "cracked_deepslate_bricks",
+        "cracked_deepslate_tiles",
+        "cracked_nether_bricks",
+        "cracked_polished_blackstone_bricks",
+        "cracked_stone_bricks",
+        "cyan_glazed_terracotta",
+        "deepslate",
+        "glass",
+        "gray_glazed_terracotta",
+        "green_dye",
+        "green_glazed_terracotta",
+        "light_blue_glazed_terracotta",
+        "light_gray_glazed_terracotta",
+        "lime_glazed_terracotta",
+        "magenta_glazed_terracotta",
+        "nether_brick",
+        "netherite_axe",
+        "netherite_boots",
+        "netherite_chestplate",
+        "netherite_helmet",
+        "netherite_hoe",
+        "netherite_leggings",
+        "netherite_pickaxe",
+        "netherite_scrap",
+        "netherite_shovel",
+        "netherite_sword",
+        "orange_glazed_terracotta",
+        "pink_glazed_terracotta",
+        "popped_chorus_fruit",
+        "purple_glazed_terracotta",
+        "quartz",
+        "red_glazed_terracotta",
+        "smooth_basalt",
+        "smooth_quartz",
+        "smooth_red_sandstone",
+        "smooth_sandstone",
+        "smooth_stone",
+        "sponge",
+        "stone",
+        "terracotta",
+        "white_glazed_terracotta",
+        "yellow_glazed_terracotta"
+      ],
+      "craftable_outputs_minecraft_data_only": [],
+      "recipe_count_mismatches": [
+        {
+          "output": "acacia_planks",
+          "jar_count": 1,
+          "minecraft_data_count": 4
+        },
+        {
+          "output": "andesite_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "andesite_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "andesite_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "barrel",
+          "jar_count": 1,
+          "minecraft_data_count": 81
+        },
+        {
+          "output": "beehive",
+          "jar_count": 1,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "birch_planks",
+          "jar_count": 1,
+          "minecraft_data_count": 4
+        },
+        {
+          "output": "black_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 10
+        },
+        {
+          "output": "blackstone_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "blackstone_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "blackstone_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "blue_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 10
+        },
+        {
+          "output": "bookshelf",
+          "jar_count": 1,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "bowl",
+          "jar_count": 1,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "brewing_stand",
+          "jar_count": 1,
+          "minecraft_data_count": 3
+        },
+        {
+          "output": "brick_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "brick_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "brick_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "brown_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 10
+        },
+        {
+          "output": "campfire",
+          "jar_count": 1,
+          "minecraft_data_count": 72
+        },
+        {
+          "output": "cartography_table",
+          "jar_count": 1,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "chest",
+          "jar_count": 1,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "chiseled_deepslate",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "chiseled_nether_bricks",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "chiseled_polished_blackstone",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "chiseled_quartz_block",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "chiseled_red_sandstone",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "chiseled_sandstone",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "chiseled_stone_bricks",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "coal",
+          "jar_count": 5,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cobbled_deepslate_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cobbled_deepslate_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cobbled_deepslate_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cobblestone_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cobblestone_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cobblestone_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "composter",
+          "jar_count": 1,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "copper_ingot",
+          "jar_count": 8,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "crafting_table",
+          "jar_count": 1,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "crimson_planks",
+          "jar_count": 1,
+          "minecraft_data_count": 4
+        },
+        {
+          "output": "cut_copper",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cut_copper_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cut_copper_stairs",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cut_red_sandstone",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cut_red_sandstone_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cut_sandstone",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cut_sandstone_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cyan_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 10
+        },
+        {
+          "output": "dark_oak_planks",
+          "jar_count": 1,
+          "minecraft_data_count": 4
+        },
+        {
+          "output": "dark_prismarine_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "dark_prismarine_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "daylight_detector",
+          "jar_count": 1,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "deepslate_brick_slab",
+          "jar_count": 4,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "deepslate_brick_stairs",
+          "jar_count": 4,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "deepslate_brick_wall",
+          "jar_count": 4,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "deepslate_bricks",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "deepslate_tile_slab",
+          "jar_count": 5,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "deepslate_tile_stairs",
+          "jar_count": 5,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "deepslate_tile_wall",
+          "jar_count": 5,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "deepslate_tiles",
+          "jar_count": 4,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "diamond",
+          "jar_count": 5,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "diorite_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "diorite_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "diorite_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "dried_kelp",
+          "jar_count": 4,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "emerald",
+          "jar_count": 5,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "end_stone_brick_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "end_stone_brick_stairs",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "end_stone_brick_wall",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "end_stone_bricks",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "exposed_cut_copper",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "exposed_cut_copper_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "exposed_cut_copper_stairs",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "fire_charge",
+          "jar_count": 1,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "fletching_table",
+          "jar_count": 1,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "furnace",
+          "jar_count": 1,
+          "minecraft_data_count": 3
+        },
+        {
+          "output": "gold_ingot",
+          "jar_count": 10,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "gold_nugget",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "granite_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "granite_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "granite_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "gray_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 10
+        },
+        {
+          "output": "green_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 10
+        },
+        {
+          "output": "grindstone",
+          "jar_count": 1,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "iron_ingot",
+          "jar_count": 8,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "iron_nugget",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "jukebox",
+          "jar_count": 1,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "jungle_planks",
+          "jar_count": 1,
+          "minecraft_data_count": 4
+        },
+        {
+          "output": "lapis_lazuli",
+          "jar_count": 5,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "lectern",
+          "jar_count": 1,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "light_blue_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 10
+        },
+        {
+          "output": "light_gray_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 10
+        },
+        {
+          "output": "lime_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 10
+        },
+        {
+          "output": "lime_dye",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "loom",
+          "jar_count": 1,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "magenta_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 10
+        },
+        {
+          "output": "mangrove_planks",
+          "jar_count": 1,
+          "minecraft_data_count": 4
+        },
+        {
+          "output": "mossy_cobblestone_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "mossy_cobblestone_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "mossy_cobblestone_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "mossy_stone_brick_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "mossy_stone_brick_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "mossy_stone_brick_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "mud_brick_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "mud_brick_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "mud_brick_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "nether_brick_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "nether_brick_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "nether_brick_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "note_block",
+          "jar_count": 1,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "oak_planks",
+          "jar_count": 1,
+          "minecraft_data_count": 4
+        },
+        {
+          "output": "orange_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 10
+        },
+        {
+          "output": "oxidized_cut_copper",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "oxidized_cut_copper_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "oxidized_cut_copper_stairs",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "painting",
+          "jar_count": 1,
+          "minecraft_data_count": 16
+        },
+        {
+          "output": "pink_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 10
+        },
+        {
+          "output": "piston",
+          "jar_count": 1,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "polished_andesite",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_andesite_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_andesite_stairs",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_basalt",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_blackstone",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_blackstone_brick_slab",
+          "jar_count": 4,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_blackstone_brick_stairs",
+          "jar_count": 4,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_blackstone_brick_wall",
+          "jar_count": 4,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_blackstone_bricks",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_blackstone_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_blackstone_stairs",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_blackstone_wall",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_deepslate",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_deepslate_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_deepslate_stairs",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_deepslate_wall",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_diorite",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_diorite_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_diorite_stairs",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_granite",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_granite_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_granite_stairs",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "prismarine_brick_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "prismarine_brick_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "prismarine_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "prismarine_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "prismarine_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "purple_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 10
+        },
+        {
+          "output": "purpur_pillar",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "quartz_bricks",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "quartz_pillar",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "quartz_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 3
+        },
+        {
+          "output": "quartz_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 3
+        },
+        {
+          "output": "red_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 10
+        },
+        {
+          "output": "red_nether_brick_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "red_nether_brick_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "red_nether_brick_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "red_sandstone_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 3
+        },
+        {
+          "output": "red_sandstone_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "redstone",
+          "jar_count": 5,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "sandstone_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 3
+        },
+        {
+          "output": "sandstone_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "shield",
+          "jar_count": 1,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "smithing_table",
+          "jar_count": 1,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "smoker",
+          "jar_count": 1,
+          "minecraft_data_count": 36
+        },
+        {
+          "output": "smooth_quartz_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "smooth_quartz_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "smooth_red_sandstone_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "smooth_red_sandstone_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "smooth_sandstone_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "smooth_sandstone_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "smooth_stone_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "soul_campfire",
+          "jar_count": 1,
+          "minecraft_data_count": 72
+        },
+        {
+          "output": "soul_torch",
+          "jar_count": 1,
+          "minecraft_data_count": 4
+        },
+        {
+          "output": "spruce_planks",
+          "jar_count": 1,
+          "minecraft_data_count": 4
+        },
+        {
+          "output": "stick",
+          "jar_count": 2,
+          "minecraft_data_count": 10
+        },
+        {
+          "output": "stone_axe",
+          "jar_count": 1,
+          "minecraft_data_count": 3
+        },
+        {
+          "output": "stone_brick_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "stone_brick_stairs",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "stone_brick_wall",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "stone_bricks",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "stone_hoe",
+          "jar_count": 1,
+          "minecraft_data_count": 3
+        },
+        {
+          "output": "stone_pickaxe",
+          "jar_count": 1,
+          "minecraft_data_count": 3
+        },
+        {
+          "output": "stone_shovel",
+          "jar_count": 1,
+          "minecraft_data_count": 3
+        },
+        {
+          "output": "stone_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "stone_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "stone_sword",
+          "jar_count": 1,
+          "minecraft_data_count": 3
+        },
+        {
+          "output": "tnt",
+          "jar_count": 1,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "torch",
+          "jar_count": 1,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "tripwire_hook",
+          "jar_count": 1,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "warped_planks",
+          "jar_count": 1,
+          "minecraft_data_count": 4
+        },
+        {
+          "output": "waxed_cut_copper",
+          "jar_count": 3,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "waxed_cut_copper_slab",
+          "jar_count": 4,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "waxed_cut_copper_stairs",
+          "jar_count": 4,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "waxed_exposed_cut_copper",
+          "jar_count": 3,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "waxed_exposed_cut_copper_slab",
+          "jar_count": 4,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "waxed_exposed_cut_copper_stairs",
+          "jar_count": 4,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "waxed_oxidized_cut_copper",
+          "jar_count": 3,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "waxed_oxidized_cut_copper_slab",
+          "jar_count": 4,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "waxed_oxidized_cut_copper_stairs",
+          "jar_count": 4,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "waxed_weathered_cut_copper",
+          "jar_count": 3,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "waxed_weathered_cut_copper_slab",
+          "jar_count": 4,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "waxed_weathered_cut_copper_stairs",
+          "jar_count": 4,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "weathered_cut_copper",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "weathered_cut_copper_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "weathered_cut_copper_stairs",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "white_bed",
+          "jar_count": 1,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "wooden_axe",
+          "jar_count": 1,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "wooden_hoe",
+          "jar_count": 1,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "wooden_pickaxe",
+          "jar_count": 1,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "wooden_shovel",
+          "jar_count": 1,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "wooden_sword",
+          "jar_count": 1,
+          "minecraft_data_count": 9
+        },
+        {
+          "output": "yellow_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 10
+        }
+      ]
+    },
+    "1.21.11": {
+      "jar_item_count": 1505,
+      "minecraft_data_item_count": 1505,
+      "items_jar_only": [],
+      "items_minecraft_data_only": [],
+      "jar_craftable_output_count": 977,
+      "minecraft_data_craftable_output_count": 886,
+      "craftable_outputs_jar_only": [
+        "baked_potato",
+        "black_bundle",
+        "black_glazed_terracotta",
+        "black_shulker_box",
+        "blue_bundle",
+        "blue_glazed_terracotta",
+        "blue_shulker_box",
+        "brick",
+        "brown_bundle",
+        "brown_glazed_terracotta",
+        "brown_shulker_box",
+        "charcoal",
+        "cooked_beef",
+        "cooked_chicken",
+        "cooked_cod",
+        "cooked_mutton",
+        "cooked_porkchop",
+        "cooked_rabbit",
+        "cooked_salmon",
+        "cracked_deepslate_bricks",
+        "cracked_deepslate_tiles",
+        "cracked_nether_bricks",
+        "cracked_polished_blackstone_bricks",
+        "cracked_stone_bricks",
+        "cyan_bundle",
+        "cyan_glazed_terracotta",
+        "cyan_shulker_box",
+        "deepslate",
+        "glass",
+        "gray_bundle",
+        "gray_glazed_terracotta",
+        "gray_shulker_box",
+        "green_bundle",
+        "green_dye",
+        "green_glazed_terracotta",
+        "green_shulker_box",
+        "leaf_litter",
+        "light_blue_bundle",
+        "light_blue_glazed_terracotta",
+        "light_blue_shulker_box",
+        "light_gray_bundle",
+        "light_gray_glazed_terracotta",
+        "light_gray_shulker_box",
+        "lime_bundle",
+        "lime_glazed_terracotta",
+        "lime_shulker_box",
+        "magenta_bundle",
+        "magenta_glazed_terracotta",
+        "magenta_shulker_box",
+        "nether_brick",
+        "netherite_axe",
+        "netherite_boots",
+        "netherite_chestplate",
+        "netherite_helmet",
+        "netherite_hoe",
+        "netherite_horse_armor",
+        "netherite_leggings",
+        "netherite_nautilus_armor",
+        "netherite_pickaxe",
+        "netherite_scrap",
+        "netherite_shovel",
+        "netherite_spear",
+        "netherite_sword",
+        "orange_bundle",
+        "orange_glazed_terracotta",
+        "orange_shulker_box",
+        "pink_bundle",
+        "pink_glazed_terracotta",
+        "pink_shulker_box",
+        "popped_chorus_fruit",
+        "purple_bundle",
+        "purple_glazed_terracotta",
+        "purple_shulker_box",
+        "quartz",
+        "red_bundle",
+        "red_glazed_terracotta",
+        "red_shulker_box",
+        "resin_brick",
+        "smooth_basalt",
+        "smooth_quartz",
+        "smooth_red_sandstone",
+        "smooth_sandstone",
+        "smooth_stone",
+        "sponge",
+        "stone",
+        "terracotta",
+        "white_bundle",
+        "white_glazed_terracotta",
+        "white_shulker_box",
+        "yellow_bundle",
+        "yellow_glazed_terracotta",
+        "yellow_shulker_box"
+      ],
+      "craftable_outputs_minecraft_data_only": [
+        "air"
+      ],
+      "recipe_count_mismatches": [
+        {
+          "output": "andesite_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "andesite_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "andesite_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "barrel",
+          "jar_count": 1,
+          "minecraft_data_count": 12
+        },
+        {
+          "output": "beehive",
+          "jar_count": 1,
+          "minecraft_data_count": 12
+        },
+        {
+          "output": "black_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 13
+        },
+        {
+          "output": "blackstone_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "blackstone_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "blackstone_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "blue_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 13
+        },
+        {
+          "output": "bolt_armor_trim_smithing_template",
+          "jar_count": 1,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "bookshelf",
+          "jar_count": 1,
+          "minecraft_data_count": 12
+        },
+        {
+          "output": "bowl",
+          "jar_count": 1,
+          "minecraft_data_count": 12
+        },
+        {
+          "output": "brewing_stand",
+          "jar_count": 1,
+          "minecraft_data_count": 3
+        },
+        {
+          "output": "brick_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "brick_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "brick_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "brown_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 13
+        },
+        {
+          "output": "cake",
+          "jar_count": 1,
+          "minecraft_data_count": 3
+        },
+        {
+          "output": "campfire",
+          "jar_count": 1,
+          "minecraft_data_count": 44
+        },
+        {
+          "output": "cartography_table",
+          "jar_count": 1,
+          "minecraft_data_count": 12
+        },
+        {
+          "output": "chest",
+          "jar_count": 1,
+          "minecraft_data_count": 12
+        },
+        {
+          "output": "chiseled_bookshelf",
+          "jar_count": 1,
+          "minecraft_data_count": 12
+        },
+        {
+          "output": "chiseled_copper",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "chiseled_deepslate",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "chiseled_nether_bricks",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "chiseled_polished_blackstone",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "chiseled_quartz_block",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "chiseled_red_sandstone",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "chiseled_resin_bricks",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "chiseled_sandstone",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "chiseled_stone_bricks",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "chiseled_tuff",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "chiseled_tuff_bricks",
+          "jar_count": 4,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "coal",
+          "jar_count": 5,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cobbled_deepslate_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cobbled_deepslate_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cobbled_deepslate_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cobblestone_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cobblestone_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cobblestone_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "composter",
+          "jar_count": 1,
+          "minecraft_data_count": 12
+        },
+        {
+          "output": "copper_grate",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "copper_ingot",
+          "jar_count": 9,
+          "minecraft_data_count": 3
+        },
+        {
+          "output": "copper_nugget",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "copper_torch",
+          "jar_count": 1,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "crafting_table",
+          "jar_count": 1,
+          "minecraft_data_count": 12
+        },
+        {
+          "output": "cut_copper",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cut_copper_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cut_copper_stairs",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cut_red_sandstone",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cut_red_sandstone_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cut_sandstone",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cut_sandstone_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "cyan_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 13
+        },
+        {
+          "output": "dark_prismarine_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "dark_prismarine_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "daylight_detector",
+          "jar_count": 1,
+          "minecraft_data_count": 12
+        },
+        {
+          "output": "deepslate_brick_slab",
+          "jar_count": 4,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "deepslate_brick_stairs",
+          "jar_count": 4,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "deepslate_brick_wall",
+          "jar_count": 4,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "deepslate_bricks",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "deepslate_tile_slab",
+          "jar_count": 5,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "deepslate_tile_stairs",
+          "jar_count": 5,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "deepslate_tile_wall",
+          "jar_count": 5,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "deepslate_tiles",
+          "jar_count": 4,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "diamond",
+          "jar_count": 5,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "diorite_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "diorite_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "diorite_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "dried_kelp",
+          "jar_count": 4,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "emerald",
+          "jar_count": 5,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "end_stone_brick_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "end_stone_brick_stairs",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "end_stone_brick_wall",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "end_stone_bricks",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "exposed_chiseled_copper",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "exposed_copper_grate",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "exposed_cut_copper",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "exposed_cut_copper_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "exposed_cut_copper_stairs",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "fletching_table",
+          "jar_count": 1,
+          "minecraft_data_count": 12
+        },
+        {
+          "output": "furnace",
+          "jar_count": 1,
+          "minecraft_data_count": 3
+        },
+        {
+          "output": "gold_ingot",
+          "jar_count": 10,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "gold_nugget",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "granite_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "granite_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "granite_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "gray_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 13
+        },
+        {
+          "output": "green_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 13
+        },
+        {
+          "output": "grindstone",
+          "jar_count": 1,
+          "minecraft_data_count": 12
+        },
+        {
+          "output": "iron_ingot",
+          "jar_count": 8,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "iron_nugget",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "jukebox",
+          "jar_count": 1,
+          "minecraft_data_count": 12
+        },
+        {
+          "output": "lapis_lazuli",
+          "jar_count": 5,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "lectern",
+          "jar_count": 1,
+          "minecraft_data_count": 12
+        },
+        {
+          "output": "light_blue_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 13
+        },
+        {
+          "output": "light_gray_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 13
+        },
+        {
+          "output": "lime_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 13
+        },
+        {
+          "output": "lime_dye",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "loom",
+          "jar_count": 1,
+          "minecraft_data_count": 12
+        },
+        {
+          "output": "magenta_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 13
+        },
+        {
+          "output": "mossy_cobblestone_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "mossy_cobblestone_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "mossy_cobblestone_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "mossy_stone_brick_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "mossy_stone_brick_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "mossy_stone_brick_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "mud_brick_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "mud_brick_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "mud_brick_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "nether_brick_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "nether_brick_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "nether_brick_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "note_block",
+          "jar_count": 1,
+          "minecraft_data_count": 12
+        },
+        {
+          "output": "orange_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 13
+        },
+        {
+          "output": "oxidized_chiseled_copper",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "oxidized_copper_grate",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "oxidized_cut_copper",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "oxidized_cut_copper_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "oxidized_cut_copper_stairs",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "painting",
+          "jar_count": 1,
+          "minecraft_data_count": 16
+        },
+        {
+          "output": "pink_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 13
+        },
+        {
+          "output": "piston",
+          "jar_count": 1,
+          "minecraft_data_count": 12
+        },
+        {
+          "output": "polished_andesite",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_andesite_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_andesite_stairs",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_basalt",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_blackstone",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_blackstone_brick_slab",
+          "jar_count": 4,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_blackstone_brick_stairs",
+          "jar_count": 4,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_blackstone_brick_wall",
+          "jar_count": 4,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_blackstone_bricks",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_blackstone_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_blackstone_stairs",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_blackstone_wall",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_deepslate",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_deepslate_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_deepslate_stairs",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_deepslate_wall",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_diorite",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_diorite_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_diorite_stairs",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_granite",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_granite_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_granite_stairs",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_tuff",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_tuff_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_tuff_stairs",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "polished_tuff_wall",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "prismarine_brick_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "prismarine_brick_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "prismarine_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "prismarine_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "prismarine_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "purple_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 13
+        },
+        {
+          "output": "purpur_pillar",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "quartz_bricks",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "quartz_pillar",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "quartz_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 3
+        },
+        {
+          "output": "quartz_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 3
+        },
+        {
+          "output": "red_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 13
+        },
+        {
+          "output": "red_nether_brick_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "red_nether_brick_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "red_nether_brick_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "red_sandstone_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 3
+        },
+        {
+          "output": "red_sandstone_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "redstone",
+          "jar_count": 5,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "resin_brick_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "resin_brick_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "resin_brick_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "sandstone_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 3
+        },
+        {
+          "output": "sandstone_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "shield",
+          "jar_count": 1,
+          "minecraft_data_count": 12
+        },
+        {
+          "output": "smithing_table",
+          "jar_count": 1,
+          "minecraft_data_count": 12
+        },
+        {
+          "output": "smoker",
+          "jar_count": 1,
+          "minecraft_data_count": 44
+        },
+        {
+          "output": "smooth_quartz_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "smooth_quartz_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "smooth_red_sandstone_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "smooth_red_sandstone_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "smooth_sandstone_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "smooth_sandstone_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "smooth_stone_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "soul_campfire",
+          "jar_count": 1,
+          "minecraft_data_count": 44
+        },
+        {
+          "output": "soul_torch",
+          "jar_count": 1,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "stick",
+          "jar_count": 2,
+          "minecraft_data_count": 13
+        },
+        {
+          "output": "stone_axe",
+          "jar_count": 1,
+          "minecraft_data_count": 3
+        },
+        {
+          "output": "stone_brick_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "stone_brick_stairs",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "stone_brick_wall",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "stone_bricks",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "stone_hoe",
+          "jar_count": 1,
+          "minecraft_data_count": 3
+        },
+        {
+          "output": "stone_pickaxe",
+          "jar_count": 1,
+          "minecraft_data_count": 3
+        },
+        {
+          "output": "stone_shovel",
+          "jar_count": 1,
+          "minecraft_data_count": 3
+        },
+        {
+          "output": "stone_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "stone_spear",
+          "jar_count": 1,
+          "minecraft_data_count": 3
+        },
+        {
+          "output": "stone_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "stone_sword",
+          "jar_count": 1,
+          "minecraft_data_count": 3
+        },
+        {
+          "output": "tnt",
+          "jar_count": 1,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "torch",
+          "jar_count": 1,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "tripwire_hook",
+          "jar_count": 1,
+          "minecraft_data_count": 12
+        },
+        {
+          "output": "tuff_brick_slab",
+          "jar_count": 4,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "tuff_brick_stairs",
+          "jar_count": 4,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "tuff_brick_wall",
+          "jar_count": 4,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "tuff_bricks",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "tuff_slab",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "tuff_stairs",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "tuff_wall",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "waxed_chiseled_copper",
+          "jar_count": 4,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "waxed_copper_grate",
+          "jar_count": 3,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "waxed_cut_copper",
+          "jar_count": 3,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "waxed_cut_copper_slab",
+          "jar_count": 4,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "waxed_cut_copper_stairs",
+          "jar_count": 4,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "waxed_exposed_chiseled_copper",
+          "jar_count": 4,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "waxed_exposed_copper_grate",
+          "jar_count": 3,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "waxed_exposed_cut_copper",
+          "jar_count": 3,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "waxed_exposed_cut_copper_slab",
+          "jar_count": 4,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "waxed_exposed_cut_copper_stairs",
+          "jar_count": 4,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "waxed_oxidized_chiseled_copper",
+          "jar_count": 4,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "waxed_oxidized_copper_grate",
+          "jar_count": 3,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "waxed_oxidized_cut_copper",
+          "jar_count": 3,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "waxed_oxidized_cut_copper_slab",
+          "jar_count": 4,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "waxed_oxidized_cut_copper_stairs",
+          "jar_count": 4,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "waxed_weathered_chiseled_copper",
+          "jar_count": 4,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "waxed_weathered_copper_grate",
+          "jar_count": 3,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "waxed_weathered_cut_copper",
+          "jar_count": 3,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "waxed_weathered_cut_copper_slab",
+          "jar_count": 4,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "waxed_weathered_cut_copper_stairs",
+          "jar_count": 4,
+          "minecraft_data_count": 2
+        },
+        {
+          "output": "weathered_chiseled_copper",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "weathered_copper_grate",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "weathered_cut_copper",
+          "jar_count": 2,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "weathered_cut_copper_slab",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "weathered_cut_copper_stairs",
+          "jar_count": 3,
+          "minecraft_data_count": 1
+        },
+        {
+          "output": "white_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 13
+        },
+        {
+          "output": "wooden_axe",
+          "jar_count": 1,
+          "minecraft_data_count": 12
+        },
+        {
+          "output": "wooden_hoe",
+          "jar_count": 1,
+          "minecraft_data_count": 12
+        },
+        {
+          "output": "wooden_pickaxe",
+          "jar_count": 1,
+          "minecraft_data_count": 12
+        },
+        {
+          "output": "wooden_shovel",
+          "jar_count": 1,
+          "minecraft_data_count": 12
+        },
+        {
+          "output": "wooden_spear",
+          "jar_count": 1,
+          "minecraft_data_count": 12
+        },
+        {
+          "output": "wooden_sword",
+          "jar_count": 1,
+          "minecraft_data_count": 12
+        },
+        {
+          "output": "yellow_bed",
+          "jar_count": 2,
+          "minecraft_data_count": 13
+        }
+      ]
+    }
+  }
+}

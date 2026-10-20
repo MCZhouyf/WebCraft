@@ -1,0 +1,116 @@
+{
+  "boundary_question": [
+    {
+      "mechanism fact": "iron_ingot cannot be made from raw_iron at furnace.",
+      "source": "historical_archive_1.16.5",
+      "timestamp": "2021-02-13T00:00:00Z"
+    },
+    {
+      "mechanism fact": "gold_ingot cannot be made from raw_gold at furnace.",
+      "source": "historical_archive_1.16.5",
+      "timestamp": "2021-02-13T00:00:00Z"
+    }
+  ],
+  "comparison_world": "1.16.5",
+  "conditions": {
+    "K": [
+      {
+        "mechanism fact": "iron_ingot can be made from raw_iron at furnace.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "gold_ingot can be made from raw_gold at furnace.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "iron_ingot can be made from raw_iron at furnace.",
+        "source": "truth_source_2",
+        "timestamp": "2022-07-07T00:00:00Z"
+      }
+    ],
+    "K+N": [
+      {
+        "mechanism fact": "gold_ingot can be made from raw_gold at furnace.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "black_concrete_powder from black_dye, gravel, sand.",
+        "source": "neutral_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "fire_charge from blaze_powder, charcoal, gunpowder.",
+        "source": "neutral_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "iron_ingot can be made from raw_iron at furnace.",
+        "source": "truth_source_2",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "iron_ingot can be made from raw_iron at furnace.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      }
+    ],
+    "K+S": [
+      {
+        "mechanism fact": "iron_ingot can be made from raw_iron at furnace.",
+        "source": "truth_source_2",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "gold_ingot can be made from raw_gold at furnace.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "iron_ingot cannot be made from raw_iron at furnace.",
+        "source": "historical_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "iron_ingot can be made from raw_iron at furnace.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "gold_ingot cannot be made from raw_gold at furnace.",
+        "source": "historical_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      }
+    ],
+    "S": [
+      {
+        "mechanism fact": "iron_ingot cannot be made from raw_iron at furnace.",
+        "source": "historical_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "iron_ingot can be made from raw_iron at furnace.",
+        "source": "truth_source_2",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "gold_ingot cannot be made from raw_gold at furnace.",
+        "source": "historical_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      }
+    ],
+    "empty": [
+      {
+        "mechanism fact": "iron_ingot can be made from raw_iron at furnace.",
+        "source": "truth_source_2",
+        "timestamp": "2022-07-07T00:00:00Z"
+      }
+    ]
+  },
+  "instance_id": "cds_0010_extv2_003_1_19_vs_1_16_5",
+  "schema_version": 1,
+  "target_world": "1.19",
+  "task_id": "extv2_003"
+}

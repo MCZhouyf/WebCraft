@@ -1,0 +1,758 @@
+{
+  "cutoff": "2023-08-22T23:59:59+00:00",
+  "dump": "minecraft.fandom.com-20230822-history.xml.zst",
+  "provisional": true,
+  "snapshots": {
+    "Activator Rail": {
+      "page_title": "Activator Rail",
+      "revid": 2272217,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-05-30T04:26:26Z",
+      "wikitext": "fandom_2023/2272217.wikitext"
+    },
+    "Blast Furnace": {
+      "page_title": "Blast Furnace",
+      "revid": 2303336,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-08-13T01:55:35Z",
+      "wikitext": "fandom_2023/2303336.wikitext"
+    },
+    "Block of Coal": {
+      "page_title": "Block of Coal",
+      "revid": 2272132,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-05-29T22:21:57Z",
+      "wikitext": "fandom_2023/2272132.wikitext"
+    },
+    "Block of Diamond": {
+      "page_title": "Block of Diamond",
+      "revid": 2220602,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-02-12T21:38:35Z",
+      "wikitext": "fandom_2023/2220602.wikitext"
+    },
+    "Block of Gold": {
+      "page_title": "Block of Gold",
+      "revid": 2220605,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-02-12T21:40:03Z",
+      "wikitext": "fandom_2023/2220605.wikitext"
+    },
+    "Block of Iron": {
+      "page_title": "Block of Iron",
+      "revid": 2213431,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-01-13T18:33:40Z",
+      "wikitext": "fandom_2023/2213431.wikitext"
+    },
+    "Block of Lapis Lazuli": {
+      "page_title": "Block of Lapis Lazuli",
+      "revid": 2278693,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-06-11T19:32:23Z",
+      "wikitext": "fandom_2023/2278693.wikitext"
+    },
+    "Block of Raw Gold": {
+      "page_title": "Block of Raw Gold",
+      "revid": 2218253,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-02-04T17:04:59Z",
+      "wikitext": "fandom_2023/2218253.wikitext"
+    },
+    "Block of Raw Iron": {
+      "page_title": "Block of Raw Iron",
+      "revid": 2218254,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-02-04T17:05:42Z",
+      "wikitext": "fandom_2023/2218254.wikitext"
+    },
+    "Block of Redstone": {
+      "page_title": "Block of Redstone",
+      "revid": 2220657,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-02-12T22:53:29Z",
+      "wikitext": "fandom_2023/2220657.wikitext"
+    },
+    "Blue Carpet": {
+      "page_title": "Blue Carpet",
+      "revid": 471333,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2013-04-18T21:03:28Z",
+      "wikitext": "fandom_2023/471333.wikitext"
+    },
+    "Blue Dye": {
+      "page_title": "Blue Dye",
+      "revid": 2277893,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-06-10T13:53:16Z",
+      "wikitext": "fandom_2023/2277893.wikitext"
+    },
+    "Blue wool": {
+      "page_title": "Blue wool",
+      "revid": 747954,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2014-11-07T12:22:29Z",
+      "wikitext": "fandom_2023/747954.wikitext"
+    },
+    "Boat with Chest": {
+      "page_title": "Boat with Chest",
+      "revid": 2294862,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-07-23T16:59:26Z",
+      "wikitext": "fandom_2023/2294862.wikitext"
+    },
+    "Book": {
+      "page_title": "Book",
+      "revid": 2303522,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-08-14T06:29:22Z",
+      "wikitext": "fandom_2023/2303522.wikitext"
+    },
+    "Bucket": {
+      "page_title": "Bucket",
+      "revid": 2299409,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-08-04T20:34:10Z",
+      "wikitext": "fandom_2023/2299409.wikitext"
+    },
+    "Bundle": {
+      "page_title": "Bundle",
+      "revid": 2278749,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-06-11T23:48:20Z",
+      "wikitext": "fandom_2023/2278749.wikitext"
+    },
+    "Carpet": {
+      "page_title": "Carpet",
+      "revid": 2296456,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-07-28T13:45:07Z",
+      "wikitext": "fandom_2023/2296456.wikitext"
+    },
+    "Cauldron": {
+      "page_title": "Cauldron",
+      "revid": 2303293,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-08-12T18:15:37Z",
+      "wikitext": "fandom_2023/2303293.wikitext"
+    },
+    "Chain": {
+      "page_title": "Chain",
+      "revid": 2298108,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-08-01T18:44:32Z",
+      "wikitext": "fandom_2023/2298108.wikitext"
+    },
+    "Chest": {
+      "page_title": "Chest",
+      "revid": 2304245,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-08-16T21:10:55Z",
+      "wikitext": "fandom_2023/2304245.wikitext"
+    },
+    "Chiseled Bookshelf": {
+      "page_title": "Chiseled Bookshelf",
+      "revid": 2301603,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-08-06T02:06:19Z",
+      "wikitext": "fandom_2023/2301603.wikitext"
+    },
+    "Chiseled stone bricks": {
+      "page_title": "Chiseled stone bricks",
+      "revid": 748320,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2014-11-08T02:33:50Z",
+      "wikitext": "fandom_2023/748320.wikitext"
+    },
+    "Clock": {
+      "page_title": "Clock",
+      "revid": 2297941,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-08-01T00:39:01Z",
+      "wikitext": "fandom_2023/2297941.wikitext"
+    },
+    "Coal": {
+      "page_title": "Coal",
+      "revid": 2277025,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-06-08T20:55:39Z",
+      "wikitext": "fandom_2023/2277025.wikitext"
+    },
+    "Coal Ore": {
+      "page_title": "Coal Ore",
+      "revid": 2305698,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-08-21T18:11:17Z",
+      "wikitext": "fandom_2023/2305698.wikitext"
+    },
+    "Cobbled Deepslate": {
+      "page_title": "Cobbled Deepslate",
+      "revid": 2277909,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-06-10T15:29:16Z",
+      "wikitext": "fandom_2023/2277909.wikitext"
+    },
+    "Cobblestone": {
+      "page_title": "Cobblestone",
+      "revid": 2304266,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-08-16T21:25:01Z",
+      "wikitext": "fandom_2023/2304266.wikitext"
+    },
+    "Cobblestone Slab": {
+      "page_title": "Cobblestone Slab",
+      "revid": 787741,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2015-01-17T18:01:40Z",
+      "wikitext": "fandom_2023/787741.wikitext"
+    },
+    "Cobblestone Stairs": {
+      "page_title": "Cobblestone Stairs",
+      "revid": 787749,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2015-01-17T18:01:46Z",
+      "wikitext": "fandom_2023/787749.wikitext"
+    },
+    "Cobblestone wall": {
+      "page_title": "Cobblestone wall",
+      "revid": 1279759,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2018-11-10T18:09:19Z",
+      "wikitext": "fandom_2023/1279759.wikitext"
+    },
+    "Compass": {
+      "page_title": "Compass",
+      "revid": 2297940,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-08-01T00:38:10Z",
+      "wikitext": "fandom_2023/2297940.wikitext"
+    },
+    "Copper Ingot": {
+      "page_title": "Copper Ingot",
+      "revid": 2278053,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-06-10T17:01:14Z",
+      "wikitext": "fandom_2023/2278053.wikitext"
+    },
+    "Cracked stone bricks": {
+      "page_title": "Cracked stone bricks",
+      "revid": 748323,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2014-11-08T02:33:56Z",
+      "wikitext": "fandom_2023/748323.wikitext"
+    },
+    "Crafting Table": {
+      "page_title": "Crafting Table",
+      "revid": 2303230,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-08-12T07:23:03Z",
+      "wikitext": "fandom_2023/2303230.wikitext"
+    },
+    "Diamond": {
+      "page_title": "Diamond",
+      "revid": 2296591,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-07-28T14:55:51Z",
+      "wikitext": "fandom_2023/2296591.wikitext"
+    },
+    "Diamond Ore": {
+      "page_title": "Diamond Ore",
+      "revid": 2305839,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-08-22T09:32:59Z",
+      "wikitext": "fandom_2023/2305839.wikitext"
+    },
+    "Dropper": {
+      "page_title": "Dropper",
+      "revid": 2260023,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-05-06T21:02:34Z",
+      "wikitext": "fandom_2023/2260023.wikitext"
+    },
+    "Furnace": {
+      "page_title": "Furnace",
+      "revid": 2303343,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-08-13T02:25:31Z",
+      "wikitext": "fandom_2023/2303343.wikitext"
+    },
+    "Glass": {
+      "page_title": "Glass",
+      "revid": 2304647,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-08-18T00:59:42Z",
+      "wikitext": "fandom_2023/2304647.wikitext"
+    },
+    "Glass Bottle": {
+      "page_title": "Glass Bottle",
+      "revid": 2291926,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-07-15T13:25:01Z",
+      "wikitext": "fandom_2023/2291926.wikitext"
+    },
+    "Gold Ingot": {
+      "page_title": "Gold Ingot",
+      "revid": 2278055,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-06-10T17:01:43Z",
+      "wikitext": "fandom_2023/2278055.wikitext"
+    },
+    "Gold Nugget": {
+      "page_title": "Gold Nugget",
+      "revid": 2276325,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-06-07T17:33:02Z",
+      "wikitext": "fandom_2023/2276325.wikitext"
+    },
+    "Gold Ore": {
+      "page_title": "Gold Ore",
+      "revid": 2305842,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-08-22T10:01:23Z",
+      "wikitext": "fandom_2023/2305842.wikitext"
+    },
+    "Golden Hoe": {
+      "page_title": "Golden Hoe",
+      "revid": 787748,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2015-01-17T18:01:44Z",
+      "wikitext": "fandom_2023/787748.wikitext"
+    },
+    "Golden Pickaxe": {
+      "page_title": "Golden Pickaxe",
+      "revid": 1758582,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2020-11-13T06:09:06Z",
+      "wikitext": "fandom_2023/1758582.wikitext"
+    },
+    "Golden Shovel": {
+      "page_title": "Golden Shovel",
+      "revid": 787731,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2015-01-17T18:01:34Z",
+      "wikitext": "fandom_2023/787731.wikitext"
+    },
+    "Golden axe": {
+      "page_title": "Golden axe",
+      "revid": 747107,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2014-11-06T01:59:32Z",
+      "wikitext": "fandom_2023/747107.wikitext"
+    },
+    "Golden boots": {
+      "page_title": "Golden boots",
+      "revid": 1553193,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2020-04-16T04:21:23Z",
+      "wikitext": "fandom_2023/1553193.wikitext"
+    },
+    "Golden chestplate": {
+      "page_title": "Golden chestplate",
+      "revid": 1786719,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2020-12-13T08:42:40Z",
+      "wikitext": "fandom_2023/1786719.wikitext"
+    },
+    "Golden helmet": {
+      "page_title": "Golden helmet",
+      "revid": 1572963,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2020-05-05T12:52:26Z",
+      "wikitext": "fandom_2023/1572963.wikitext"
+    },
+    "Golden leggings": {
+      "page_title": "Golden leggings",
+      "revid": 1786720,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2020-12-13T08:43:49Z",
+      "wikitext": "fandom_2023/1786720.wikitext"
+    },
+    "Golden sword": {
+      "page_title": "Golden sword",
+      "revid": 747162,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2014-11-06T02:51:18Z",
+      "wikitext": "fandom_2023/747162.wikitext"
+    },
+    "Hopper": {
+      "page_title": "Hopper",
+      "revid": 2279095,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-06-12T15:40:25Z",
+      "wikitext": "fandom_2023/2279095.wikitext"
+    },
+    "Iron Hoe": {
+      "page_title": "Iron Hoe",
+      "revid": 787722,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2015-01-17T18:01:25Z",
+      "wikitext": "fandom_2023/787722.wikitext"
+    },
+    "Iron Ingot": {
+      "page_title": "Iron Ingot",
+      "revid": 2288802,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-07-08T13:02:48Z",
+      "wikitext": "fandom_2023/2288802.wikitext"
+    },
+    "Iron Nugget": {
+      "page_title": "Iron Nugget",
+      "revid": 2276092,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-06-07T08:18:22Z",
+      "wikitext": "fandom_2023/2276092.wikitext"
+    },
+    "Iron Ore": {
+      "page_title": "Iron Ore",
+      "revid": 2305844,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-08-22T12:30:48Z",
+      "wikitext": "fandom_2023/2305844.wikitext"
+    },
+    "Iron Shovel": {
+      "page_title": "Iron Shovel",
+      "revid": 787734,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2015-01-17T18:01:35Z",
+      "wikitext": "fandom_2023/787734.wikitext"
+    },
+    "Iron Sword": {
+      "page_title": "Iron Sword",
+      "revid": 1035260,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2016-11-15T19:32:02Z",
+      "wikitext": "fandom_2023/1035260.wikitext"
+    },
+    "Iron axe": {
+      "page_title": "Iron axe",
+      "revid": 747102,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2014-11-06T01:59:27Z",
+      "wikitext": "fandom_2023/747102.wikitext"
+    },
+    "Iron boots": {
+      "page_title": "Iron boots",
+      "revid": 747267,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2014-11-06T12:56:09Z",
+      "wikitext": "fandom_2023/747267.wikitext"
+    },
+    "Iron chestplate": {
+      "page_title": "Iron chestplate",
+      "revid": 747275,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2014-11-06T12:56:13Z",
+      "wikitext": "fandom_2023/747275.wikitext"
+    },
+    "Iron helmet": {
+      "page_title": "Iron helmet",
+      "revid": 747273,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2014-11-06T12:56:11Z",
+      "wikitext": "fandom_2023/747273.wikitext"
+    },
+    "Iron leggings": {
+      "page_title": "Iron leggings",
+      "revid": 747270,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2014-11-06T12:56:10Z",
+      "wikitext": "fandom_2023/747270.wikitext"
+    },
+    "Iron pickaxe": {
+      "page_title": "Iron pickaxe",
+      "revid": 491753,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2013-06-08T20:56:44Z",
+      "wikitext": "fandom_2023/491753.wikitext"
+    },
+    "Lapis Lazuli": {
+      "page_title": "Lapis Lazuli",
+      "revid": 2288663,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-07-08T04:09:58Z",
+      "wikitext": "fandom_2023/2288663.wikitext"
+    },
+    "Lapis Lazuli Ore": {
+      "page_title": "Lapis Lazuli Ore",
+      "revid": 2305708,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-08-21T18:35:01Z",
+      "wikitext": "fandom_2023/2305708.wikitext"
+    },
+    "Lead": {
+      "page_title": "Lead",
+      "revid": 2304228,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-08-16T20:49:21Z",
+      "wikitext": "fandom_2023/2304228.wikitext"
+    },
+    "Leather": {
+      "page_title": "Leather",
+      "revid": 2259400,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-05-06T04:52:40Z",
+      "wikitext": "fandom_2023/2259400.wikitext"
+    },
+    "Leather Chestplate": {
+      "page_title": "Leather Chestplate",
+      "revid": 1899525,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2021-04-01T21:49:44Z",
+      "wikitext": "fandom_2023/1899525.wikitext"
+    },
+    "Leather Horse Armor": {
+      "page_title": "Leather Horse Armor",
+      "revid": 2072462,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2021-12-17T22:17:44Z",
+      "wikitext": "fandom_2023/2072462.wikitext"
+    },
+    "Leather boots": {
+      "page_title": "Leather boots",
+      "revid": 747330,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2014-11-06T13:30:15Z",
+      "wikitext": "fandom_2023/747330.wikitext"
+    },
+    "Leather helmet": {
+      "page_title": "Leather helmet",
+      "revid": 1735963,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2020-10-23T11:07:55Z",
+      "wikitext": "fandom_2023/1735963.wikitext"
+    },
+    "Lodestone": {
+      "page_title": "Lodestone",
+      "revid": 2232307,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-03-17T05:58:20Z",
+      "wikitext": "fandom_2023/2232307.wikitext"
+    },
+    "Minecart": {
+      "page_title": "Minecart",
+      "revid": 2295910,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-07-27T23:58:14Z",
+      "wikitext": "fandom_2023/2295910.wikitext"
+    },
+    "Minecart with Chest": {
+      "page_title": "Minecart with Chest",
+      "revid": 2275223,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-06-05T02:09:52Z",
+      "wikitext": "fandom_2023/2275223.wikitext"
+    },
+    "Minecart with Furnace": {
+      "page_title": "Minecart with Furnace",
+      "revid": 2290121,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-07-11T10:25:09Z",
+      "wikitext": "fandom_2023/2290121.wikitext"
+    },
+    "Minecart with Hopper": {
+      "page_title": "Minecart with Hopper",
+      "revid": 2258146,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-05-02T19:05:53Z",
+      "wikitext": "fandom_2023/2258146.wikitext"
+    },
+    "Name Tag": {
+      "page_title": "Name Tag",
+      "revid": 2285012,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-07-01T05:48:29Z",
+      "wikitext": "fandom_2023/2285012.wikitext"
+    },
+    "Netherite Ingot": {
+      "page_title": "Netherite Ingot",
+      "revid": 2295905,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-07-27T23:02:07Z",
+      "wikitext": "fandom_2023/2295905.wikitext"
+    },
+    "Oak boat": {
+      "page_title": "Oak boat",
+      "revid": 911286,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2015-11-03T22:19:32Z",
+      "wikitext": "fandom_2023/911286.wikitext"
+    },
+    "Oak log": {
+      "page_title": "Oak log",
+      "revid": 1325512,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2019-02-19T11:26:18Z",
+      "wikitext": "fandom_2023/1325512.wikitext"
+    },
+    "Oak planks": {
+      "page_title": "Oak planks",
+      "revid": 1324953,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2019-02-18T16:30:26Z",
+      "wikitext": "fandom_2023/1324953.wikitext"
+    },
+    "Oak slab": {
+      "page_title": "Oak slab",
+      "revid": 1346432,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2019-03-25T11:22:20Z",
+      "wikitext": "fandom_2023/1346432.wikitext"
+    },
+    "Paper": {
+      "page_title": "Paper",
+      "revid": 2302541,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-08-09T14:29:34Z",
+      "wikitext": "fandom_2023/2302541.wikitext"
+    },
+    "Pickaxe": {
+      "page_title": "Pickaxe",
+      "revid": 2303616,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-08-14T16:23:55Z",
+      "wikitext": "fandom_2023/2303616.wikitext"
+    },
+    "Raw Gold": {
+      "page_title": "Raw Gold",
+      "revid": 2259393,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-05-06T04:50:21Z",
+      "wikitext": "fandom_2023/2259393.wikitext"
+    },
+    "Raw Iron": {
+      "page_title": "Raw Iron",
+      "revid": 2259394,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-05-06T04:51:18Z",
+      "wikitext": "fandom_2023/2259394.wikitext"
+    },
+    "Redstone": {
+      "page_title": "Redstone",
+      "revid": 1535834,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2020-03-31T14:50:08Z",
+      "wikitext": "fandom_2023/1535834.wikitext"
+    },
+    "Redstone Ore": {
+      "page_title": "Redstone Ore",
+      "revid": 2305715,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-08-21T18:39:20Z",
+      "wikitext": "fandom_2023/2305715.wikitext"
+    },
+    "Redstone Torch": {
+      "page_title": "Redstone Torch",
+      "revid": 2305243,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-08-19T18:28:15Z",
+      "wikitext": "fandom_2023/2305243.wikitext"
+    },
+    "Saddle": {
+      "page_title": "Saddle",
+      "revid": 2304267,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-08-16T21:28:28Z",
+      "wikitext": "fandom_2023/2304267.wikitext"
+    },
+    "Sand": {
+      "page_title": "Sand",
+      "revid": 2302814,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-08-10T05:37:06Z",
+      "wikitext": "fandom_2023/2302814.wikitext"
+    },
+    "Scute": {
+      "page_title": "Scute",
+      "revid": 2259401,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-05-06T04:52:53Z",
+      "wikitext": "fandom_2023/2259401.wikitext"
+    },
+    "Smooth Stone": {
+      "page_title": "Smooth Stone",
+      "revid": 2277935,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-06-10T16:18:27Z",
+      "wikitext": "fandom_2023/2277935.wikitext"
+    },
+    "Stick": {
+      "page_title": "Stick",
+      "revid": 2291521,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-07-14T13:05:40Z",
+      "wikitext": "fandom_2023/2291521.wikitext"
+    },
+    "Stone": {
+      "page_title": "Stone",
+      "revid": 2277817,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-06-10T10:44:03Z",
+      "wikitext": "fandom_2023/2277817.wikitext"
+    },
+    "Stone Bricks": {
+      "page_title": "Stone Bricks",
+      "revid": 2277937,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-06-10T16:21:24Z",
+      "wikitext": "fandom_2023/2277937.wikitext"
+    },
+    "Stone brick slab": {
+      "page_title": "Stone brick slab",
+      "revid": 760467,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2014-11-30T02:45:30Z",
+      "wikitext": "fandom_2023/760467.wikitext"
+    },
+    "Stone pickaxe": {
+      "page_title": "Stone pickaxe",
+      "revid": 781700,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2015-01-06T15:49:58Z",
+      "wikitext": "fandom_2023/781700.wikitext"
+    },
+    "String": {
+      "page_title": "String",
+      "revid": 2290213,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-07-11T17:36:09Z",
+      "wikitext": "fandom_2023/2290213.wikitext"
+    },
+    "White Carpet": {
+      "page_title": "White Carpet",
+      "revid": 471314,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2013-04-18T20:56:33Z",
+      "wikitext": "fandom_2023/471314.wikitext"
+    },
+    "White wool": {
+      "page_title": "White wool",
+      "revid": 747959,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2014-11-07T12:22:55Z",
+      "wikitext": "fandom_2023/747959.wikitext"
+    },
+    "Wood": {
+      "page_title": "Wood",
+      "revid": 2305868,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-08-22T15:51:42Z",
+      "wikitext": "fandom_2023/2305868.wikitext"
+    },
+    "Wooden pickaxe": {
+      "page_title": "Wooden pickaxe",
+      "revid": 747113,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2014-11-06T02:04:35Z",
+      "wikitext": "fandom_2023/747113.wikitext"
+    },
+    "Wool": {
+      "page_title": "Wool",
+      "revid": 2298826,
+      "source_site": "minecraft_fandom_via_internet_archive",
+      "timestamp": "2023-08-03T05:42:02Z",
+      "wikitext": "fandom_2023/2298826.wikitext"
+    }
+  },
+  "source": "Internet Archive WikiTeam3",
+  "t3_source": "fandom_2023"
+}

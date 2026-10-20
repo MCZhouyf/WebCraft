@@ -1,0 +1,151 @@
+{
+  "boundary_question": [
+    {
+      "mechanism fact": "blue_wool can be made from blue_dye, white_wool at crafting_grid.",
+      "source": "historical_archive_1.16.5",
+      "timestamp": "2021-02-13T00:00:00Z"
+    },
+    {
+      "mechanism fact": "blue_wool cannot be made from black_wool, blue_dye at crafting_grid.",
+      "source": "historical_archive_1.16.5",
+      "timestamp": "2021-02-13T00:00:00Z"
+    },
+    {
+      "mechanism fact": "blue_carpet cannot be made from black_carpet, blue_dye at crafting_grid.",
+      "source": "historical_archive_1.16.5",
+      "timestamp": "2021-02-13T00:00:00Z"
+    }
+  ],
+  "comparison_world": "1.16.5",
+  "conditions": {
+    "K": [
+      {
+        "mechanism fact": "blue_wool cannot be made from blue_dye, white_wool at crafting_grid.",
+        "source": "truth_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_carpet can be made from blue_dye, white_carpet at crafting_grid.",
+        "source": "truth_source_2",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_wool can be made from black_wool, blue_dye at crafting_grid.",
+        "source": "truth_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_carpet can be made from black_carpet, blue_dye at crafting_grid.",
+        "source": "truth_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      }
+    ],
+    "K+N": [
+      {
+        "mechanism fact": "blue_carpet can be made from black_carpet, blue_dye at crafting_grid.",
+        "source": "truth_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "cracked_polished_blackstone_bricks from polished_blackstone_bricks.     ",
+        "source": "neutral_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "polished_blackstone_brick_slab from polished_blackstone_bricks.     ",
+        "source": "neutral_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_carpet can be made from blue_dye, white_carpet at crafting_grid.",
+        "source": "truth_source_2",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_wool can be made from black_wool, blue_dye at crafting_grid.",
+        "source": "truth_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_wool cannot be made from blue_dye, white_wool at crafting_grid.",
+        "source": "truth_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "polished_blackstone_brick_stairs from polished_blackstone_bricks.",
+        "source": "neutral_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      }
+    ],
+    "K+S": [
+      {
+        "mechanism fact": "blue_carpet cannot be made from black_carpet, blue_dye at crafting_grid.",
+        "source": "historical_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_wool cannot be made from black_wool, blue_dye at crafting_grid.",
+        "source": "historical_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_carpet can be made from blue_dye, white_carpet at crafting_grid.",
+        "source": "truth_source_2",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_wool can be made from blue_dye, white_wool at crafting_grid.",
+        "source": "historical_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_carpet can be made from black_carpet, blue_dye at crafting_grid.",
+        "source": "truth_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_wool can be made from black_wool, blue_dye at crafting_grid.",
+        "source": "truth_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_wool cannot be made from blue_dye, white_wool at crafting_grid.",
+        "source": "truth_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      }
+    ],
+    "S": [
+      {
+        "mechanism fact": "blue_carpet cannot be made from black_carpet, blue_dye at crafting_grid.",
+        "source": "historical_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_wool cannot be made from black_wool, blue_dye at crafting_grid.",
+        "source": "historical_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_wool can be made from blue_dye, white_wool at crafting_grid.",
+        "source": "historical_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "blue_carpet can be made from blue_dye, white_carpet at crafting_grid.",
+        "source": "truth_source_2",
+        "timestamp": "2026-01-08T00:00:00Z"
+      }
+    ],
+    "empty": [
+      {
+        "mechanism fact": "blue_carpet can be made from blue_dye, white_carpet at crafting_grid.",
+        "source": "truth_source_2",
+        "timestamp": "2026-01-08T00:00:00Z"
+      }
+    ]
+  },
+  "instance_id": "cds_0002_extv2_001_1_21_11_vs_1_16_5",
+  "schema_version": 1,
+  "target_world": "1.21.11",
+  "task_id": "extv2_001"
+}

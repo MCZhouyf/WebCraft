@@ -1,0 +1,175 @@
+{
+  "status": "GENERATED_REQUIRES_LIVE_VALIDATION_AND_PREREGISTRATION",
+  "development_seed": 20261004,
+  "candidate_items": 175,
+  "selected_task_counts": {
+    "planning": 27,
+    "feasibility": 2,
+    "control": 12
+  },
+  "split_counts": {
+    "eval": 29,
+    "dev": 12
+  },
+  "resource_maximum_candidate_demand": {
+    "coal_ore": 2,
+    "cobblestone": 8,
+    "diamond_ore": 1,
+    "gold_ore": 9,
+    "iron_ore": 10,
+    "lapis_ore": 1,
+    "oak_log": 4,
+    "redstone_ore": 1,
+    "sand": 2,
+    "stone": 9
+  },
+  "resource_array_capacities": {
+    "oak_log": 8,
+    "cobblestone": 16,
+    "stone": 18,
+    "iron_ore": 20,
+    "gold_ore": 18,
+    "coal_ore": 4,
+    "diamond_ore": 2,
+    "redstone_ore": 2,
+    "lapis_ore": 2,
+    "sand": 4,
+    "gravel": 1
+  },
+  "conflict_grade_counts": {
+    "A": 673,
+    "C": 1137
+  },
+  "tag_expansion_count": 163,
+  "planning_conflict_max_reuse": 20,
+  "unique_targets": 41,
+  "version_by_conflict_category": {
+    "1.16.5": {
+      "feasibility_change": {
+        "executable_grade_A_or_B": 1,
+        "grade_C": 0,
+        "assertions_true_in_version": 1
+      },
+      "invariant_false_control": {
+        "executable_grade_A_or_B": 0,
+        "grade_C": 0,
+        "assertions_true_in_version": 0
+      },
+      "new_route": {
+        "executable_grade_A_or_B": 0,
+        "grade_C": 0,
+        "assertions_true_in_version": 0
+      },
+      "removed": {
+        "executable_grade_A_or_B": 1,
+        "grade_C": 0,
+        "assertions_true_in_version": 1
+      },
+      "renamed": {
+        "executable_grade_A_or_B": 4,
+        "grade_C": 0,
+        "assertions_true_in_version": 4
+      },
+      "replacement": {
+        "executable_grade_A_or_B": 37,
+        "grade_C": 93,
+        "assertions_true_in_version": 130
+      }
+    },
+    "1.19": {
+      "feasibility_change": {
+        "executable_grade_A_or_B": 6,
+        "grade_C": 104,
+        "assertions_true_in_version": 110
+      },
+      "invariant_false_control": {
+        "executable_grade_A_or_B": 0,
+        "grade_C": 0,
+        "assertions_true_in_version": 0
+      },
+      "new_route": {
+        "executable_grade_A_or_B": 177,
+        "grade_C": 207,
+        "assertions_true_in_version": 384
+      },
+      "removed": {
+        "executable_grade_A_or_B": 1,
+        "grade_C": 0,
+        "assertions_true_in_version": 1
+      },
+      "renamed": {
+        "executable_grade_A_or_B": 4,
+        "grade_C": 0,
+        "assertions_true_in_version": 4
+      },
+      "replacement": {
+        "executable_grade_A_or_B": 37,
+        "grade_C": 116,
+        "assertions_true_in_version": 153
+      }
+    },
+    "1.21.11": {
+      "feasibility_change": {
+        "executable_grade_A_or_B": 17,
+        "grade_C": 348,
+        "assertions_true_in_version": 365
+      },
+      "invariant_false_control": {
+        "executable_grade_A_or_B": 0,
+        "grade_C": 0,
+        "assertions_true_in_version": 0
+      },
+      "new_route": {
+        "executable_grade_A_or_B": 542,
+        "grade_C": 550,
+        "assertions_true_in_version": 1092
+      },
+      "removed": {
+        "executable_grade_A_or_B": 0,
+        "grade_C": 0,
+        "assertions_true_in_version": 0
+      },
+      "renamed": {
+        "executable_grade_A_or_B": 4,
+        "grade_C": 0,
+        "assertions_true_in_version": 4
+      },
+      "replacement": {
+        "executable_grade_A_or_B": 43,
+        "grade_C": 123,
+        "assertions_true_in_version": 166
+      }
+    }
+  },
+  "grade_c_recipe_types_true_by_version": {
+    "1.16.5": {
+      "crafting_shaped": 48,
+      "crafting_shapeless": 31,
+      "blasting": 3,
+      "smelting": 1,
+      "smithing": 9
+    },
+    "1.19": {
+      "crafting_shaped": 116,
+      "crafting_shapeless": 82,
+      "smelting": 18,
+      "blasting": 16,
+      "stonecutting": 80,
+      "smithing": 9
+    },
+    "1.21.11": {
+      "crafting_shaped": 253,
+      "crafting_shapeless": 203,
+      "smelting": 21,
+      "blasting": 17,
+      "stonecutting": 133,
+      "crafting_transmute": 32,
+      "smithing_transform": 12
+    }
+  },
+  "limitations": [
+    "Generated plans have passed symbolic inventory replay but not yet game execution.",
+    "The task count may be below suggested counts when the finite executable corpus lacks candidates.",
+    "Resource capacities are not frozen until arena reset hashes and live development checks pass."
+  ]
+}

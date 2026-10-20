@@ -1,0 +1,814 @@
+{
+  "directed_comparison_pairs": [
+    {
+      "comparison_world": "1.21.11",
+      "target_world": "1.16.5",
+      "task_id": "extv2_001"
+    },
+    {
+      "comparison_world": "1.16.5",
+      "target_world": "1.21.11",
+      "task_id": "extv2_001"
+    },
+    {
+      "comparison_world": "1.21.11",
+      "target_world": "1.19",
+      "task_id": "extv2_001"
+    },
+    {
+      "comparison_world": "1.19",
+      "target_world": "1.21.11",
+      "task_id": "extv2_001"
+    },
+    {
+      "comparison_world": "1.21.11",
+      "target_world": "1.16.5",
+      "task_id": "extv2_002"
+    },
+    {
+      "comparison_world": "1.16.5",
+      "target_world": "1.21.11",
+      "task_id": "extv2_002"
+    },
+    {
+      "comparison_world": "1.21.11",
+      "target_world": "1.19",
+      "task_id": "extv2_002"
+    },
+    {
+      "comparison_world": "1.19",
+      "target_world": "1.21.11",
+      "task_id": "extv2_002"
+    },
+    {
+      "comparison_world": "1.19",
+      "target_world": "1.16.5",
+      "task_id": "extv2_003"
+    },
+    {
+      "comparison_world": "1.16.5",
+      "target_world": "1.19",
+      "task_id": "extv2_003"
+    },
+    {
+      "comparison_world": "1.21.11",
+      "target_world": "1.16.5",
+      "task_id": "extv2_003"
+    },
+    {
+      "comparison_world": "1.16.5",
+      "target_world": "1.21.11",
+      "task_id": "extv2_003"
+    },
+    {
+      "comparison_world": "1.19",
+      "target_world": "1.16.5",
+      "task_id": "extv2_004"
+    },
+    {
+      "comparison_world": "1.16.5",
+      "target_world": "1.19",
+      "task_id": "extv2_004"
+    },
+    {
+      "comparison_world": "1.21.11",
+      "target_world": "1.16.5",
+      "task_id": "extv2_004"
+    },
+    {
+      "comparison_world": "1.16.5",
+      "target_world": "1.21.11",
+      "task_id": "extv2_004"
+    },
+    {
+      "comparison_world": "1.21.11",
+      "target_world": "1.16.5",
+      "task_id": "extv2_005"
+    },
+    {
+      "comparison_world": "1.16.5",
+      "target_world": "1.21.11",
+      "task_id": "extv2_005"
+    },
+    {
+      "comparison_world": "1.21.11",
+      "target_world": "1.19",
+      "task_id": "extv2_005"
+    },
+    {
+      "comparison_world": "1.19",
+      "target_world": "1.21.11",
+      "task_id": "extv2_005"
+    },
+    {
+      "comparison_world": "1.21.11",
+      "target_world": "1.16.5",
+      "task_id": "extv2_006"
+    },
+    {
+      "comparison_world": "1.16.5",
+      "target_world": "1.21.11",
+      "task_id": "extv2_006"
+    },
+    {
+      "comparison_world": "1.21.11",
+      "target_world": "1.19",
+      "task_id": "extv2_006"
+    },
+    {
+      "comparison_world": "1.19",
+      "target_world": "1.21.11",
+      "task_id": "extv2_006"
+    },
+    {
+      "comparison_world": "1.21.11",
+      "target_world": "1.16.5",
+      "task_id": "extv2_007"
+    },
+    {
+      "comparison_world": "1.16.5",
+      "target_world": "1.21.11",
+      "task_id": "extv2_007"
+    },
+    {
+      "comparison_world": "1.21.11",
+      "target_world": "1.19",
+      "task_id": "extv2_007"
+    },
+    {
+      "comparison_world": "1.19",
+      "target_world": "1.21.11",
+      "task_id": "extv2_007"
+    },
+    {
+      "comparison_world": "1.21.11",
+      "target_world": "1.16.5",
+      "task_id": "extv2_008"
+    },
+    {
+      "comparison_world": "1.16.5",
+      "target_world": "1.21.11",
+      "task_id": "extv2_008"
+    },
+    {
+      "comparison_world": "1.21.11",
+      "target_world": "1.19",
+      "task_id": "extv2_008"
+    },
+    {
+      "comparison_world": "1.19",
+      "target_world": "1.21.11",
+      "task_id": "extv2_008"
+    },
+    {
+      "comparison_world": "1.21.11",
+      "target_world": "1.16.5",
+      "task_id": "extv2_009"
+    },
+    {
+      "comparison_world": "1.16.5",
+      "target_world": "1.21.11",
+      "task_id": "extv2_009"
+    },
+    {
+      "comparison_world": "1.21.11",
+      "target_world": "1.19",
+      "task_id": "extv2_009"
+    },
+    {
+      "comparison_world": "1.19",
+      "target_world": "1.21.11",
+      "task_id": "extv2_009"
+    },
+    {
+      "comparison_world": "1.19",
+      "target_world": "1.16.5",
+      "task_id": "extv2_010"
+    },
+    {
+      "comparison_world": "1.16.5",
+      "target_world": "1.19",
+      "task_id": "extv2_010"
+    },
+    {
+      "comparison_world": "1.21.11",
+      "target_world": "1.16.5",
+      "task_id": "extv2_010"
+    },
+    {
+      "comparison_world": "1.16.5",
+      "target_world": "1.21.11",
+      "task_id": "extv2_010"
+    },
+    {
+      "comparison_world": "1.21.11",
+      "target_world": "1.16.5",
+      "task_id": "extv2_011"
+    },
+    {
+      "comparison_world": "1.16.5",
+      "target_world": "1.21.11",
+      "task_id": "extv2_011"
+    },
+    {
+      "comparison_world": "1.21.11",
+      "target_world": "1.19",
+      "task_id": "extv2_011"
+    },
+    {
+      "comparison_world": "1.19",
+      "target_world": "1.21.11",
+      "task_id": "extv2_011"
+    },
+    {
+      "comparison_world": "1.21.11",
+      "target_world": "1.16.5",
+      "task_id": "extv2_012"
+    },
+    {
+      "comparison_world": "1.16.5",
+      "target_world": "1.21.11",
+      "task_id": "extv2_012"
+    },
+    {
+      "comparison_world": "1.21.11",
+      "target_world": "1.19",
+      "task_id": "extv2_012"
+    },
+    {
+      "comparison_world": "1.19",
+      "target_world": "1.21.11",
+      "task_id": "extv2_012"
+    },
+    {
+      "comparison_world": "1.21.11",
+      "target_world": "1.16.5",
+      "task_id": "extv2_013"
+    },
+    {
+      "comparison_world": "1.16.5",
+      "target_world": "1.21.11",
+      "task_id": "extv2_013"
+    },
+    {
+      "comparison_world": "1.21.11",
+      "target_world": "1.19",
+      "task_id": "extv2_013"
+    },
+    {
+      "comparison_world": "1.19",
+      "target_world": "1.21.11",
+      "task_id": "extv2_013"
+    }
+  ],
+  "families": [
+    {
+      "behaviorally_real": true,
+      "family_id": "feature:blue_wool_chain",
+      "mechanisms": [
+        "recipe:blue_carpet",
+        "recipe:blue_wool"
+      ],
+      "planner_representable": true,
+      "selected_task_ids": [
+        "extv2_001"
+      ],
+      "source_rows": 2,
+      "subjects": [
+        "blue_carpet",
+        "blue_wool"
+      ]
+    },
+    {
+      "behaviorally_real": true,
+      "family_id": "feature:harness_family",
+      "mechanisms": [
+        "craftability:blue_harness",
+        "craftability:white_harness",
+        "recipe:blue_harness",
+        "recipe:white_harness"
+      ],
+      "planner_representable": true,
+      "selected_task_ids": [
+        "extv2_002"
+      ],
+      "source_rows": 4,
+      "subjects": [
+        "blue_harness",
+        "white_harness"
+      ]
+    },
+    {
+      "behaviorally_real": true,
+      "family_id": "feature:raw_ingot_smelting",
+      "mechanisms": [
+        "recipe:gold_ingot",
+        "recipe:iron_ingot"
+      ],
+      "planner_representable": true,
+      "selected_task_ids": [
+        "extv2_003"
+      ],
+      "source_rows": 2,
+      "subjects": [
+        "gold_ingot",
+        "iron_ingot"
+      ]
+    },
+    {
+      "behaviorally_real": true,
+      "family_id": "feature:raw_material_introduction",
+      "mechanisms": [
+        "craftability:raw_gold",
+        "craftability:raw_gold_block",
+        "craftability:raw_iron",
+        "craftability:raw_iron_block",
+        "recipe:raw_gold_block",
+        "recipe:raw_iron_block"
+      ],
+      "planner_representable": true,
+      "selected_task_ids": [
+        "extv2_004"
+      ],
+      "source_rows": 6,
+      "subjects": [
+        "raw_gold",
+        "raw_gold_block",
+        "raw_iron",
+        "raw_iron_block"
+      ]
+    },
+    {
+      "behaviorally_real": true,
+      "family_id": "feature:spear_family",
+      "mechanisms": [
+        "craftability:diamond_spear",
+        "craftability:golden_spear",
+        "craftability:iron_spear",
+        "craftability:stone_spear",
+        "craftability:wooden_spear",
+        "recipe:stone_spear"
+      ],
+      "planner_representable": true,
+      "selected_task_ids": [
+        "extv2_005"
+      ],
+      "source_rows": 6,
+      "subjects": [
+        "diamond_spear",
+        "golden_spear",
+        "iron_spear",
+        "stone_spear",
+        "wooden_spear"
+      ]
+    },
+    {
+      "behaviorally_real": false,
+      "family_id": "feature:stone_tool_recipe_family",
+      "mechanisms": [
+        "recipe:stone_axe",
+        "recipe:stone_hoe",
+        "recipe:stone_pickaxe",
+        "recipe:stone_shovel",
+        "recipe:stone_sword"
+      ],
+      "planner_representable": false,
+      "selected_task_ids": [],
+      "source_rows": 9,
+      "subjects": [
+        "stone_axe",
+        "stone_hoe",
+        "stone_pickaxe",
+        "stone_shovel",
+        "stone_sword"
+      ]
+    },
+    {
+      "behaviorally_real": false,
+      "family_id": "feature:wooden_tool_recipe_family",
+      "mechanisms": [
+        "recipe:wooden_axe",
+        "recipe:wooden_hoe",
+        "recipe:wooden_pickaxe",
+        "recipe:wooden_shovel",
+        "recipe:wooden_sword"
+      ],
+      "planner_representable": false,
+      "selected_task_ids": [],
+      "source_rows": 15,
+      "subjects": [
+        "wooden_axe",
+        "wooden_hoe",
+        "wooden_pickaxe",
+        "wooden_shovel",
+        "wooden_sword"
+      ]
+    },
+    {
+      "behaviorally_real": false,
+      "family_id": "item:barrel",
+      "mechanisms": [
+        "recipe:barrel"
+      ],
+      "planner_representable": false,
+      "selected_task_ids": [],
+      "source_rows": 3,
+      "subjects": [
+        "barrel"
+      ]
+    },
+    {
+      "behaviorally_real": false,
+      "family_id": "item:bowl",
+      "mechanisms": [
+        "recipe:bowl"
+      ],
+      "planner_representable": false,
+      "selected_task_ids": [],
+      "source_rows": 3,
+      "subjects": [
+        "bowl"
+      ]
+    },
+    {
+      "behaviorally_real": true,
+      "family_id": "item:bundle",
+      "mechanisms": [
+        "craftability:bundle",
+        "recipe:bundle"
+      ],
+      "planner_representable": true,
+      "selected_task_ids": [
+        "extv2_006"
+      ],
+      "source_rows": 2,
+      "subjects": [
+        "bundle"
+      ]
+    },
+    {
+      "behaviorally_real": false,
+      "family_id": "item:campfire",
+      "mechanisms": [
+        "recipe:campfire"
+      ],
+      "planner_representable": false,
+      "selected_task_ids": [],
+      "source_rows": 3,
+      "subjects": [
+        "campfire"
+      ]
+    },
+    {
+      "behaviorally_real": false,
+      "family_id": "item:cartography_table",
+      "mechanisms": [
+        "recipe:cartography_table"
+      ],
+      "planner_representable": false,
+      "selected_task_ids": [],
+      "source_rows": 3,
+      "subjects": [
+        "cartography_table"
+      ]
+    },
+    {
+      "behaviorally_real": false,
+      "family_id": "item:charcoal",
+      "mechanisms": [
+        "recipe:charcoal"
+      ],
+      "planner_representable": false,
+      "selected_task_ids": [],
+      "source_rows": 3,
+      "subjects": [
+        "charcoal"
+      ]
+    },
+    {
+      "behaviorally_real": true,
+      "family_id": "item:chiseled_bookshelf",
+      "mechanisms": [
+        "craftability:chiseled_bookshelf",
+        "recipe:chiseled_bookshelf"
+      ],
+      "planner_representable": true,
+      "selected_task_ids": [
+        "extv2_007"
+      ],
+      "source_rows": 2,
+      "subjects": [
+        "chiseled_bookshelf"
+      ]
+    },
+    {
+      "behaviorally_real": false,
+      "family_id": "item:composter",
+      "mechanisms": [
+        "recipe:composter"
+      ],
+      "planner_representable": false,
+      "selected_task_ids": [],
+      "source_rows": 3,
+      "subjects": [
+        "composter"
+      ]
+    },
+    {
+      "behaviorally_real": true,
+      "family_id": "item:crafter",
+      "mechanisms": [
+        "craftability:crafter"
+      ],
+      "planner_representable": true,
+      "selected_task_ids": [
+        "extv2_008"
+      ],
+      "source_rows": 1,
+      "subjects": [
+        "crafter"
+      ]
+    },
+    {
+      "behaviorally_real": false,
+      "family_id": "item:crafting_table",
+      "mechanisms": [
+        "recipe:crafting_table"
+      ],
+      "planner_representable": false,
+      "selected_task_ids": [],
+      "source_rows": 2,
+      "subjects": [
+        "crafting_table"
+      ]
+    },
+    {
+      "behaviorally_real": false,
+      "family_id": "item:gold_nugget",
+      "mechanisms": [
+        "recipe:gold_nugget"
+      ],
+      "planner_representable": false,
+      "selected_task_ids": [],
+      "source_rows": 2,
+      "subjects": [
+        "gold_nugget"
+      ]
+    },
+    {
+      "behaviorally_real": false,
+      "family_id": "item:grindstone",
+      "mechanisms": [
+        "recipe:grindstone"
+      ],
+      "planner_representable": false,
+      "selected_task_ids": [],
+      "source_rows": 3,
+      "subjects": [
+        "grindstone"
+      ]
+    },
+    {
+      "behaviorally_real": false,
+      "family_id": "item:iron_nugget",
+      "mechanisms": [
+        "recipe:iron_nugget"
+      ],
+      "planner_representable": false,
+      "selected_task_ids": [],
+      "source_rows": 2,
+      "subjects": [
+        "iron_nugget"
+      ]
+    },
+    {
+      "behaviorally_real": false,
+      "family_id": "item:jukebox",
+      "mechanisms": [
+        "recipe:jukebox"
+      ],
+      "planner_representable": false,
+      "selected_task_ids": [],
+      "source_rows": 3,
+      "subjects": [
+        "jukebox"
+      ]
+    },
+    {
+      "behaviorally_real": true,
+      "family_id": "item:lodestone",
+      "mechanisms": [
+        "recipe:lodestone"
+      ],
+      "planner_representable": true,
+      "selected_task_ids": [
+        "extv2_009"
+      ],
+      "source_rows": 1,
+      "subjects": [
+        "lodestone"
+      ]
+    },
+    {
+      "behaviorally_real": false,
+      "family_id": "item:loom",
+      "mechanisms": [
+        "recipe:loom"
+      ],
+      "planner_representable": false,
+      "selected_task_ids": [],
+      "source_rows": 3,
+      "subjects": [
+        "loom"
+      ]
+    },
+    {
+      "behaviorally_real": false,
+      "family_id": "item:name_tag",
+      "mechanisms": [
+        "recipe:name_tag"
+      ],
+      "planner_representable": false,
+      "selected_task_ids": [],
+      "source_rows": 1,
+      "subjects": [
+        "name_tag"
+      ]
+    },
+    {
+      "behaviorally_real": false,
+      "family_id": "item:note_block",
+      "mechanisms": [
+        "recipe:note_block"
+      ],
+      "planner_representable": false,
+      "selected_task_ids": [],
+      "source_rows": 3,
+      "subjects": [
+        "note_block"
+      ]
+    },
+    {
+      "behaviorally_real": true,
+      "family_id": "item:oak_chest_boat",
+      "mechanisms": [
+        "craftability:oak_chest_boat"
+      ],
+      "planner_representable": true,
+      "selected_task_ids": [
+        "extv2_010"
+      ],
+      "source_rows": 1,
+      "subjects": [
+        "oak_chest_boat"
+      ]
+    },
+    {
+      "behaviorally_real": false,
+      "family_id": "item:piston",
+      "mechanisms": [
+        "recipe:piston"
+      ],
+      "planner_representable": false,
+      "selected_task_ids": [],
+      "source_rows": 3,
+      "subjects": [
+        "piston"
+      ]
+    },
+    {
+      "behaviorally_real": true,
+      "family_id": "item:saddle",
+      "mechanisms": [
+        "craftability:saddle",
+        "recipe:saddle"
+      ],
+      "planner_representable": true,
+      "selected_task_ids": [
+        "extv2_011"
+      ],
+      "source_rows": 2,
+      "subjects": [
+        "saddle"
+      ]
+    },
+    {
+      "behaviorally_real": false,
+      "family_id": "item:shield",
+      "mechanisms": [
+        "recipe:shield"
+      ],
+      "planner_representable": false,
+      "selected_task_ids": [],
+      "source_rows": 3,
+      "subjects": [
+        "shield"
+      ]
+    },
+    {
+      "behaviorally_real": false,
+      "family_id": "item:smithing_table",
+      "mechanisms": [
+        "recipe:smithing_table"
+      ],
+      "planner_representable": false,
+      "selected_task_ids": [],
+      "source_rows": 3,
+      "subjects": [
+        "smithing_table"
+      ]
+    },
+    {
+      "behaviorally_real": false,
+      "family_id": "item:smoker",
+      "mechanisms": [
+        "recipe:smoker"
+      ],
+      "planner_representable": false,
+      "selected_task_ids": [],
+      "source_rows": 3,
+      "subjects": [
+        "smoker"
+      ]
+    },
+    {
+      "behaviorally_real": false,
+      "family_id": "item:tripwire_hook",
+      "mechanisms": [
+        "recipe:tripwire_hook"
+      ],
+      "planner_representable": false,
+      "selected_task_ids": [],
+      "source_rows": 3,
+      "subjects": [
+        "tripwire_hook"
+      ]
+    },
+    {
+      "behaviorally_real": true,
+      "family_id": "rename:chain_iron_chain",
+      "mechanisms": [
+        "craftability:chain",
+        "craftability:iron_chain",
+        "name:chain",
+        "name:iron_chain"
+      ],
+      "planner_representable": true,
+      "selected_task_ids": [
+        "extv2_012",
+        "extv2_013"
+      ],
+      "source_rows": 4,
+      "subjects": [
+        "chain",
+        "iron_chain"
+      ]
+    },
+    {
+      "behaviorally_real": true,
+      "family_id": "rename:grass_path_dirt_path",
+      "mechanisms": [
+        "name:dirt_path",
+        "name:grass_path"
+      ],
+      "planner_representable": false,
+      "selected_task_ids": [],
+      "source_rows": 2,
+      "subjects": [
+        "dirt_path",
+        "grass_path"
+      ]
+    },
+    {
+      "behaviorally_real": true,
+      "family_id": "rename:grass_short_grass",
+      "mechanisms": [
+        "name:grass",
+        "name:short_grass"
+      ],
+      "planner_representable": false,
+      "selected_task_ids": [],
+      "source_rows": 2,
+      "subjects": [
+        "grass",
+        "short_grass"
+      ]
+    },
+    {
+      "behaviorally_real": true,
+      "family_id": "rename:scute_turtle_scute",
+      "mechanisms": [
+        "name:scute",
+        "name:turtle_scute"
+      ],
+      "planner_representable": false,
+      "selected_task_ids": [],
+      "source_rows": 2,
+      "subjects": [
+        "scute",
+        "turtle_scute"
+      ]
+    }
+  ],
+  "schema_version": 1
+}

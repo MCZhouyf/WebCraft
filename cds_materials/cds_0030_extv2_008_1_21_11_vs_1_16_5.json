@@ -1,0 +1,55 @@
+{
+  "boundary_question": [
+    {
+      "mechanism fact": "crafter cannot be made from iron_ingot, iron_ingot, iron_ingot, iron_ingot, crafting_table, iron_ingot, redstone, dropper, redstone at crafting_grid.",
+      "source": "historical_archive_1.16.5",
+      "timestamp": "2021-02-13T00:00:00Z"
+    }
+  ],
+  "comparison_world": "1.16.5",
+  "conditions": {
+    "K": [
+      {
+        "mechanism fact": "crafter can be made from iron_ingot, iron_ingot, iron_ingot, iron_ingot, crafting_table, iron_ingot, redstone, dropper, redstone at crafting_grid.",
+        "source": "truth_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      }
+    ],
+    "K+N": [
+      {
+        "mechanism fact": "crafter can be made from iron_ingot, iron_ingot, iron_ingot, iron_ingot, crafting_table, iron_ingot, redstone, dropper, redstone at crafting_grid.",
+        "source": "truth_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "rabbit_stew from baked_potato, bowl, brown_mushroom, carrot, cooked_rabbit.                                                                          ",
+        "source": "neutral_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      }
+    ],
+    "K+S": [
+      {
+        "mechanism fact": "crafter can be made from iron_ingot, iron_ingot, iron_ingot, iron_ingot, crafting_table, iron_ingot, redstone, dropper, redstone at crafting_grid.",
+        "source": "truth_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "crafter cannot be made from iron_ingot, iron_ingot, iron_ingot, iron_ingot, crafting_table, iron_ingot, redstone, dropper, redstone at crafting_grid.",
+        "source": "historical_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      }
+    ],
+    "S": [
+      {
+        "mechanism fact": "crafter cannot be made from iron_ingot, iron_ingot, iron_ingot, iron_ingot, crafting_table, iron_ingot, redstone, dropper, redstone at crafting_grid.",
+        "source": "historical_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      }
+    ],
+    "empty": []
+  },
+  "instance_id": "cds_0030_extv2_008_1_21_11_vs_1_16_5",
+  "schema_version": 1,
+  "target_world": "1.21.11",
+  "task_id": "extv2_008"
+}

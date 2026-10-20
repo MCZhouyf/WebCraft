@@ -1,0 +1,17 @@
+/env/
+/servers/
+/logs/
+/reports/
+/release/
+/corpus/raw/
+/corpus/private/
+/corpus/llm_prior/
+/corpus/motivation_multimodel/
+/harness/node_modules/
+/scripts/.rcon_secrets
+/evaluator/private/
+/truth/tmp/
+__pycache__/
+*.pyc
+.env
+.env.*

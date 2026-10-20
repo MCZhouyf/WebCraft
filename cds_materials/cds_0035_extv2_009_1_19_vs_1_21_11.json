@@ -1,0 +1,55 @@
+{
+  "boundary_question": [
+    {
+      "mechanism fact": "lodestone can be made from chiseled_stone_bricks, chiseled_stone_bricks, chiseled_stone_bricks, chiseled_stone_bricks, iron_ingot, chiseled_stone_bricks, chiseled_stone_bricks, chiseled_stone_bricks, chiseled_stone_bricks at crafting_grid.",
+      "source": "historical_archive_1.21.11",
+      "timestamp": "2026-01-08T00:00:00Z"
+    }
+  ],
+  "comparison_world": "1.21.11",
+  "conditions": {
+    "K": [
+      {
+        "mechanism fact": "lodestone cannot be made from chiseled_stone_bricks, chiseled_stone_bricks, chiseled_stone_bricks, chiseled_stone_bricks, iron_ingot, chiseled_stone_bricks, chiseled_stone_bricks, chiseled_stone_bricks, chiseled_stone_bricks at crafting_grid.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      }
+    ],
+    "K+N": [
+      {
+        "mechanism fact": "rabbit_stew from baked_potato, bowl, brown_mushroom, carrot, cooked_rabbit.                                                                                                                                                                    ",
+        "source": "neutral_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "lodestone cannot be made from chiseled_stone_bricks, chiseled_stone_bricks, chiseled_stone_bricks, chiseled_stone_bricks, iron_ingot, chiseled_stone_bricks, chiseled_stone_bricks, chiseled_stone_bricks, chiseled_stone_bricks at crafting_grid.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      }
+    ],
+    "K+S": [
+      {
+        "mechanism fact": "lodestone cannot be made from chiseled_stone_bricks, chiseled_stone_bricks, chiseled_stone_bricks, chiseled_stone_bricks, iron_ingot, chiseled_stone_bricks, chiseled_stone_bricks, chiseled_stone_bricks, chiseled_stone_bricks at crafting_grid.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "lodestone can be made from chiseled_stone_bricks, chiseled_stone_bricks, chiseled_stone_bricks, chiseled_stone_bricks, iron_ingot, chiseled_stone_bricks, chiseled_stone_bricks, chiseled_stone_bricks, chiseled_stone_bricks at crafting_grid.",
+        "source": "historical_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      }
+    ],
+    "S": [
+      {
+        "mechanism fact": "lodestone can be made from chiseled_stone_bricks, chiseled_stone_bricks, chiseled_stone_bricks, chiseled_stone_bricks, iron_ingot, chiseled_stone_bricks, chiseled_stone_bricks, chiseled_stone_bricks, chiseled_stone_bricks at crafting_grid.",
+        "source": "historical_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      }
+    ],
+    "empty": []
+  },
+  "instance_id": "cds_0035_extv2_009_1_19_vs_1_21_11",
+  "schema_version": 1,
+  "target_world": "1.19",
+  "task_id": "extv2_009"
+}

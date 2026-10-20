@@ -1,0 +1,1692 @@
+{
+  "origin": {
+    "x": 0,
+    "y": 4,
+    "z": 0
+  },
+  "spacing": 256,
+  "bounds": {
+    "min": {
+      "x": -8,
+      "y": 3,
+      "z": -8
+    },
+    "max": {
+      "x": 32,
+      "y": 12,
+      "z": 8
+    }
+  },
+  "workbench": {
+    "x": 4,
+    "y": 4,
+    "z": 0,
+    "station": {
+      "x": 4.5,
+      "y": 4,
+      "z": -0.5
+    }
+  },
+  "furnace": {
+    "x": 6,
+    "y": 4,
+    "z": 0,
+    "station": {
+      "x": 6.5,
+      "y": 4,
+      "z": -0.5
+    }
+  },
+  "spawn": {
+    "x": 0.5,
+    "y": 4,
+    "z": 0.5
+  },
+  "resources": [
+    {
+      "nodeId": "log_1",
+      "block": "oak_log",
+      "x": 10,
+      "y": 4,
+      "z": -8,
+      "station": {
+        "x": 10.5,
+        "y": 4,
+        "z": -6.5
+      },
+      "pickup": {
+        "x": 10.5,
+        "y": 4,
+        "z": -7.5
+      }
+    },
+    {
+      "nodeId": "log_2",
+      "block": "oak_log",
+      "x": 12,
+      "y": 4,
+      "z": -8,
+      "station": {
+        "x": 12.5,
+        "y": 4,
+        "z": -6.5
+      },
+      "pickup": {
+        "x": 12.5,
+        "y": 4,
+        "z": -7.5
+      }
+    },
+    {
+      "nodeId": "log_3",
+      "block": "oak_log",
+      "x": 14,
+      "y": 4,
+      "z": -8,
+      "station": {
+        "x": 14.5,
+        "y": 4,
+        "z": -6.5
+      },
+      "pickup": {
+        "x": 14.5,
+        "y": 4,
+        "z": -7.5
+      }
+    },
+    {
+      "nodeId": "log_4",
+      "block": "oak_log",
+      "x": 16,
+      "y": 4,
+      "z": -8,
+      "station": {
+        "x": 16.5,
+        "y": 4,
+        "z": -6.5
+      },
+      "pickup": {
+        "x": 16.5,
+        "y": 4,
+        "z": -7.5
+      }
+    },
+    {
+      "nodeId": "log_5",
+      "block": "oak_log",
+      "x": 18,
+      "y": 4,
+      "z": -8,
+      "station": {
+        "x": 18.5,
+        "y": 4,
+        "z": -6.5
+      },
+      "pickup": {
+        "x": 18.5,
+        "y": 4,
+        "z": -7.5
+      }
+    },
+    {
+      "nodeId": "log_6",
+      "block": "oak_log",
+      "x": 20,
+      "y": 4,
+      "z": -8,
+      "station": {
+        "x": 20.5,
+        "y": 4,
+        "z": -6.5
+      },
+      "pickup": {
+        "x": 20.5,
+        "y": 4,
+        "z": -7.5
+      }
+    },
+    {
+      "nodeId": "log_7",
+      "block": "oak_log",
+      "x": 22,
+      "y": 4,
+      "z": -8,
+      "station": {
+        "x": 22.5,
+        "y": 4,
+        "z": -6.5
+      },
+      "pickup": {
+        "x": 22.5,
+        "y": 4,
+        "z": -7.5
+      }
+    },
+    {
+      "nodeId": "log_8",
+      "block": "oak_log",
+      "x": 24,
+      "y": 4,
+      "z": -8,
+      "station": {
+        "x": 24.5,
+        "y": 4,
+        "z": -6.5
+      },
+      "pickup": {
+        "x": 24.5,
+        "y": 4,
+        "z": -7.5
+      }
+    },
+    {
+      "nodeId": "cobble_1",
+      "block": "cobblestone",
+      "x": 26,
+      "y": 4,
+      "z": -8,
+      "station": {
+        "x": 26.5,
+        "y": 4,
+        "z": -6.5
+      },
+      "pickup": {
+        "x": 26.5,
+        "y": 4,
+        "z": -7.5
+      }
+    },
+    {
+      "nodeId": "cobble_2",
+      "block": "cobblestone",
+      "x": 28,
+      "y": 4,
+      "z": -8,
+      "station": {
+        "x": 28.5,
+        "y": 4,
+        "z": -6.5
+      },
+      "pickup": {
+        "x": 28.5,
+        "y": 4,
+        "z": -7.5
+      }
+    },
+    {
+      "nodeId": "cobble_3",
+      "block": "cobblestone",
+      "x": 30,
+      "y": 4,
+      "z": -8,
+      "station": {
+        "x": 30.5,
+        "y": 4,
+        "z": -6.5
+      },
+      "pickup": {
+        "x": 30.5,
+        "y": 4,
+        "z": -7.5
+      }
+    },
+    {
+      "nodeId": "cobble_4",
+      "block": "cobblestone",
+      "x": 10,
+      "y": 4,
+      "z": -6,
+      "station": {
+        "x": 10.5,
+        "y": 4,
+        "z": -6.5
+      },
+      "pickup": {
+        "x": 10.5,
+        "y": 4,
+        "z": -5.5
+      }
+    },
+    {
+      "nodeId": "cobble_5",
+      "block": "cobblestone",
+      "x": 12,
+      "y": 4,
+      "z": -6,
+      "station": {
+        "x": 12.5,
+        "y": 4,
+        "z": -6.5
+      },
+      "pickup": {
+        "x": 12.5,
+        "y": 4,
+        "z": -5.5
+      }
+    },
+    {
+      "nodeId": "cobble_6",
+      "block": "cobblestone",
+      "x": 14,
+      "y": 4,
+      "z": -6,
+      "station": {
+        "x": 14.5,
+        "y": 4,
+        "z": -6.5
+      },
+      "pickup": {
+        "x": 14.5,
+        "y": 4,
+        "z": -5.5
+      }
+    },
+    {
+      "nodeId": "cobble_7",
+      "block": "cobblestone",
+      "x": 16,
+      "y": 4,
+      "z": -6,
+      "station": {
+        "x": 16.5,
+        "y": 4,
+        "z": -6.5
+      },
+      "pickup": {
+        "x": 16.5,
+        "y": 4,
+        "z": -5.5
+      }
+    },
+    {
+      "nodeId": "cobble_8",
+      "block": "cobblestone",
+      "x": 18,
+      "y": 4,
+      "z": -6,
+      "station": {
+        "x": 18.5,
+        "y": 4,
+        "z": -6.5
+      },
+      "pickup": {
+        "x": 18.5,
+        "y": 4,
+        "z": -5.5
+      }
+    },
+    {
+      "nodeId": "cobble_9",
+      "block": "cobblestone",
+      "x": 20,
+      "y": 4,
+      "z": -6,
+      "station": {
+        "x": 20.5,
+        "y": 4,
+        "z": -6.5
+      },
+      "pickup": {
+        "x": 20.5,
+        "y": 4,
+        "z": -5.5
+      }
+    },
+    {
+      "nodeId": "cobble_10",
+      "block": "cobblestone",
+      "x": 22,
+      "y": 4,
+      "z": -6,
+      "station": {
+        "x": 22.5,
+        "y": 4,
+        "z": -6.5
+      },
+      "pickup": {
+        "x": 22.5,
+        "y": 4,
+        "z": -5.5
+      }
+    },
+    {
+      "nodeId": "cobble_11",
+      "block": "cobblestone",
+      "x": 24,
+      "y": 4,
+      "z": -6,
+      "station": {
+        "x": 24.5,
+        "y": 4,
+        "z": -6.5
+      },
+      "pickup": {
+        "x": 24.5,
+        "y": 4,
+        "z": -5.5
+      }
+    },
+    {
+      "nodeId": "cobble_12",
+      "block": "cobblestone",
+      "x": 26,
+      "y": 4,
+      "z": -6,
+      "station": {
+        "x": 26.5,
+        "y": 4,
+        "z": -6.5
+      },
+      "pickup": {
+        "x": 26.5,
+        "y": 4,
+        "z": -5.5
+      }
+    },
+    {
+      "nodeId": "cobble_13",
+      "block": "cobblestone",
+      "x": 28,
+      "y": 4,
+      "z": -6,
+      "station": {
+        "x": 28.5,
+        "y": 4,
+        "z": -6.5
+      },
+      "pickup": {
+        "x": 28.5,
+        "y": 4,
+        "z": -5.5
+      }
+    },
+    {
+      "nodeId": "cobble_14",
+      "block": "cobblestone",
+      "x": 30,
+      "y": 4,
+      "z": -6,
+      "station": {
+        "x": 30.5,
+        "y": 4,
+        "z": -6.5
+      },
+      "pickup": {
+        "x": 30.5,
+        "y": 4,
+        "z": -5.5
+      }
+    },
+    {
+      "nodeId": "cobble_15",
+      "block": "cobblestone",
+      "x": 10,
+      "y": 4,
+      "z": -4,
+      "station": {
+        "x": 10.5,
+        "y": 4,
+        "z": -4.5
+      },
+      "pickup": {
+        "x": 10.5,
+        "y": 4,
+        "z": -3.5
+      }
+    },
+    {
+      "nodeId": "cobble_16",
+      "block": "cobblestone",
+      "x": 12,
+      "y": 4,
+      "z": -4,
+      "station": {
+        "x": 12.5,
+        "y": 4,
+        "z": -4.5
+      },
+      "pickup": {
+        "x": 12.5,
+        "y": 4,
+        "z": -3.5
+      }
+    },
+    {
+      "nodeId": "stone_1",
+      "block": "stone",
+      "x": 14,
+      "y": 4,
+      "z": -4,
+      "station": {
+        "x": 14.5,
+        "y": 4,
+        "z": -4.5
+      },
+      "pickup": {
+        "x": 14.5,
+        "y": 4,
+        "z": -3.5
+      }
+    },
+    {
+      "nodeId": "stone_2",
+      "block": "stone",
+      "x": 16,
+      "y": 4,
+      "z": -4,
+      "station": {
+        "x": 16.5,
+        "y": 4,
+        "z": -4.5
+      },
+      "pickup": {
+        "x": 16.5,
+        "y": 4,
+        "z": -3.5
+      }
+    },
+    {
+      "nodeId": "stone_3",
+      "block": "stone",
+      "x": 18,
+      "y": 4,
+      "z": -4,
+      "station": {
+        "x": 18.5,
+        "y": 4,
+        "z": -4.5
+      },
+      "pickup": {
+        "x": 18.5,
+        "y": 4,
+        "z": -3.5
+      }
+    },
+    {
+      "nodeId": "stone_4",
+      "block": "stone",
+      "x": 20,
+      "y": 4,
+      "z": -4,
+      "station": {
+        "x": 20.5,
+        "y": 4,
+        "z": -4.5
+      },
+      "pickup": {
+        "x": 20.5,
+        "y": 4,
+        "z": -3.5
+      }
+    },
+    {
+      "nodeId": "stone_5",
+      "block": "stone",
+      "x": 22,
+      "y": 4,
+      "z": -4,
+      "station": {
+        "x": 22.5,
+        "y": 4,
+        "z": -4.5
+      },
+      "pickup": {
+        "x": 22.5,
+        "y": 4,
+        "z": -3.5
+      }
+    },
+    {
+      "nodeId": "stone_6",
+      "block": "stone",
+      "x": 24,
+      "y": 4,
+      "z": -4,
+      "station": {
+        "x": 24.5,
+        "y": 4,
+        "z": -4.5
+      },
+      "pickup": {
+        "x": 24.5,
+        "y": 4,
+        "z": -3.5
+      }
+    },
+    {
+      "nodeId": "stone_7",
+      "block": "stone",
+      "x": 26,
+      "y": 4,
+      "z": -4,
+      "station": {
+        "x": 26.5,
+        "y": 4,
+        "z": -4.5
+      },
+      "pickup": {
+        "x": 26.5,
+        "y": 4,
+        "z": -3.5
+      }
+    },
+    {
+      "nodeId": "stone_8",
+      "block": "stone",
+      "x": 28,
+      "y": 4,
+      "z": -4,
+      "station": {
+        "x": 28.5,
+        "y": 4,
+        "z": -4.5
+      },
+      "pickup": {
+        "x": 28.5,
+        "y": 4,
+        "z": -3.5
+      }
+    },
+    {
+      "nodeId": "stone_9",
+      "block": "stone",
+      "x": 30,
+      "y": 4,
+      "z": -4,
+      "station": {
+        "x": 30.5,
+        "y": 4,
+        "z": -4.5
+      },
+      "pickup": {
+        "x": 30.5,
+        "y": 4,
+        "z": -3.5
+      }
+    },
+    {
+      "nodeId": "stone_10",
+      "block": "stone",
+      "x": 10,
+      "y": 4,
+      "z": -2,
+      "station": {
+        "x": 10.5,
+        "y": 4,
+        "z": -2.5
+      },
+      "pickup": {
+        "x": 10.5,
+        "y": 4,
+        "z": -1.5
+      }
+    },
+    {
+      "nodeId": "stone_11",
+      "block": "stone",
+      "x": 12,
+      "y": 4,
+      "z": -2,
+      "station": {
+        "x": 12.5,
+        "y": 4,
+        "z": -2.5
+      },
+      "pickup": {
+        "x": 12.5,
+        "y": 4,
+        "z": -1.5
+      }
+    },
+    {
+      "nodeId": "stone_12",
+      "block": "stone",
+      "x": 14,
+      "y": 4,
+      "z": -2,
+      "station": {
+        "x": 14.5,
+        "y": 4,
+        "z": -2.5
+      },
+      "pickup": {
+        "x": 14.5,
+        "y": 4,
+        "z": -1.5
+      }
+    },
+    {
+      "nodeId": "stone_13",
+      "block": "stone",
+      "x": 16,
+      "y": 4,
+      "z": -2,
+      "station": {
+        "x": 16.5,
+        "y": 4,
+        "z": -2.5
+      },
+      "pickup": {
+        "x": 16.5,
+        "y": 4,
+        "z": -1.5
+      }
+    },
+    {
+      "nodeId": "stone_14",
+      "block": "stone",
+      "x": 18,
+      "y": 4,
+      "z": -2,
+      "station": {
+        "x": 18.5,
+        "y": 4,
+        "z": -2.5
+      },
+      "pickup": {
+        "x": 18.5,
+        "y": 4,
+        "z": -1.5
+      }
+    },
+    {
+      "nodeId": "stone_15",
+      "block": "stone",
+      "x": 20,
+      "y": 4,
+      "z": -2,
+      "station": {
+        "x": 20.5,
+        "y": 4,
+        "z": -2.5
+      },
+      "pickup": {
+        "x": 20.5,
+        "y": 4,
+        "z": -1.5
+      }
+    },
+    {
+      "nodeId": "stone_16",
+      "block": "stone",
+      "x": 22,
+      "y": 4,
+      "z": -2,
+      "station": {
+        "x": 22.5,
+        "y": 4,
+        "z": -2.5
+      },
+      "pickup": {
+        "x": 22.5,
+        "y": 4,
+        "z": -1.5
+      }
+    },
+    {
+      "nodeId": "stone_17",
+      "block": "stone",
+      "x": 24,
+      "y": 4,
+      "z": -2,
+      "station": {
+        "x": 24.5,
+        "y": 4,
+        "z": -2.5
+      },
+      "pickup": {
+        "x": 24.5,
+        "y": 4,
+        "z": -1.5
+      }
+    },
+    {
+      "nodeId": "stone_18",
+      "block": "stone",
+      "x": 26,
+      "y": 4,
+      "z": -2,
+      "station": {
+        "x": 26.5,
+        "y": 4,
+        "z": -2.5
+      },
+      "pickup": {
+        "x": 26.5,
+        "y": 4,
+        "z": -1.5
+      }
+    },
+    {
+      "nodeId": "iron_1",
+      "block": "iron_ore",
+      "x": 28,
+      "y": 4,
+      "z": -2,
+      "station": {
+        "x": 28.5,
+        "y": 4,
+        "z": -2.5
+      },
+      "pickup": {
+        "x": 28.5,
+        "y": 4,
+        "z": -1.5
+      }
+    },
+    {
+      "nodeId": "iron_2",
+      "block": "iron_ore",
+      "x": 30,
+      "y": 4,
+      "z": -2,
+      "station": {
+        "x": 30.5,
+        "y": 4,
+        "z": -2.5
+      },
+      "pickup": {
+        "x": 30.5,
+        "y": 4,
+        "z": -1.5
+      }
+    },
+    {
+      "nodeId": "iron_3",
+      "block": "iron_ore",
+      "x": 10,
+      "y": 4,
+      "z": 0,
+      "station": {
+        "x": 10.5,
+        "y": 4,
+        "z": -0.5
+      },
+      "pickup": {
+        "x": 10.5,
+        "y": 4,
+        "z": 0.5
+      }
+    },
+    {
+      "nodeId": "iron_4",
+      "block": "iron_ore",
+      "x": 12,
+      "y": 4,
+      "z": 0,
+      "station": {
+        "x": 12.5,
+        "y": 4,
+        "z": -0.5
+      },
+      "pickup": {
+        "x": 12.5,
+        "y": 4,
+        "z": 0.5
+      }
+    },
+    {
+      "nodeId": "iron_5",
+      "block": "iron_ore",
+      "x": 14,
+      "y": 4,
+      "z": 0,
+      "station": {
+        "x": 14.5,
+        "y": 4,
+        "z": -0.5
+      },
+      "pickup": {
+        "x": 14.5,
+        "y": 4,
+        "z": 0.5
+      }
+    },
+    {
+      "nodeId": "iron_6",
+      "block": "iron_ore",
+      "x": 16,
+      "y": 4,
+      "z": 0,
+      "station": {
+        "x": 16.5,
+        "y": 4,
+        "z": -0.5
+      },
+      "pickup": {
+        "x": 16.5,
+        "y": 4,
+        "z": 0.5
+      }
+    },
+    {
+      "nodeId": "iron_7",
+      "block": "iron_ore",
+      "x": 18,
+      "y": 4,
+      "z": 0,
+      "station": {
+        "x": 18.5,
+        "y": 4,
+        "z": -0.5
+      },
+      "pickup": {
+        "x": 18.5,
+        "y": 4,
+        "z": 0.5
+      }
+    },
+    {
+      "nodeId": "iron_8",
+      "block": "iron_ore",
+      "x": 20,
+      "y": 4,
+      "z": 0,
+      "station": {
+        "x": 20.5,
+        "y": 4,
+        "z": -0.5
+      },
+      "pickup": {
+        "x": 20.5,
+        "y": 4,
+        "z": 0.5
+      }
+    },
+    {
+      "nodeId": "iron_9",
+      "block": "iron_ore",
+      "x": 22,
+      "y": 4,
+      "z": 0,
+      "station": {
+        "x": 22.5,
+        "y": 4,
+        "z": -0.5
+      },
+      "pickup": {
+        "x": 22.5,
+        "y": 4,
+        "z": 0.5
+      }
+    },
+    {
+      "nodeId": "iron_10",
+      "block": "iron_ore",
+      "x": 24,
+      "y": 4,
+      "z": 0,
+      "station": {
+        "x": 24.5,
+        "y": 4,
+        "z": -0.5
+      },
+      "pickup": {
+        "x": 24.5,
+        "y": 4,
+        "z": 0.5
+      }
+    },
+    {
+      "nodeId": "iron_11",
+      "block": "iron_ore",
+      "x": 26,
+      "y": 4,
+      "z": 0,
+      "station": {
+        "x": 26.5,
+        "y": 4,
+        "z": -0.5
+      },
+      "pickup": {
+        "x": 26.5,
+        "y": 4,
+        "z": 0.5
+      }
+    },
+    {
+      "nodeId": "iron_12",
+      "block": "iron_ore",
+      "x": 28,
+      "y": 4,
+      "z": 0,
+      "station": {
+        "x": 28.5,
+        "y": 4,
+        "z": -0.5
+      },
+      "pickup": {
+        "x": 28.5,
+        "y": 4,
+        "z": 0.5
+      }
+    },
+    {
+      "nodeId": "iron_13",
+      "block": "iron_ore",
+      "x": 30,
+      "y": 4,
+      "z": 0,
+      "station": {
+        "x": 30.5,
+        "y": 4,
+        "z": -0.5
+      },
+      "pickup": {
+        "x": 30.5,
+        "y": 4,
+        "z": 0.5
+      }
+    },
+    {
+      "nodeId": "iron_14",
+      "block": "iron_ore",
+      "x": 10,
+      "y": 4,
+      "z": 2,
+      "station": {
+        "x": 10.5,
+        "y": 4,
+        "z": 1.5
+      },
+      "pickup": {
+        "x": 10.5,
+        "y": 4,
+        "z": 2.5
+      }
+    },
+    {
+      "nodeId": "iron_15",
+      "block": "iron_ore",
+      "x": 12,
+      "y": 4,
+      "z": 2,
+      "station": {
+        "x": 12.5,
+        "y": 4,
+        "z": 1.5
+      },
+      "pickup": {
+        "x": 12.5,
+        "y": 4,
+        "z": 2.5
+      }
+    },
+    {
+      "nodeId": "iron_16",
+      "block": "iron_ore",
+      "x": 14,
+      "y": 4,
+      "z": 2,
+      "station": {
+        "x": 14.5,
+        "y": 4,
+        "z": 1.5
+      },
+      "pickup": {
+        "x": 14.5,
+        "y": 4,
+        "z": 2.5
+      }
+    },
+    {
+      "nodeId": "iron_17",
+      "block": "iron_ore",
+      "x": 16,
+      "y": 4,
+      "z": 2,
+      "station": {
+        "x": 16.5,
+        "y": 4,
+        "z": 1.5
+      },
+      "pickup": {
+        "x": 16.5,
+        "y": 4,
+        "z": 2.5
+      }
+    },
+    {
+      "nodeId": "iron_18",
+      "block": "iron_ore",
+      "x": 18,
+      "y": 4,
+      "z": 2,
+      "station": {
+        "x": 18.5,
+        "y": 4,
+        "z": 1.5
+      },
+      "pickup": {
+        "x": 18.5,
+        "y": 4,
+        "z": 2.5
+      }
+    },
+    {
+      "nodeId": "iron_19",
+      "block": "iron_ore",
+      "x": 20,
+      "y": 4,
+      "z": 2,
+      "station": {
+        "x": 20.5,
+        "y": 4,
+        "z": 1.5
+      },
+      "pickup": {
+        "x": 20.5,
+        "y": 4,
+        "z": 2.5
+      }
+    },
+    {
+      "nodeId": "iron_20",
+      "block": "iron_ore",
+      "x": 22,
+      "y": 4,
+      "z": 2,
+      "station": {
+        "x": 22.5,
+        "y": 4,
+        "z": 1.5
+      },
+      "pickup": {
+        "x": 22.5,
+        "y": 4,
+        "z": 2.5
+      }
+    },
+    {
+      "nodeId": "gold_1",
+      "block": "gold_ore",
+      "x": 24,
+      "y": 4,
+      "z": 2,
+      "station": {
+        "x": 24.5,
+        "y": 4,
+        "z": 1.5
+      },
+      "pickup": {
+        "x": 24.5,
+        "y": 4,
+        "z": 2.5
+      }
+    },
+    {
+      "nodeId": "gold_2",
+      "block": "gold_ore",
+      "x": 26,
+      "y": 4,
+      "z": 2,
+      "station": {
+        "x": 26.5,
+        "y": 4,
+        "z": 1.5
+      },
+      "pickup": {
+        "x": 26.5,
+        "y": 4,
+        "z": 2.5
+      }
+    },
+    {
+      "nodeId": "gold_3",
+      "block": "gold_ore",
+      "x": 28,
+      "y": 4,
+      "z": 2,
+      "station": {
+        "x": 28.5,
+        "y": 4,
+        "z": 1.5
+      },
+      "pickup": {
+        "x": 28.5,
+        "y": 4,
+        "z": 2.5
+      }
+    },
+    {
+      "nodeId": "gold_4",
+      "block": "gold_ore",
+      "x": 30,
+      "y": 4,
+      "z": 2,
+      "station": {
+        "x": 30.5,
+        "y": 4,
+        "z": 1.5
+      },
+      "pickup": {
+        "x": 30.5,
+        "y": 4,
+        "z": 2.5
+      }
+    },
+    {
+      "nodeId": "gold_5",
+      "block": "gold_ore",
+      "x": 10,
+      "y": 4,
+      "z": 4,
+      "station": {
+        "x": 10.5,
+        "y": 4,
+        "z": 3.5
+      },
+      "pickup": {
+        "x": 10.5,
+        "y": 4,
+        "z": 4.5
+      }
+    },
+    {
+      "nodeId": "gold_6",
+      "block": "gold_ore",
+      "x": 12,
+      "y": 4,
+      "z": 4,
+      "station": {
+        "x": 12.5,
+        "y": 4,
+        "z": 3.5
+      },
+      "pickup": {
+        "x": 12.5,
+        "y": 4,
+        "z": 4.5
+      }
+    },
+    {
+      "nodeId": "gold_7",
+      "block": "gold_ore",
+      "x": 14,
+      "y": 4,
+      "z": 4,
+      "station": {
+        "x": 14.5,
+        "y": 4,
+        "z": 3.5
+      },
+      "pickup": {
+        "x": 14.5,
+        "y": 4,
+        "z": 4.5
+      }
+    },
+    {
+      "nodeId": "gold_8",
+      "block": "gold_ore",
+      "x": 16,
+      "y": 4,
+      "z": 4,
+      "station": {
+        "x": 16.5,
+        "y": 4,
+        "z": 3.5
+      },
+      "pickup": {
+        "x": 16.5,
+        "y": 4,
+        "z": 4.5
+      }
+    },
+    {
+      "nodeId": "gold_9",
+      "block": "gold_ore",
+      "x": 18,
+      "y": 4,
+      "z": 4,
+      "station": {
+        "x": 18.5,
+        "y": 4,
+        "z": 3.5
+      },
+      "pickup": {
+        "x": 18.5,
+        "y": 4,
+        "z": 4.5
+      }
+    },
+    {
+      "nodeId": "gold_10",
+      "block": "gold_ore",
+      "x": 20,
+      "y": 4,
+      "z": 4,
+      "station": {
+        "x": 20.5,
+        "y": 4,
+        "z": 3.5
+      },
+      "pickup": {
+        "x": 20.5,
+        "y": 4,
+        "z": 4.5
+      }
+    },
+    {
+      "nodeId": "gold_11",
+      "block": "gold_ore",
+      "x": 22,
+      "y": 4,
+      "z": 4,
+      "station": {
+        "x": 22.5,
+        "y": 4,
+        "z": 3.5
+      },
+      "pickup": {
+        "x": 22.5,
+        "y": 4,
+        "z": 4.5
+      }
+    },
+    {
+      "nodeId": "gold_12",
+      "block": "gold_ore",
+      "x": 24,
+      "y": 4,
+      "z": 4,
+      "station": {
+        "x": 24.5,
+        "y": 4,
+        "z": 3.5
+      },
+      "pickup": {
+        "x": 24.5,
+        "y": 4,
+        "z": 4.5
+      }
+    },
+    {
+      "nodeId": "gold_13",
+      "block": "gold_ore",
+      "x": 26,
+      "y": 4,
+      "z": 4,
+      "station": {
+        "x": 26.5,
+        "y": 4,
+        "z": 3.5
+      },
+      "pickup": {
+        "x": 26.5,
+        "y": 4,
+        "z": 4.5
+      }
+    },
+    {
+      "nodeId": "gold_14",
+      "block": "gold_ore",
+      "x": 28,
+      "y": 4,
+      "z": 4,
+      "station": {
+        "x": 28.5,
+        "y": 4,
+        "z": 3.5
+      },
+      "pickup": {
+        "x": 28.5,
+        "y": 4,
+        "z": 4.5
+      }
+    },
+    {
+      "nodeId": "gold_15",
+      "block": "gold_ore",
+      "x": 30,
+      "y": 4,
+      "z": 4,
+      "station": {
+        "x": 30.5,
+        "y": 4,
+        "z": 3.5
+      },
+      "pickup": {
+        "x": 30.5,
+        "y": 4,
+        "z": 4.5
+      }
+    },
+    {
+      "nodeId": "gold_16",
+      "block": "gold_ore",
+      "x": 10,
+      "y": 4,
+      "z": 6,
+      "station": {
+        "x": 10.5,
+        "y": 4,
+        "z": 5.5
+      },
+      "pickup": {
+        "x": 10.5,
+        "y": 4,
+        "z": 6.5
+      }
+    },
+    {
+      "nodeId": "gold_17",
+      "block": "gold_ore",
+      "x": 12,
+      "y": 4,
+      "z": 6,
+      "station": {
+        "x": 12.5,
+        "y": 4,
+        "z": 5.5
+      },
+      "pickup": {
+        "x": 12.5,
+        "y": 4,
+        "z": 6.5
+      }
+    },
+    {
+      "nodeId": "gold_18",
+      "block": "gold_ore",
+      "x": 14,
+      "y": 4,
+      "z": 6,
+      "station": {
+        "x": 14.5,
+        "y": 4,
+        "z": 5.5
+      },
+      "pickup": {
+        "x": 14.5,
+        "y": 4,
+        "z": 6.5
+      }
+    },
+    {
+      "nodeId": "coal_1",
+      "block": "coal_ore",
+      "x": 16,
+      "y": 4,
+      "z": 6,
+      "station": {
+        "x": 16.5,
+        "y": 4,
+        "z": 5.5
+      },
+      "pickup": {
+        "x": 16.5,
+        "y": 4,
+        "z": 6.5
+      }
+    },
+    {
+      "nodeId": "coal_2",
+      "block": "coal_ore",
+      "x": 18,
+      "y": 4,
+      "z": 6,
+      "station": {
+        "x": 18.5,
+        "y": 4,
+        "z": 5.5
+      },
+      "pickup": {
+        "x": 18.5,
+        "y": 4,
+        "z": 6.5
+      }
+    },
+    {
+      "nodeId": "coal_3",
+      "block": "coal_ore",
+      "x": 20,
+      "y": 4,
+      "z": 6,
+      "station": {
+        "x": 20.5,
+        "y": 4,
+        "z": 5.5
+      },
+      "pickup": {
+        "x": 20.5,
+        "y": 4,
+        "z": 6.5
+      }
+    },
+    {
+      "nodeId": "coal_4",
+      "block": "coal_ore",
+      "x": 22,
+      "y": 4,
+      "z": 6,
+      "station": {
+        "x": 22.5,
+        "y": 4,
+        "z": 5.5
+      },
+      "pickup": {
+        "x": 22.5,
+        "y": 4,
+        "z": 6.5
+      }
+    },
+    {
+      "nodeId": "diamond_1",
+      "block": "diamond_ore",
+      "x": 24,
+      "y": 4,
+      "z": 6,
+      "station": {
+        "x": 24.5,
+        "y": 4,
+        "z": 5.5
+      },
+      "pickup": {
+        "x": 24.5,
+        "y": 4,
+        "z": 6.5
+      }
+    },
+    {
+      "nodeId": "diamond_2",
+      "block": "diamond_ore",
+      "x": 26,
+      "y": 4,
+      "z": 6,
+      "station": {
+        "x": 26.5,
+        "y": 4,
+        "z": 5.5
+      },
+      "pickup": {
+        "x": 26.5,
+        "y": 4,
+        "z": 6.5
+      }
+    },
+    {
+      "nodeId": "redstone_1",
+      "block": "redstone_ore",
+      "x": 28,
+      "y": 4,
+      "z": 6,
+      "station": {
+        "x": 28.5,
+        "y": 4,
+        "z": 5.5
+      },
+      "pickup": {
+        "x": 28.5,
+        "y": 4,
+        "z": 6.5
+      }
+    },
+    {
+      "nodeId": "redstone_2",
+      "block": "redstone_ore",
+      "x": 30,
+      "y": 4,
+      "z": 6,
+      "station": {
+        "x": 30.5,
+        "y": 4,
+        "z": 5.5
+      },
+      "pickup": {
+        "x": 30.5,
+        "y": 4,
+        "z": 6.5
+      }
+    },
+    {
+      "nodeId": "lapis_1",
+      "block": "lapis_ore",
+      "x": 10,
+      "y": 4,
+      "z": 8,
+      "station": {
+        "x": 10.5,
+        "y": 4,
+        "z": 7.5
+      },
+      "pickup": {
+        "x": 10.5,
+        "y": 4,
+        "z": 8.5
+      }
+    },
+    {
+      "nodeId": "lapis_2",
+      "block": "lapis_ore",
+      "x": 12,
+      "y": 4,
+      "z": 8,
+      "station": {
+        "x": 12.5,
+        "y": 4,
+        "z": 7.5
+      },
+      "pickup": {
+        "x": 12.5,
+        "y": 4,
+        "z": 8.5
+      }
+    },
+    {
+      "nodeId": "sand_1",
+      "block": "sand",
+      "x": 14,
+      "y": 4,
+      "z": 8,
+      "station": {
+        "x": 14.5,
+        "y": 4,
+        "z": 7.5
+      },
+      "pickup": {
+        "x": 14.5,
+        "y": 4,
+        "z": 8.5
+      }
+    },
+    {
+      "nodeId": "sand_2",
+      "block": "sand",
+      "x": 16,
+      "y": 4,
+      "z": 8,
+      "station": {
+        "x": 16.5,
+        "y": 4,
+        "z": 7.5
+      },
+      "pickup": {
+        "x": 16.5,
+        "y": 4,
+        "z": 8.5
+      }
+    },
+    {
+      "nodeId": "sand_3",
+      "block": "sand",
+      "x": 18,
+      "y": 4,
+      "z": 8,
+      "station": {
+        "x": 18.5,
+        "y": 4,
+        "z": 7.5
+      },
+      "pickup": {
+        "x": 18.5,
+        "y": 4,
+        "z": 8.5
+      }
+    },
+    {
+      "nodeId": "sand_4",
+      "block": "sand",
+      "x": 20,
+      "y": 4,
+      "z": 8,
+      "station": {
+        "x": 20.5,
+        "y": 4,
+        "z": 7.5
+      },
+      "pickup": {
+        "x": 20.5,
+        "y": 4,
+        "z": 8.5
+      }
+    },
+    {
+      "nodeId": "gravel_1",
+      "block": "gravel",
+      "x": 22,
+      "y": 4,
+      "z": 8,
+      "station": {
+        "x": 22.5,
+        "y": 4,
+        "z": 7.5
+      },
+      "pickup": {
+        "x": 22.5,
+        "y": 4,
+        "z": 8.5
+      }
+    }
+  ],
+  "initialItems": [
+    {
+      "name": "chiseled_stone_bricks",
+      "count": 8
+    },
+    {
+      "name": "cobblestone",
+      "count": 2
+    },
+    {
+      "name": "leather",
+      "count": 8
+    },
+    {
+      "name": "paper",
+      "count": 8
+    },
+    {
+      "name": "stick",
+      "count": 2
+    },
+    {
+      "name": "string",
+      "count": 8
+    },
+    {
+      "name": "wooden_pickaxe",
+      "count": 1
+    }
+  ]
+}

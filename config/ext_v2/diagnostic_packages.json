@@ -1,0 +1,191 @@
+{
+  "packages": [
+    {
+      "enabled": true,
+      "explicit": true,
+      "goal_supplied": false,
+      "items": [
+        {
+          "count": 1,
+          "name": "blue_dye"
+        },
+        {
+          "count": 1,
+          "name": "white_carpet"
+        }
+      ],
+      "task_id": "extv2_001"
+    },
+    {
+      "enabled": true,
+      "explicit": true,
+      "goal_supplied": false,
+      "items": [
+        {
+          "count": 1,
+          "name": "blue_wool"
+        },
+        {
+          "count": 2,
+          "name": "glass"
+        }
+      ],
+      "task_id": "extv2_002"
+    },
+    {
+      "enabled": true,
+      "explicit": true,
+      "goal_supplied": false,
+      "items": [
+        {
+          "count": 1,
+          "name": "coal"
+        },
+        {
+          "count": 1,
+          "name": "raw_iron"
+        }
+      ],
+      "task_id": "extv2_003"
+    },
+    {
+      "enabled": true,
+      "explicit": true,
+      "goal_supplied": false,
+      "items": [
+        {
+          "count": 9,
+          "name": "raw_iron"
+        }
+      ],
+      "task_id": "extv2_004"
+    },
+    {
+      "enabled": false,
+      "explicit": true,
+      "goal_supplied": false,
+      "items": [],
+      "task_id": "extv2_005"
+    },
+    {
+      "enabled": false,
+      "explicit": true,
+      "goal_supplied": false,
+      "items": [],
+      "task_id": "extv2_006"
+    },
+    {
+      "enabled": true,
+      "explicit": true,
+      "goal_supplied": false,
+      "items": [
+        {
+          "count": 6,
+          "name": "oak_planks"
+        },
+        {
+          "count": 3,
+          "name": "oak_slab"
+        }
+      ],
+      "task_id": "extv2_007"
+    },
+    {
+      "enabled": true,
+      "explicit": true,
+      "goal_supplied": false,
+      "items": [
+        {
+          "count": 1,
+          "name": "crafting_table"
+        },
+        {
+          "count": 1,
+          "name": "dropper"
+        },
+        {
+          "count": 5,
+          "name": "iron_ingot"
+        },
+        {
+          "count": 2,
+          "name": "redstone"
+        }
+      ],
+      "task_id": "extv2_008"
+    },
+    {
+      "enabled": true,
+      "explicit": true,
+      "goal_supplied": false,
+      "items": [
+        {
+          "count": 1,
+          "name": "iron_ingot"
+        }
+      ],
+      "task_id": "extv2_009"
+    },
+    {
+      "enabled": true,
+      "explicit": true,
+      "goal_supplied": false,
+      "items": [
+        {
+          "count": 1,
+          "name": "chest"
+        },
+        {
+          "count": 1,
+          "name": "oak_boat"
+        }
+      ],
+      "task_id": "extv2_010"
+    },
+    {
+      "enabled": true,
+      "explicit": true,
+      "goal_supplied": false,
+      "items": [
+        {
+          "count": 1,
+          "name": "iron_ingot"
+        }
+      ],
+      "task_id": "extv2_011"
+    },
+    {
+      "enabled": true,
+      "explicit": true,
+      "goal_supplied": false,
+      "items": [
+        {
+          "count": 1,
+          "name": "iron_ingot"
+        },
+        {
+          "count": 2,
+          "name": "iron_nugget"
+        }
+      ],
+      "task_id": "extv2_012"
+    },
+    {
+      "enabled": true,
+      "explicit": true,
+      "goal_supplied": false,
+      "items": [
+        {
+          "count": 1,
+          "name": "iron_ingot"
+        },
+        {
+          "count": 2,
+          "name": "iron_nugget"
+        }
+      ],
+      "task_id": "extv2_013"
+    }
+  ],
+  "schema_version": 1
+}

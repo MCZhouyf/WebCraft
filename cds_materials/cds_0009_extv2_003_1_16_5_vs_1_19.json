@@ -1,0 +1,191 @@
+{
+  "boundary_question": [
+    {
+      "mechanism fact": "iron_ingot can be made from raw_iron at furnace.",
+      "source": "historical_archive_1.19",
+      "timestamp": "2022-07-07T00:00:00Z"
+    },
+    {
+      "mechanism fact": "gold_ingot can be made from raw_gold at furnace.",
+      "source": "historical_archive_1.19",
+      "timestamp": "2022-07-07T00:00:00Z"
+    }
+  ],
+  "comparison_world": "1.19",
+  "conditions": {
+    "K": [
+      {
+        "mechanism fact": "cobblestone drops cobblestone.",
+        "source": "truth_source_2",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "gold_ingot cannot be made from raw_gold at furnace.",
+        "source": "truth_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "stone_pickaxe can be made from cobblestone, cobblestone, cobblestone, stick, stick at crafting_grid.",
+        "source": "truth_source_3",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "iron_ingot cannot be made from raw_iron at furnace.",
+        "source": "truth_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "iron_ingot can be made from iron_ore at furnace.",
+        "source": "truth_source_2",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "iron_ore drops iron_ore.",
+        "source": "truth_source_1",
+        "timestamp": "2021-02-13T00:00:00Z"
+      }
+    ],
+    "K+N": [
+      {
+        "mechanism fact": "iron_ingot can be made from iron_ore at furnace.",
+        "source": "truth_source_2",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "cobblestone drops cobblestone.",
+        "source": "truth_source_2",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "iron_ore drops iron_ore.",
+        "source": "truth_source_1",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "gray_stained_glass_pane from gray_stained_glass.",
+        "source": "neutral_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "gold_ingot cannot be made from raw_gold at furnace.",
+        "source": "truth_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "iron_ingot cannot be made from raw_iron at furnace.",
+        "source": "truth_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "stone_pickaxe can be made from cobblestone, cobblestone, cobblestone, stick, stick at crafting_grid.",
+        "source": "truth_source_3",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "purple_glazed_terracotta from purple_terracotta.",
+        "source": "neutral_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      }
+    ],
+    "K+S": [
+      {
+        "mechanism fact": "iron_ingot cannot be made from raw_iron at furnace.",
+        "source": "truth_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "iron_ingot can be made from iron_ore at furnace.",
+        "source": "truth_source_2",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "iron_ore drops iron_ore.",
+        "source": "truth_source_1",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "gold_ingot can be made from raw_gold at furnace.",
+        "source": "historical_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "cobblestone drops cobblestone.",
+        "source": "truth_source_2",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "gold_ingot cannot be made from raw_gold at furnace.",
+        "source": "truth_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "iron_ingot can be made from raw_iron at furnace.",
+        "source": "historical_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "stone_pickaxe can be made from cobblestone, cobblestone, cobblestone, stick, stick at crafting_grid.",
+        "source": "truth_source_3",
+        "timestamp": "2021-02-13T00:00:00Z"
+      }
+    ],
+    "S": [
+      {
+        "mechanism fact": "iron_ore drops iron_ore.",
+        "source": "truth_source_1",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "iron_ingot can be made from raw_iron at furnace.",
+        "source": "historical_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "iron_ingot can be made from iron_ore at furnace.",
+        "source": "truth_source_2",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "gold_ingot can be made from raw_gold at furnace.",
+        "source": "historical_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "cobblestone drops cobblestone.",
+        "source": "truth_source_2",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "stone_pickaxe can be made from cobblestone, cobblestone, cobblestone, stick, stick at crafting_grid.",
+        "source": "truth_source_3",
+        "timestamp": "2021-02-13T00:00:00Z"
+      }
+    ],
+    "empty": [
+      {
+        "mechanism fact": "stone_pickaxe can be made from cobblestone, cobblestone, cobblestone, stick, stick at crafting_grid.",
+        "source": "truth_source_3",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "iron_ore drops iron_ore.",
+        "source": "truth_source_1",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "iron_ingot can be made from iron_ore at furnace.",
+        "source": "truth_source_2",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "cobblestone drops cobblestone.",
+        "source": "truth_source_2",
+        "timestamp": "2021-02-13T00:00:00Z"
+      }
+    ]
+  },
+  "instance_id": "cds_0009_extv2_003_1_16_5_vs_1_19",
+  "schema_version": 1,
+  "target_world": "1.16.5",
+  "task_id": "extv2_003"
+}

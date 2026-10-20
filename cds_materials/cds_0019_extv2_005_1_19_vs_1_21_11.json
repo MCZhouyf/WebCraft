@@ -1,0 +1,230 @@
+{
+  "boundary_question": [
+    {
+      "mechanism fact": "golden_spear can be made from gold_ingot, stick, stick at crafting_grid.",
+      "source": "historical_archive_1.21.11",
+      "timestamp": "2026-01-08T00:00:00Z"
+    },
+    {
+      "mechanism fact": "iron_spear can be made from iron_ingot, stick, stick at crafting_grid.",
+      "source": "historical_archive_1.21.11",
+      "timestamp": "2026-01-08T00:00:00Z"
+    },
+    {
+      "mechanism fact": "diamond_spear can be made from diamond, stick, stick at crafting_grid.",
+      "source": "historical_archive_1.21.11",
+      "timestamp": "2026-01-08T00:00:00Z"
+    },
+    {
+      "mechanism fact": "wooden_spear can be made from oak_planks, stick, stick at crafting_grid.",
+      "source": "historical_archive_1.21.11",
+      "timestamp": "2026-01-08T00:00:00Z"
+    },
+    {
+      "mechanism fact": "stone_spear can be made from cobblestone, stick, stick at crafting_grid.",
+      "source": "historical_archive_1.21.11",
+      "timestamp": "2026-01-08T00:00:00Z"
+    },
+    {
+      "mechanism fact": "stone_spear can be made from blackstone, stick, stick at crafting_grid.",
+      "source": "historical_archive_1.21.11",
+      "timestamp": "2026-01-08T00:00:00Z"
+    }
+  ],
+  "comparison_world": "1.21.11",
+  "conditions": {
+    "K": [
+      {
+        "mechanism fact": "stone_spear cannot be made from cobblestone, stick, stick at crafting_grid.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "wooden_spear cannot be made from oak_planks, stick, stick at crafting_grid.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "stone_spear cannot be made from blackstone, stick, stick at crafting_grid.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "iron_spear cannot be made from iron_ingot, stick, stick at crafting_grid.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "golden_spear cannot be made from gold_ingot, stick, stick at crafting_grid.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "diamond_spear cannot be made from diamond, stick, stick at crafting_grid.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      }
+    ],
+    "K+N": [
+      {
+        "mechanism fact": "polished_blackstone_brick_slab from polished_blackstone_bricks.        ",
+        "source": "neutral_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "diamond_spear cannot be made from diamond, stick, stick at crafting_grid.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "polished_blackstone_brick_stairs from polished_blackstone_bricks.       ",
+        "source": "neutral_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "golden_spear cannot be made from gold_ingot, stick, stick at crafting_grid.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "wooden_spear cannot be made from oak_planks, stick, stick at crafting_grid.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "stone_spear cannot be made from cobblestone, stick, stick at crafting_grid.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "detector_rail from iron_ingot, stone_pressure_plate, redstone.          ",
+        "source": "neutral_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "stone_spear cannot be made from blackstone, stick, stick at crafting_grid.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "iron_spear cannot be made from iron_ingot, stick, stick at crafting_grid.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "light_blue_stained_glass_pane from glass_pane, light_blue_dye.          ",
+        "source": "neutral_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "cracked_polished_blackstone_bricks from polished_blackstone_bricks.   ",
+        "source": "neutral_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "polished_blackstone_brick_wall from polished_blackstone_bricks.       ",
+        "source": "neutral_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      }
+    ],
+    "K+S": [
+      {
+        "mechanism fact": "iron_spear cannot be made from iron_ingot, stick, stick at crafting_grid.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "diamond_spear cannot be made from diamond, stick, stick at crafting_grid.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "stone_spear cannot be made from cobblestone, stick, stick at crafting_grid.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "wooden_spear can be made from oak_planks, stick, stick at crafting_grid.",
+        "source": "historical_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "diamond_spear can be made from diamond, stick, stick at crafting_grid.",
+        "source": "historical_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "stone_spear can be made from cobblestone, stick, stick at crafting_grid.",
+        "source": "historical_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "stone_spear can be made from blackstone, stick, stick at crafting_grid.",
+        "source": "historical_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "iron_spear can be made from iron_ingot, stick, stick at crafting_grid.",
+        "source": "historical_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "wooden_spear cannot be made from oak_planks, stick, stick at crafting_grid.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "stone_spear cannot be made from blackstone, stick, stick at crafting_grid.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "golden_spear can be made from gold_ingot, stick, stick at crafting_grid.",
+        "source": "historical_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "golden_spear cannot be made from gold_ingot, stick, stick at crafting_grid.",
+        "source": "truth_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      }
+    ],
+    "S": [
+      {
+        "mechanism fact": "iron_spear can be made from iron_ingot, stick, stick at crafting_grid.",
+        "source": "historical_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "stone_spear can be made from blackstone, stick, stick at crafting_grid.",
+        "source": "historical_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "wooden_spear can be made from oak_planks, stick, stick at crafting_grid.",
+        "source": "historical_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "golden_spear can be made from gold_ingot, stick, stick at crafting_grid.",
+        "source": "historical_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "stone_spear can be made from cobblestone, stick, stick at crafting_grid.",
+        "source": "historical_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      },
+      {
+        "mechanism fact": "diamond_spear can be made from diamond, stick, stick at crafting_grid.",
+        "source": "historical_archive_1.21.11",
+        "timestamp": "2026-01-08T00:00:00Z"
+      }
+    ],
+    "empty": []
+  },
+  "instance_id": "cds_0019_extv2_005_1_19_vs_1_21_11",
+  "schema_version": 1,
+  "target_world": "1.19",
+  "task_id": "extv2_005"
+}

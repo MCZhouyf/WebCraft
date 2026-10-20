@@ -1,0 +1,115 @@
+Activator Rail
+Blast Furnace
+Block of Coal
+Block of Diamond
+Block of Gold
+Block of Iron
+Block of Lapis Lazuli
+Block of Raw Gold
+Block of Raw Iron
+Block of Redstone
+Blue Carpet
+Blue Dye
+Blue Harness
+Blue wool
+Boat with Chest
+Book
+Bucket
+Bundle
+Cauldron
+Chain
+Chest
+Chiseled Bookshelf
+Chiseled stone bricks
+Clock
+Coal
+Coal Ore
+Cobbled Deepslate
+Cobblestone
+Cobblestone Slab
+Cobblestone Stairs
+Cobblestone wall
+Compass
+Copper Ingot
+Copper Pickaxe
+Cracked stone bricks
+Crafter
+Crafting Table
+Diamond
+Diamond Ore
+Diamond Spear
+Dropper
+Furnace
+Glass
+Glass Bottle
+Gold Ingot
+Gold Nugget
+Gold Ore
+Golden axe
+Golden boots
+Golden chestplate
+Golden helmet
+Golden Hoe
+Golden leggings
+Golden Pickaxe
+Golden Shovel
+Golden Spear
+Golden sword
+Hopper
+Iron axe
+Iron boots
+Iron Chain
+Iron chestplate
+Iron helmet
+Iron Hoe
+Iron Ingot
+Iron leggings
+Iron Nugget
+Iron Ore
+Iron pickaxe
+Iron Shovel
+Iron Spear
+Iron Sword
+Lapis Lazuli
+Lapis Lazuli Ore
+Lead
+Leather
+Leather boots
+Leather Chestplate
+Leather helmet
+Leather Horse Armor
+Lodestone
+Minecart
+Minecart with Chest
+Minecart with Furnace
+Minecart with Hopper
+Name Tag
+Netherite Ingot
+Oak boat
+Oak log
+Oak planks
+Oak slab
+Paper
+Raw Gold
+Raw Iron
+Redstone
+Redstone Ore
+Redstone Torch
+Saddle
+Sand
+Scute
+Smooth Stone
+Stick
+Stone
+Stone brick slab
+Stone Bricks
+Stone pickaxe
+Stone Spear
+String
+Turtle Scute
+White Carpet
+White Harness
+White wool
+Wood
+Wooden pickaxe
+Wooden Spear

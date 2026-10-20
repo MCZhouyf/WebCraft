@@ -1,0 +1,63 @@
+{
+  "not_part_of_core42": true,
+  "packages": [
+    {
+      "goal_supplied": false,
+      "independent_mechanism_id": "recipe:iron_ingot",
+      "items": [
+        {
+          "count": 1,
+          "name": "coal"
+        },
+        {
+          "count": 1,
+          "name": "raw_iron"
+        }
+      ],
+      "task_id": "ext_iron_ingot"
+    },
+    {
+      "goal_supplied": false,
+      "independent_mechanism_id": "recipe:gold_ingot",
+      "items": [
+        {
+          "count": 1,
+          "name": "coal"
+        },
+        {
+          "count": 1,
+          "name": "iron_pickaxe"
+        },
+        {
+          "count": 1,
+          "name": "raw_gold"
+        }
+      ],
+      "task_id": "ext_gold_ingot"
+    },
+    {
+      "goal_supplied": false,
+      "independent_mechanism_id": "recipe:raw_iron_block",
+      "items": [
+        {
+          "count": 9,
+          "name": "raw_iron"
+        }
+      ],
+      "task_id": "ext_raw_iron_block"
+    },
+    {
+      "goal_supplied": false,
+      "independent_mechanism_id": "recipe:raw_gold_block",
+      "items": [
+        {
+          "count": 9,
+          "name": "raw_gold"
+        }
+      ],
+      "task_id": "ext_raw_gold_block"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "post_review_ext_only"
+}

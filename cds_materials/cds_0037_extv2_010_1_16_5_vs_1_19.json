@@ -1,0 +1,55 @@
+{
+  "boundary_question": [
+    {
+      "mechanism fact": "oak_chest_boat can be made from chest, oak_boat at crafting_grid.",
+      "source": "historical_archive_1.19",
+      "timestamp": "2022-07-07T00:00:00Z"
+    }
+  ],
+  "comparison_world": "1.19",
+  "conditions": {
+    "K": [
+      {
+        "mechanism fact": "oak_chest_boat cannot be made from chest, oak_boat at crafting_grid.",
+        "source": "truth_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      }
+    ],
+    "K+N": [
+      {
+        "mechanism fact": "polished_blackstone_brick_stairs from polished_blackstone_bricks.",
+        "source": "neutral_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      },
+      {
+        "mechanism fact": "oak_chest_boat cannot be made from chest, oak_boat at crafting_grid.",
+        "source": "truth_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      }
+    ],
+    "K+S": [
+      {
+        "mechanism fact": "oak_chest_boat cannot be made from chest, oak_boat at crafting_grid.",
+        "source": "truth_archive_1.16.5",
+        "timestamp": "2021-02-13T00:00:00Z"
+      },
+      {
+        "mechanism fact": "oak_chest_boat can be made from chest, oak_boat at crafting_grid.",
+        "source": "historical_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      }
+    ],
+    "S": [
+      {
+        "mechanism fact": "oak_chest_boat can be made from chest, oak_boat at crafting_grid.",
+        "source": "historical_archive_1.19",
+        "timestamp": "2022-07-07T00:00:00Z"
+      }
+    ],
+    "empty": []
+  },
+  "instance_id": "cds_0037_extv2_010_1_16_5_vs_1_19",
+  "schema_version": 1,
+  "target_world": "1.16.5",
+  "task_id": "extv2_010"
+}

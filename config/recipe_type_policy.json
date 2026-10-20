@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "status": "FROZEN_BEFORE_METHOD_RESULTS",
+  "frozen_at": "2026-10-04",
+  "executable_recipe_types": [
+    "crafting_shaped",
+    "crafting_shapeless",
+    "smelting"
+  ],
+  "grade_outside_executable_set": "C",
+  "reason_codes": {
+    "non_grid_recipe_type": [
+      "crafting_transmute",
+      "crafting_special_*",
+      "smithing"
+    ],
+    "unsupported_semantic_interface": [
+      "blasting",
+      "smoking",
+      "campfire_cooking",
+      "stonecutting",
+      "smithing_transform",
+      "smithing_trim"
+    ]
+  },
+  "retention": "Keep every assertion in the conflict pool.",
+  "interface_policy": "No semantic interface or arena change. Unsupported types remain in the conflict pool as grade C."
+}

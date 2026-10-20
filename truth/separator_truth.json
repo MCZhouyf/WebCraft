@@ -1,0 +1,263 @@
+{
+  "source": "normalized server JAR truth",
+  "versions": {
+    "1.16.5": [
+      {
+        "id": 1,
+        "probe": "iron_ore_drops_raw_iron_without_silk",
+        "jar": false,
+        "expected": false,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 2,
+        "probe": "cobbled_deepslate_stone_pickaxe",
+        "jar": false,
+        "expected": false,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 3,
+        "probe": "name_scute_exists",
+        "jar": true,
+        "expected": true,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 4,
+        "probe": "name_turtle_scute_exists",
+        "jar": false,
+        "expected": false,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 5,
+        "probe": "string_leather_bundle",
+        "jar": false,
+        "expected": false,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 6,
+        "probe": "iron_lodestone",
+        "jar": false,
+        "expected": false,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 7,
+        "probe": "netherite_lodestone",
+        "jar": true,
+        "expected": true,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 8,
+        "probe": "leather_iron_saddle",
+        "jar": false,
+        "expected": false,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 9,
+        "probe": "copper_pickaxe",
+        "jar": false,
+        "expected": false,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 10,
+        "probe": "name_chain_exists",
+        "jar": true,
+        "expected": true,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 11,
+        "probe": "name_iron_chain_exists",
+        "jar": false,
+        "expected": false,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 12,
+        "probe": "paper_iron_nugget_name_tag",
+        "jar": false,
+        "expected": false,
+        "jar_matches_expected": true
+      }
+    ],
+    "1.19": [
+      {
+        "id": 1,
+        "probe": "iron_ore_drops_raw_iron_without_silk",
+        "jar": true,
+        "expected": true,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 2,
+        "probe": "cobbled_deepslate_stone_pickaxe",
+        "jar": true,
+        "expected": true,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 3,
+        "probe": "name_scute_exists",
+        "jar": true,
+        "expected": true,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 4,
+        "probe": "name_turtle_scute_exists",
+        "jar": false,
+        "expected": false,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 5,
+        "probe": "string_leather_bundle",
+        "jar": false,
+        "expected": false,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 6,
+        "probe": "iron_lodestone",
+        "jar": false,
+        "expected": false,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 7,
+        "probe": "netherite_lodestone",
+        "jar": true,
+        "expected": true,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 8,
+        "probe": "leather_iron_saddle",
+        "jar": false,
+        "expected": false,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 9,
+        "probe": "copper_pickaxe",
+        "jar": false,
+        "expected": false,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 10,
+        "probe": "name_chain_exists",
+        "jar": true,
+        "expected": true,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 11,
+        "probe": "name_iron_chain_exists",
+        "jar": false,
+        "expected": false,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 12,
+        "probe": "paper_iron_nugget_name_tag",
+        "jar": false,
+        "expected": false,
+        "jar_matches_expected": true
+      }
+    ],
+    "1.21.11": [
+      {
+        "id": 1,
+        "probe": "iron_ore_drops_raw_iron_without_silk",
+        "jar": true,
+        "expected": true,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 2,
+        "probe": "cobbled_deepslate_stone_pickaxe",
+        "jar": true,
+        "expected": true,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 3,
+        "probe": "name_scute_exists",
+        "jar": false,
+        "expected": false,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 4,
+        "probe": "name_turtle_scute_exists",
+        "jar": true,
+        "expected": true,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 5,
+        "probe": "string_leather_bundle",
+        "jar": true,
+        "expected": true,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 6,
+        "probe": "iron_lodestone",
+        "jar": true,
+        "expected": true,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 7,
+        "probe": "netherite_lodestone",
+        "jar": false,
+        "expected": false,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 8,
+        "probe": "leather_iron_saddle",
+        "jar": true,
+        "expected": true,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 9,
+        "probe": "copper_pickaxe",
+        "jar": true,
+        "expected": true,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 10,
+        "probe": "name_chain_exists",
+        "jar": false,
+        "expected": false,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 11,
+        "probe": "name_iron_chain_exists",
+        "jar": true,
+        "expected": true,
+        "jar_matches_expected": true
+      },
+      {
+        "id": 12,
+        "probe": "paper_iron_nugget_name_tag",
+        "jar": false,
+        "expected": false,
+        "jar_matches_expected": true
+      }
+    ]
+  }
+}
